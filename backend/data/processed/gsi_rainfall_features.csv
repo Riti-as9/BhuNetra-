@@ -1,0 +1,1031 @@
+Sl.No,Slide_No,State,District,Slide_Name,Latitude,Longitude,event_date,elevation,slope,aspect,rainfall_24h,rainfall_3d,rainfall_7d,rainfall_source,rainfall_source_type,rainfall_status
+8,ASM/HLKD/83D10/2016/58,Assam,Hailakandi,Terracherra Slide,24.478972,92.682861,2016-05-17,65.0,12.9203,188.9207,27.2,41.3,86.5,Open-Meteo historical weather,reanalysis,available
+14,ASM/HLKD/83D10/2016/59,Assam,Hailakandi,Lalcherra Slide (Rabinala),24.511306,92.693028,2016-05-18,45.0,4.4361,200.1203,24.1,57.3,110.3,Open-Meteo historical weather,reanalysis,available
+15,ASM/HLKD/83D10/2016/60,Assam,Hailakandi,Ramchandi (Koyabasti),24.515944,92.540889,2016-05-18,57.0,14.1141,317.7624,24.8,71.1,125.9,Open-Meteo historical weather,reanalysis,available
+25,AS/CAC/83D10/2009-10/AS-1,Assam,Cachar,Palgana slide,24.57025,92.685,2010-04-02,49.0,5.8806,231.0479,4.7,156.0,314.0,Open-Meteo historical weather,reanalysis,available
+30,ASM/CCR/83H2/2016/66,Assam,Cachar,Khasiapunji slide,24.645417,93.005361,2016-08-31,359.0,30.8001,237.5669,10.3,21.4,53.1,Open-Meteo historical weather,reanalysis,available
+31,ASM/KRGJ/83D06/2016/61,Assam,Karimganj,Rakhalbasti,24.659389,92.497361,2016-05-18,33.0,4.6844,299.5967,42.8,121.4,192.6,Open-Meteo historical weather,reanalysis,available
+34,ASM/HLK/83D10/2020/004,Assam,Hailakandi,Mohanpur Grant Slide 2,24.70656,92.65008,2020-06-02,49.0,3.1728,151.1724,21.7,42.2,217.3,Open-Meteo historical weather,reanalysis,available
+35,AS/KAR/83D06/2009-10/AS-2,Assam,Karimganj,Rongpur slide,24.710833,92.481167,2010-06-03,48.0,17.4927,288.7249,5.9,34.8,158.9,Open-Meteo historical weather,reanalysis,available
+36,ASM/CHR/83D14/2020/0002,Assam,Cachar,Govindnagar Slide,24.72192,92.90381,2020-06-05,39.0,10.0258,169.8395,3.9,33.0,71.1,Open-Meteo historical weather,reanalysis,available
+37,ASM/HLK/83D10/2020/005,Assam,Hailakandi,Mohanpur Grant Slide 3,24.73117,92.64739,2020-06-02,39.0,11.2246,322.6847,21.7,42.2,217.3,Open-Meteo historical weather,reanalysis,available
+38,ASM/KGJ/83D05/2020/0008,Assam,Karimganj,Karimpur Slide 2,24.78002778,92.45372222,2020-06-02,44.0,14.2809,152.9161,35.3,54.9,217.8,Open-Meteo historical weather,reanalysis,available
+40,ASM/HLK/83D09/2020/006,Assam,Hailakandi,Chandipur Grant Slide,24.79489,92.55506,2020-06-02,45.0,8.5247,340.9041,31.2,51.6,236.8,Open-Meteo historical weather,reanalysis,available
+43,ASM/CHR/83H01/2020/001,Assam,Cachar,Kanakpur Slide,24.92097,93.07306,2020-06-02,61.0,15.338,73.7196,58.1,81.4,298.5,Open-Meteo historical weather,reanalysis,available
+132,AS/NC/83C16/2009-10/AS-4,Assam,Dima Hasao,Mailongdisa-Harangajao slide,25.121,92.915028,2010-06-20,306.0,16.4388,166.8657,69.8,101.9,152.8,Open-Meteo historical weather,reanalysis,available
+137,AS/NC/83C16/2009-10/AS-5,Assam,Dima Hasao,Mailongdisa-Harangajao-2 slide,25.124306,92.904278,2010-04-02,283.0,22.3617,130.4858,8.7,153.3,287.1,Open-Meteo historical weather,reanalysis,available
+138,AS/NC/83C16/2009-10/AS-3,Assam,Dima Hasao,Jatinga-Longrangajao slide,25.124583,92.989111,2010-06-16,526.0,19.4671,185.0784,11.2,49.8,93.5,Open-Meteo historical weather,reanalysis,available
+163,AS/DH/83C16/2018/002,Assam,Dima Hasao,Jatinga Lampur landslide.,25.146306,93.942167,2018-06-14,1287.0,16.3889,220.8163,22.8,214.1,308.5,Open-Meteo historical weather,reanalysis,available
+242,AS/DH/83G04/2018/003,Assam,Dima Hasao,Phiding slide,25.224278,93.222861,2018-06-14,619.0,9.7437,261.8709,59.4,281.9,325.6,Open-Meteo historical weather,reanalysis,available
+243,AS/NC/83G04/2009-10/AS-6,Assam,Dima Hasao,Mahur-Wadringdisa slide,25.229556,93.1556,2010-04-02,466.0,17.3363,138.7577,2.2,14.8,90.5,Open-Meteo historical weather,reanalysis,available
+452,AS/DH/83G04/2018/004,Assam,Dima Hasao,Dautohaja Tunnel No. 3 slide.,26.098167,91.881278,2018-06-14,83.0,5.7363,260.7266,10.3,27.1,48.1,Open-Meteo historical weather,reanalysis,available
+469,AS/DH/83C16/2018/001,Assam,Dima Hasao,Bandarkhal landslide.,26.11,94.76,2018-06-14,1005.0,23.4149,0.5963,16.9,119.3,233.1,Open-Meteo historical weather,reanalysis,available
+474,AS/KRP/78N16/2018/001,Assam,Kamrup,Shankardev Nagar slide,26.112667,91.853889,2018-08-24,188.0,25.465,291.9569,25.0,43.0,102.4,Open-Meteo historical weather,reanalysis,available
+490,ASM/KMP/78N16/2017/03,Assam,Kamrup (Metro),Anandapur-Gangapur slide,26.15428,91.79264,2017-06-13,78.0,7.8639,251.1977,30.0,118.7,123.4,Open-Meteo historical weather,reanalysis,available
+503,ASM/KMP/78N16/2017/05,Assam,Kamrup (Metro),Dakshin Saraniya-1,26.17672,91.76525,2017-06-13,87.0,18.7213,286.6543,30.0,118.7,123.4,Open-Meteo historical weather,reanalysis,available
+504,ASM/KMP/78N16/2017/0004,Assam,Kamrup (Metro),Dakshin Saraniya-2,26.17756,91.76589,2017-06-13,96.0,18.4368,260.92,30.0,118.7,123.4,Open-Meteo historical weather,reanalysis,available
+506,ASM/KMP/78N16/2017/06,Assam,Kamrup (Metro),Bonda-Hajongdisa slide,26.18842,91.85125,2017-06-16,96.0,28.307,159.9215,43.9,69.0,186.1,Open-Meteo historical weather,reanalysis,available
+513,ASM/KAM/78N16/2017/08,Assam,Kamrup (Metro),Bonda colony slide no. 2,26.19081,91.84528,2017-07-04,67.0,21.1665,312.794,35.9,138.1,245.7,Open-Meteo historical weather,reanalysis,available
+517,AS/KRP/78N16/2018/003,Assam,Kamrup,Hastinapur landslide,26.195306,91.765639,2018-08-24,85.0,7.0174,126.2843,20.9,74.4,121.7,Open-Meteo historical weather,reanalysis,available
+519,AS/KAM/78N16/2014/05,Assam,Kamrup (Metro),Karghuli,26.19622,91.76336,2011-03-23,90.0,4.1275,90.0,0.2,0.9,64.4,Open-Meteo historical weather,reanalysis,available
+522,ASM/KAM/78N16/2017/09,Assam,Kamrup (Metro),Panikhaiti–Bongaon slide,26.20536,91.86497,2017-07-03,69.0,15.8468,297.144,71.1,147.9,218.8,Open-Meteo historical weather,reanalysis,available
+548,ASM/KAM/78N16/2017/07,Assam,Kamrup (Metro),Bonda colony slide no. 1,26.37456,91.84561,2017-07-04,61.0,3.4033,17.688,31.6,119.4,246.0,Open-Meteo historical weather,reanalysis,available
+614,AS/KAM(M)/76N16/2024/2,Assam,Kamrup (Metro),Garo Basti Slide,26.11464,91.83886,2024-07-05,175.0,17.355,328.7227,20.7,67.9,240.7,Open-Meteo historical weather,reanalysis,available
+615,AS/K(M)/76N16/2024/01,Assam,Kamrup (Metro),Rudra Nagar Slide,26.19044,91.77502,2024-05-24,109.0,10.4985,209.1269,2.5,3.6,47.4,Open-Meteo historical weather,reanalysis,available
+623,ASM/DH/83G04/2022-23/014,Assam,Dima Hasao,South Bagetar Slide 1,25.16736,93.00953,2022-05-15,630.0,18.2765,186.9989,8.3,62.5,121.0,Open-Meteo historical weather,reanalysis,available
+624,ASM/DH/83G04/2022-23/017,Assam,Dima Hasao,Kana Basti Slide 2,25.16023,93.01084,2022-05-14,591.0,20.4192,247.6368,35.3,63.1,115.7,Open-Meteo historical weather,reanalysis,available
+632,ASM/DH/83G04/2022-23/015,Assam,Dima Hasao,South Bagetar Slide 2,25.16579,93.00948,2022-05-14,581.0,17.0167,222.2261,35.3,63.1,115.7,Open-Meteo historical weather,reanalysis,available
+633,ASM/DH/83G04/2022-23/016,Assam,Dima Hasao,Kana Basti Slide 1,25.15859,93.01292,2022-05-14,586.0,18.1225,250.4967,35.3,63.1,115.7,Open-Meteo historical weather,reanalysis,available
+634,AS/KAMRUP(M)/78N16/2014-,Assam,Kamrup (Metro),"Dakhingaon, slide.",26.13441667,91.74875,2014-09-22,107.0,7.2608,157.0956,58.2,143.6,184.9,Open-Meteo historical weather,reanalysis,available
+636,AS/KAMRUP(M)/78N16/2014-,Assam,Kamrup (Metro),Ganeshpur-Lalmati Slide,26.10711111,91.78916667,2014-09-23,68.0,15.3732,90.8434,26.9,92.3,209.8,Open-Meteo historical weather,reanalysis,available
+640,ASM/DH/83G04/2022-23/027,Assam,Dima Hasao,Mahadev Tilla Slide 1,25.15556,93.021583,2022-05-14,610.0,10.5355,242.8087,35.3,63.1,115.7,Open-Meteo historical weather,reanalysis,available
+642,ASM/DH/83G04/2022-23/026,Assam,Dima Hasao,Lower Songpijang Slide 1,25.158138,93.024778,2022-05-15,543.0,7.4763,98.8699,8.3,62.5,121.0,Open-Meteo historical weather,reanalysis,available
+643,ASM/DH/83G4/ PD/2016/55,Assam,Dima Hasao (N.C. Hills),Nutan Lampur slide -1,25.24194444,93.14319444,2016-05-22,624.0,23.2591,54.2849,3.0,89.6,151.9,Open-Meteo historical weather,reanalysis,available
+644,ASM/DH/83G4/ PD/2016/04,Assam,Dima Hasao (N.C. Hills),Mupa – Langting RF Rock slide,25.41733333,93.12908333,2016-05-22,387.0,3.0498,292.3205,1.9,79.1,121.6,Open-Meteo historical weather,reanalysis,available
+647,ASM/DH/83G04/2022-23/025,Assam,Dima Hasao,Tularam Raji Slide 2,25.16804,93.02503,2022-05-14,485.0,21.7259,92.9108,35.3,63.1,115.7,Open-Meteo historical weather,reanalysis,available
+649,ASM/DH/83G04/2022-23/044,Assam,Dima Hasao,Tularam Raji Slide 3,25.168083,93.024922,2022-05-14,485.0,21.7259,92.9108,35.3,63.1,115.7,Open-Meteo historical weather,reanalysis,available
+650,ASM/DH/83G4/ PD/2016/56,Assam,Dima Hasao (N.C. Hills),Nutan Lampur slide -2,25.27480556,93.14555556,2016-05-22,497.0,12.6666,197.3791,3.0,89.6,151.9,Open-Meteo historical weather,reanalysis,available
+651,ASM/DH/83G4/ PD/2016/53,Assam,Dima Hasao (N.C. Hills),Mahur railway station slide,25.18955556,93.09641667,2016-05-22,535.0,23.6625,171.1938,3.0,105.8,214.3,Open-Meteo historical weather,reanalysis,available
+654,ASM/KAMRUP(M)/78N16/2016-,Assam,Kamrup (Metro),Piyali Phukan Nagar Slide,26.19552778,91.78055556,2016-06-22,165.0,19.0449,143.9894,9.8,19.0,122.6,Open-Meteo historical weather,reanalysis,available
+655,ASM/DH/83G04/2022-23/032,Assam,Dima Hasao,Moulhoi Slide 3,25.17483,93.019861,2022-05-15,650.0,30.4951,84.0837,8.3,62.5,121.0,Open-Meteo historical weather,reanalysis,available
+656,ASM/DH/83G04/2022-23/033,Assam,Dima Hasao,Mahadev Tilla slide 2,25.1568056,93.019722,2022-05-13,638.0,25.3764,158.4315,18.9,68.0,89.6,Open-Meteo historical weather,reanalysis,available
+666,ASM/DH/83G04/2022-23/047,Assam,Dima Hasao,Natun Basti Slide 5,25.162667,93.009806,2022-05-14,570.0,20.9694,291.0402,35.3,63.1,115.7,Open-Meteo historical weather,reanalysis,available
+668,ASM/DH/83G4/ PD/2016 /01,Assam,Dima Hasao (N.C. Hills),Migrendisa slide,25.17986111,93.07077778,2016-05-17,512.0,5.5565,128.6077,13.2,40.7,120.0,Open-Meteo historical weather,reanalysis,available
+669,ASM/DH/83G4/PD/2016/02,Assam,Dima Hasao (N.C. Hills),New Haflong R. S slide(1),25.14677778,93.03097222,2016-05-17,483.0,22.3591,81.5134,13.2,40.7,120.0,Open-Meteo historical weather,reanalysis,available
+670,ASM/DH/83G4/ PD/2016/25,Assam,Dima Hasao,Mahadev Tila slide-2,25.15561111,93.02222222,2016-05-17,617.0,16.3853,318.0067,13.2,40.7,120.0,Open-Meteo historical weather,reanalysis,available
+671,ASM/DH/83G4/PD/2016/26,Assam,Dima Hasao,Haflong-Jatinga road section slide-01,25.15658333,93.01961111,2016-05-22,624.0,24.0655,175.4062,3.0,105.8,214.3,Open-Meteo historical weather,reanalysis,available
+672,ASM/DH/83G4/ PD/2016/29,Assam,Dima Hasao (N.C. Hills),Haflong-Jatinga road section slide-04,25.15713889,93.01719444,2016-05-27,651.0,33.8461,190.3705,3.0,18.0,119.4,Open-Meteo historical weather,reanalysis,available
+673,ASM/DH/83G4/ PD/2016/42,Assam,Dima Hasao (N.C. Hills),96 km Migrendisa slide,25.164,93.04019444,2016-05-22,450.0,17.3562,163.3738,3.0,105.8,214.3,Open-Meteo historical weather,reanalysis,available
+683,ASM/DH/83G4/PD/2016/43,Assam,Dima Hasao (N.C. Hills),New Haflong R.S. slide - (2),25.14872222,93.03191667,2016-05-17,451.0,27.6762,143.367,13.2,40.7,120.0,Open-Meteo historical weather,reanalysis,available
+684,ASM/DH/83G4/PD/2016/44,Assam,Dima Hasao (N.C. Hills),New Haflong R. S slide(3),25.14525,93.02916667,2016-05-17,542.0,29.259,98.3068,13.2,40.7,120.0,Open-Meteo historical weather,reanalysis,available
+685,ASM/DH/83G4/ PD/2016/24,Assam,Dima Hasao,Mahadev Tilla-1,25.15572222,93.02277778,2016-05-22,613.0,24.7827,2.2199,3.0,105.8,214.3,Open-Meteo historical weather,reanalysis,available
+694,ASM/DH/83G4/ PD/2016/07,Assam,Dima Hasao (N.C. Hills),Haflong – Gunjung slide-1,25.20552778,93.02013889,2016-05-22,346.0,17.385,210.0005,3.0,105.8,214.3,Open-Meteo historical weather,reanalysis,available
+700,AS/K(M)/76N16/2024/01,Assam,Kamrup (Metro),Rudra Nagar Slide,26.19052,91.77499,2024-05-24,109.0,10.4985,209.1269,2.5,3.6,47.4,Open-Meteo historical weather,reanalysis,available
+701,ASM/DH/83G4/ PD/2016/30,Assam,Dima Hasao,Gadhi Rojai Slide,25.15933333,93.017,2016-05-22,685.0,6.2113,35.1097,3.0,105.8,214.3,Open-Meteo historical weather,reanalysis,available
+705,ASM/DH/83G4/ PD/2016/28,Assam,Dima Hasao,Haflong-Jatinga road section slide-03,25.15736111,93.01608333,2016-05-22,641.0,27.0184,200.5313,3.0,105.8,214.3,Open-Meteo historical weather,reanalysis,available
+707,ASM/DH/83G4/ PD/2016/40,Assam,Dima Hasao (N.C. Hills),Lungkok slide (Haflong – Gunjung road,25.19669444,93.01858333,2016-05-22,453.0,23.4743,47.8596,3.0,105.8,214.3,Open-Meteo historical weather,reanalysis,available
+708,ASM/DH/83G4/ PD/2016/41,Assam,Dima Hasao (N.C. Hills),Lower Haflong slide (Haflong –,25.18844444,93.01966667,2016-05-22,522.0,26.4762,57.5696,3.0,105.8,214.3,Open-Meteo historical weather,reanalysis,available
+710,ASM/DH/83G4/ PD/2016/10,Assam,Dima Hasao,N.D Raji.-1,25.17597222,93.02016667,2016-05-22,590.0,28.4589,74.8515,3.0,105.8,214.3,Open-Meteo historical weather,reanalysis,available
+711,ASM/DH/83G4/ PD/2016/11,Assam,Dima Hasao,N.D Raji (Hamar)-2,25.17505556,93.02041667,2016-05-22,574.0,25.3901,92.9325,3.0,105.8,214.3,Open-Meteo historical weather,reanalysis,available
+712,ASM/DH/83G4/ PD/2016/12,Assam,Dima Hasao,"Huonveng, N.D Raji-3",25.17188889,93.02061111,2016-05-22,575.0,44.6572,74.5607,3.0,105.8,214.3,Open-Meteo historical weather,reanalysis,available
+713,ASM/DH/83G4/ PD/2016/13,Assam,Dima Hasao,Songpiang-1,25.16563889,93.02544444,2016-05-22,516.0,13.009,62.9072,3.0,105.8,214.3,Open-Meteo historical weather,reanalysis,available
+714,ASM/DH/83G4/ PD/2016/14,Assam,Dima Hasao,Songpiang-2,25.16344444,93.02316667,2016-05-22,557.0,19.5501,95.8871,3.0,105.8,214.3,Open-Meteo historical weather,reanalysis,available
+716,ASM/DH/83G4/ PD/2016/16,Assam,Dima Hasao,"Vidya Mandir, Boro Haflong-2",25.14586111,93.02419444,2016-05-22,704.0,18.3872,95.5893,3.0,105.8,214.3,Open-Meteo historical weather,reanalysis,available
+717,ASM/DH/83G4/ PD/2016/17,Assam,Dima Hasao,"Near and below Assam rifles camp,",25.14041667,93.02038889,2016-05-22,732.0,27.2772,146.2985,3.0,105.8,214.3,Open-Meteo historical weather,reanalysis,available
+718,ASM/DH/83G4/ PD/2016/18,Assam,Dima Hasao,Jatinga-Haflong Road section-1.,25.13961111,93.01955556,2016-05-22,741.0,21.1999,104.5017,3.0,105.8,214.3,Open-Meteo historical weather,reanalysis,available
+722,ASM/DH/83G4/ PD/2016/23,Assam,Dima Hasao,Mahur,25.17638889,93.11613889,2016-05-22,564.0,15.4525,17.9,3.0,105.8,214.3,Open-Meteo historical weather,reanalysis,available
+724,ASM/DH/83G4/ PD/2016/08,Assam,Dima Hasao,Khongsai slide- 2,25.17691667,93.02655556,2016-05-22,452.0,23.3794,159.4092,3.0,105.8,214.3,Open-Meteo historical weather,reanalysis,available
+725,ASM/DH/83G4/ PD/2016/09,Assam,Dima Hasao,Muolhoi /Gilgal,25.17702778,93.02088889,2016-05-22,571.0,10.2271,122.5713,3.0,105.8,214.3,Open-Meteo historical weather,reanalysis,available
+727,ASM/DH/83G4/ PD/2016/19,Assam,Dima Hasao,Jatinga-2,25.13447222,93.01897222,2016-05-22,757.0,13.5649,114.792,3.0,105.8,214.3,Open-Meteo historical weather,reanalysis,available
+728,ASM/KAM,Assam,Kamrup (Metro),"Bonda, Hajongdisa slide",26.18841667,91.85125,2017-06-16,96.0,28.307,159.9215,43.9,69.0,186.1,Open-Meteo historical weather,reanalysis,available
+729,ASM/KAM(M)/78N16/2016/63,Assam,Kamrup (Metro),Mandakini slide,26.19244444,91.76422222,2016-07-20,101.0,14.1744,90.0,15.9,51.8,157.7,Open-Meteo historical weather,reanalysis,available
+731,ASM/KAM/78N12/2019/04,Assam,Kamrup (Metro),Bezbaruah Nagar slide,26.15805556,91.71258333,2019-07-16,85.0,18.6097,339.6266,1.8,94.5,196.0,Open-Meteo historical weather,reanalysis,available
+732,ASM/West Sarania/78N16/2016-,Assam,Kamrup (Metro),West Sarania slide (Guwahati),26.1755,91.76175,2016-07-14,62.0,5.324,177.2264,10.4,29.3,133.7,Open-Meteo historical weather,reanalysis,available
+733,ASM/ Nijabara/78N16/2016-,Assam,Kamrup (Metro),Nijabara slide (Guwahati),26.19038889,91.80994444,2016-07-14,94.0,20.4432,357.226,10.4,29.3,133.7,Open-Meteo historical weather,reanalysis,available
+734,AS/KAMRUP(M)/78N16/2014-,Assam,Kamrup (Metro),"Nabragraha Slide, Bapuji Nagar",26.18866667,91.76694444,2014-06-27,111.0,10.4295,210.9663,7.0,40.5,168.1,Open-Meteo historical weather,reanalysis,available
+736,AS/KAMRUP(M)/78N16/2014-,Assam,Kamrup (Metro),"Karghuli Landslide, Bankuwar Nagar,",26.19622222,91.76336111,2014-06-27,90.0,4.1275,90.0,7.0,40.5,168.1,Open-Meteo historical weather,reanalysis,available
+759,AS/KAM/76N16/2024/1,Assam,Kamrup (Metro),Garo Basti Slide,26.11464,91.83886,2024-07-05,175.0,17.355,328.7227,20.7,67.9,240.7,Open-Meteo historical weather,reanalysis,available
+761,ASM/KAM,Assam,Kamrup (Metro),Dakshin Saraniya-2,26.17755556,91.76588889,2017-06-13,96.0,18.4368,260.92,30.0,118.7,123.4,Open-Meteo historical weather,reanalysis,available
+763,ASM/KAM,Assam,Kamrup (Metro),Anandapur-Gangapur slide,26.15427778,91.79263889,2017-06-13,78.0,7.8639,251.1977,30.0,118.7,123.4,Open-Meteo historical weather,reanalysis,available
+764,AS/KAMRUP (M)/78N16/2014-,Assam,Kamrup (Metro),Udayachal Slide.,26.15477778,91.77411111,2014-06-27,105.0,11.8299,14.9694,7.0,40.5,168.1,Open-Meteo historical weather,reanalysis,available
+765,AS/KAMRUP(M)/78N16/2014-,Assam,Kamrup (Metro),"Bamunimaidan, South Railway Colony",26.17672222,91.78672222,2014-06-27,85.0,26.8482,327.0832,7.0,40.5,168.1,Open-Meteo historical weather,reanalysis,available
+766,ASM/KAMRUP(M)/78N16/2016-,Assam,Kamrup (Metro),Jyotinagar Slide,26.1895,91.78716667,2016-04-18,70.0,11.6861,356.2494,19.2,41.9,54.6,Open-Meteo historical weather,reanalysis,available
+767,ASM/DH/83G3/ PD/2017 /02,Assam,Dima Hasao (N.C. Hills),Mupa slide,25.40586111,93.11097222,2017-05-20,252.0,19.239,210.8968,3.0,14.5,58.8,Open-Meteo historical weather,reanalysis,available
+769,AS/KRP/78N/16/2018/003,Assam,Kamrup,Hastinapur landslide,26.11266667,91.85388889,2018-08-24,188.0,25.465,291.9569,25.0,43.0,102.4,Open-Meteo historical weather,reanalysis,available
+770,ASM/CHR/83H01/2020/001,Assam,Cachar,Kanakpur Slide,24.92097,93.07306,2020-06-02,61.0,15.338,73.7196,58.1,81.4,298.5,Open-Meteo historical weather,reanalysis,available
+771,AS/KRP/78N16/2018/002,Assam,Kamrup,Kharghuli slide,26.19530556,91.76563889,2018-08-31,85.0,7.0174,126.2843,13.5,31.9,135.9,Open-Meteo historical weather,reanalysis,available
+773,ASM/KAM/78N16/2020/001,Assam,Kamrup (Metro),Hirimbapur landslide,26.19330556,91.77725,2020-06-28,172.0,17.9657,183.1893,17.0,135.5,212.0,Open-Meteo historical weather,reanalysis,available
+774,ASM/KAM/78N16/2020/002,Assam,Kamrup (Metro),Ambher landslide,26.09150556,91.87898611,2020-07-12,77.0,5.2317,280.1828,11.5,73.3,142.4,Open-Meteo historical weather,reanalysis,available
+775,ASM/KAM/78N12/2020/003,Assam,Kamrup (Metro),Gauripur landslide,26.21305556,91.6925,2020-06-26,73.0,25.5545,148.7432,93.5,181.7,203.9,Open-Meteo historical weather,reanalysis,available
+779,ASM/DH/83G04/2022-23/023,Assam,Dima Hasao,Disgao Raji Slide,25.17136,93.01102,2022-05-14,700.0,4.3532,93.0474,35.3,63.1,115.7,Open-Meteo historical weather,reanalysis,available
+783,ASM/DH/83G04/2022-23/030,Assam,Dima Hasao,Merryland Slide,25.177416,93.00975,2022-05-16,691.0,21.0051,11.4193,33.4,77.0,151.9,Open-Meteo historical weather,reanalysis,available
+785,ASM/DH/83G04/2022-23/022,Assam,Dima Hasao,Lower Haflong Slide 2,25.18919,93.02118,2022-05-15,481.0,7.4781,81.1323,8.3,62.5,121.0,Open-Meteo historical weather,reanalysis,available
+786,AS/KRM/83D06/2014-15/0001,Assam,Karimganj,"Satkaragul (Pathariya Hills RF),",24.70619444,92.28997222,2014-05-10,44.0,9.8594,136.2071,40.5,154.9,252.1,Open-Meteo historical weather,reanalysis,available
+787,ASM/DH/83G04/2022-23/021,Assam,Dima Hasao,Moulhoi Slide 1,25.17623,93.01326,2022-05-14,696.0,31.9747,3.2852,35.3,63.1,115.7,Open-Meteo historical weather,reanalysis,available
+799,AS/KAM(M)/78N16/2025/006,Assam,Kamrup,"Doimuguri, Bonda",26.19113889,91.82961111,2025-05-31,116.0,16.4574,97.0824,8.5,188.2,282.1,Open-Meteo historical weather,reanalysis,available
+800,AS/KAM(M)/78N16/2025/05,Assam,Kamrup,Rupnagar,26.158193,91.755807,2025-06-06,59.0,10.7723,1.3579,2.5,63.0,78.3,Open-Meteo historical weather,reanalysis,available
+801,AS/KAM(M)/78N12/2025/01,Assam,Kamrup,Kamakhya Main Road,26.166185,91.7147,2025-06-04,113.0,18.977,126.884,33.5,36.0,208.1,Open-Meteo historical weather,reanalysis,available
+804,AS/KAM(M)/78N12/2025/04,Assam,Kamrup,Pandu,26.17027,91.698,2025-05-31,138.0,30.7272,9.1668,5.1,168.5,251.3,Open-Meteo historical weather,reanalysis,available
+805,ASM/DH/83C16/2023-24/001,Assam,Dima Hasao,Lower Boulsol slide,25.117665,92.847709,2022-05-14,161.0,16.371,121.5667,107.6,189.7,244.9,Open-Meteo historical weather,reanalysis,available
+808,ASM/DH/83C15/2023-24/001,Assam,Dima Hasao,Old Sangbar playground slide,25.366255,92.823037,2022-05-14,959.0,16.3004,32.4152,45.3,77.2,152.8,Open-Meteo historical weather,reanalysis,available
+999,ARN/LS/83E15/2016/04,Arunachal Pradesh,Lower Subansiri,Hoj-Potin slide,27.193425,93.780983,2016-07-16,213.0,50.7974,22.9338,24.9,67.5,98.0,Open-Meteo historical weather,reanalysis,available
+1033,ARN/LS/83E15/2016/08,Arunachal Pradesh,Lower Subansiri,Hoj-Potin slide,27.23995,93.806589,2016-07-17,267.0,24.4522,175.4068,6.5,55.1,99.4,Open-Meteo historical weather,reanalysis,available
+1042,ARN/LS/83E15/2016/07,Arunachal Pradesh,Lower Subansiri,Hoj-Potin slide,27.246131,93.804711,2016-07-17,270.0,25.761,89.039,6.5,55.1,99.4,Open-Meteo historical weather,reanalysis,available
+1049,ARN/LS/83E15/2016/06,Arunachal Pradesh,Lower Subansiri,Hoj-Potin slide,27.254756,93.801303,2016-07-17,288.0,37.5593,359.3216,6.5,55.1,99.4,Open-Meteo historical weather,reanalysis,available
+1082,ARN/LS/83E15/2016/05,Arunachal Pradesh,Lower Subansiri,Hoj-Potin slide,27.294886,93.803328,2016-07-17,646.0,42.9147,104.1084,6.5,55.1,99.4,Open-Meteo historical weather,reanalysis,available
+1103,ARN/LS/83E15/2016/03,Arunachal Pradesh,Lower Subansiri,Possa-Potin slide,27.307072,93.806008,2016-07-17,718.0,16.3983,97.9043,6.5,55.1,99.4,Open-Meteo historical weather,reanalysis,available
+1120,ARN/LS/83E15/2016/02,Arunachal Pradesh,Lower Subansiri,Possa-Potin slide,27.339267,93.802581,2016-07-16,789.0,28.7725,19.3816,24.9,67.5,98.0,Open-Meteo historical weather,reanalysis,available
+1218,ARN/TWG/FM/2016-17/01,Arunachal Pradesh,Tawang,Famla Slide,27.58741667,91.88694444,2016-04-22,2589.0,6.7307,125.6589,29.4,71.2,104.9,Open-Meteo historical weather,reanalysis,available
+17975,MN/UKH/83L05/2018/001,Manipur,Ukhrul,Landslide at 1.5 km South of Leiting,22.873558,92.755953,2018-06-14,1075.0,20.6196,47.3436,27.5,238.2,661.5,Open-Meteo historical weather,reanalysis,available
+18354,MAN/CHAN/83L03/2007/C-10,Manipur,Chandel,Bongyang slide,24.40639,94.06583,2007-09-07,1196.0,18.1882,339.41,20.3,99.6,144.0,Open-Meteo historical weather,reanalysis,available
+18646,MAN/TAM/83H09/2009-10/MN-,Manipur,Tamenglong,Tupul Slide,24.792333,93.658222,2010-06-10,447.0,33.801,32.188,2.7,38.9,68.5,Open-Meteo historical weather,reanalysis,available
+18701,MN/TGPL/83L03/2018/009,Manipur,Tengnoupal,Lokchao Landslide,24.813306,93.243417,2018-08-02,122.0,21.2773,127.8162,5.9,31.6,98.5,Open-Meteo historical weather,reanalysis,available
+18718,MAN/TAM/83H09/2007/C-13,Manipur,Tamenglong,Taobam landslide,24.81778,93.51583,2007-09-10,460.0,28.4449,36.9308,6.4,50.8,162.0,Open-Meteo historical weather,reanalysis,available
+18759,MAN/TAM/83H05/2008/C-19,Manipur,Tamenglong,Tamenglong-Khongsang road-2 slide,24.83278,93.46333,2008-07-01,773.0,28.074,59.445,11.8,47.4,203.8,Open-Meteo historical weather,reanalysis,available
+18802,MAN/TAM/83H05/2007/C-14,Manipur,Tamenglong,Lamkaolong slide,24.84833,93.45917,2007-09-12,988.0,33.4164,178.8381,17.1,29.4,136.8,Open-Meteo historical weather,reanalysis,available
+18803,MAN/TAM/83H05/2008/C-17,Manipur,Tamenglong,Tamenglong - Khongsang road slide,24.84833,93.45917,2008-06-19,988.0,33.4164,178.8381,16.5,51.8,75.4,Open-Meteo historical weather,reanalysis,available
+18875,MAN/TAM/83H05/2008/C-18,Manipur,Tamenglong,Tamenglong-Khongsang road (near,24.90139,93.45389,2008-06-19,971.0,25.3627,320.2058,11.5,42.3,55.6,Open-Meteo historical weather,reanalysis,available
+18904,MN/NON/83H13/2018/001,Manipur,Noney,Kotlen landslide,24.9252,94.3371,2018-06-06,1490.0,34.8607,182.2029,5.5,16.8,83.1,Open-Meteo historical weather,reanalysis,available
+18988,MN/TAM/83H05/2018/1,Manipur,Tamenglong,New Kanan Tamenglong,24.983806,93.497528,2018-06-22,1156.0,13.1926,277.9387,10.0,33.1,72.0,Open-Meteo historical weather,reanalysis,available
+18991,MN/TMG/83H01/2018/001,Manipur,Tamenglong,Makru Bridge Landslide,24.985167,93.508306,2018-05-03,1238.0,18.2737,39.4563,7.8,32.8,58.4,Open-Meteo historical weather,reanalysis,available
+18997,MAN/TAM/83H09/2007/C-2,Manipur,Tamenglong,Tamenglong slide,24.98611,93.50583,2007-08-24,1235.0,20.3964,112.3919,13.8,23.9,35.0,Open-Meteo historical weather,reanalysis,available
+19011,MAN/TAM/83H09/2007/C-7A,Manipur,Tamenglong,Capentry area slide,24.99083,93.50583,2007-08-28,1206.0,15.4934,47.8116,2.8,50.4,114.6,Open-Meteo historical weather,reanalysis,available
+19012,MAN/TAM/83H09/2007/C-7B,Manipur,Tamenglong,Capentary area-2 slide,24.99083,93.50583,2007-08-28,1206.0,15.4934,47.8116,2.8,50.4,114.6,Open-Meteo historical weather,reanalysis,available
+19016,MAN/TAM/83H05/2007/C-5,Manipur,Tamenglong,Guigailuang-2 slide,24.99306,93.4975,2007-08-28,1196.0,13.4285,296.1485,2.8,50.4,114.6,Open-Meteo historical weather,reanalysis,available
+19515,MAN/SEN/83K03/2007/C-12,Manipur,Senapati,Shajouba landslide,25.47217,94.15433,2007-09-09,1489.0,16.4411,13.1711,9.9,74.0,183.1,Open-Meteo historical weather,reanalysis,available
+19558,MA/TAM/83H05/2024/01,Manipur,Tamenglong,Dimthanlong landslide,24.979,93.496,2024-07-29,1154.0,8.8841,268.5164,35.5,36.8,53.1,Open-Meteo historical weather,reanalysis,available
+19575,MN-33/2011,Manipur,TAMENGLONG,Gadailong slide,24.985,93.52113889,2011-05-31,1043.0,19.8728,26.4025,33.3,127.0,146.7,Open-Meteo historical weather,reanalysis,available
+19576,MN-34/2011,Manipur,TAMENGLONG,Sinam Kuki SLIDE,24.79083333,93.72333333,2011-07-06,1053.0,41.3129,24.8955,2.8,14.2,53.2,Open-Meteo historical weather,reanalysis,available
+19658,MEG/EJH/83CO8/2018/01,Meghalaya,East Jaintia Hills,Sonapur 4km mile stone,25.09178,92.35469,2018-05-07,159.0,30.1999,223.1049,108.6,309.8,358.3,Open-Meteo historical weather,reanalysis,available
+19895,MEG/EKH/78O15/2022/01,Meghalaya,East Khasi Hills,,25.296,91.932,2022-04-04,1090.0,26.7824,315.5267,78.3,106.5,155.3,Open-Meteo historical weather,reanalysis,available
+19902,MEGH/EKH/78O11/2009/D-37,Meghalaya,East Khasi Hills,Umstew landslide,25.300389,91.726722,2009-06-29,1519.0,23.8792,129.7843,113.5,210.5,266.2,Open-Meteo historical weather,reanalysis,available
+19914,ML/SWKH/78O07/2014/01,Meghalaya,South West Khasi Hills,Tynnai Ground crack,25.31458,91.45242,2013-08-06,1308.0,45.2194,91.6109,39.1,72.3,129.1,Open-Meteo historical weather,reanalysis,available
+19917,ME/EKJ/78O15/2015/140,Meghalaya,East Khasi Hills,1 km SW of Myllad village,25.315176,91.923021,2007-07-19,1031.0,34.7215,126.1447,88.4,264.3,363.0,Open-Meteo historical weather,reanalysis,available
+19924,ME/EKJ/78O15/2015/134,Meghalaya,East Khasi Hills,Approach road to Nongsder,25.320833,91.9275,2007-07-19,1099.0,21.5406,93.5268,88.4,264.3,363.0,Open-Meteo historical weather,reanalysis,available
+20035,MEGH/WKH/78O07/2007/D-4,Meghalaya,West Khasi Hills,Mawthawiang slide,25.4013,91.45855,2007-08-18,1563.0,25.1089,136.5027,12.3,55.7,282.5,Open-Meteo historical weather,reanalysis,available
+20036,MG/SGH/78K11/2018/7,Meghalaya,South Garo hills,Nengkhra-Nongalbibra road slide,25.403061,90.724166,2007-08-18,360.0,18.092,348.1294,11.8,28.4,178.3,Open-Meteo historical weather,reanalysis,available
+20038,ME/EKJ/78O15/2015/87,Meghalaya,East Khasi Hills,lyngshing approach road,25.407917,91.998889,2007-08-18,1522.0,9.2076,264.2688,8.4,43.1,177.1,Open-Meteo historical weather,reanalysis,available
+20047,MEGH/WKH/78O07/2007/D-3,Meghalaya,West Khasi Hills,Laitlawsnai slide,25.425,91.405,2007-08-18,1563.0,18.5274,81.6679,12.3,55.7,282.5,Open-Meteo historical weather,reanalysis,available
+20055,MEGH/JH/78O15/2009/D-36,Meghalaya,Jaintia Hills,Laitlongkot slide,25.43561,91.862056,2009-07-17,1635.0,22.3604,78.6525,6.4,27.0,69.4,Open-Meteo historical weather,reanalysis,available
+20096,MEGH/WKH/78O06/2007/D-8,Meghalaya,West Khasi Hills,Nongjyllieh slide,25.50335,91.28335,2007-07-25,1414.0,22.8511,246.2128,118.6,225.7,342.4,Open-Meteo historical weather,reanalysis,available
+20097,MEG/EKH/78O10/2021/04,Meghalaya,East Khasi Hills,,25.50368056,91.72342222,2007-07-19,1748.0,4.5004,245.7114,59.3,200.2,328.1,Open-Meteo historical weather,reanalysis,available
+20099,MEGH/WKH/78O06/2007/D-9,Meghalaya,West Khasi Hills,Nongjyllieh-2 slide,25.50667,91.28318,2007-07-19,1396.0,22.4174,292.4947,52.1,149.2,210.9,Open-Meteo historical weather,reanalysis,available
+20112,MEGH/WKH/78O06/2007/D-7,Meghalaya,West Khasi Hills,Mawkawah slide,25.51973,91.28443,2007-07-25,1449.0,1.3841,132.0643,118.6,225.7,342.4,Open-Meteo historical weather,reanalysis,available
+20142,MEGH/EKH/83C02/2009/D-31,Meghalaya,East Khasi Hills,Puriang slide,25.54261,92.10867,2009-07-01,1138.0,15.19,77.0805,40.2,202.8,296.9,Open-Meteo historical weather,reanalysis,available
+20143,MEGH/EKH/83C02/2009/D-35,Meghalaya,Jaintia Hills,Kongong-2 slide,25.54261,92.09842,2009-07-01,1318.0,10.2675,36.46,40.2,202.8,296.9,Open-Meteo historical weather,reanalysis,available
+20144,MEGH/EKH/83C02/2009/D-33,Meghalaya,East Khasi Hills,Puriang-3 slide,25.54264,92.10214,2009-07-01,1332.0,6.6056,117.0205,40.2,202.8,296.9,Open-Meteo historical weather,reanalysis,available
+20148,MEGH/EKH/83C02/2009/D-32,Meghalaya,East Khasi Hills,Puriang-2 slide,25.54328,92.10478,2009-07-01,1272.0,28.4278,140.3563,40.2,202.8,296.9,Open-Meteo historical weather,reanalysis,available
+20204,MEGH/EKH/78O14/2007/D-17,Meghalaya,East Khasi Hills,Nongrimbah slide,25.56667,91.90194,2007-09-08,1545.0,3.1084,345.6505,48.7,285.8,420.6,Open-Meteo historical weather,reanalysis,available
+20231,ML/EKH/78O14/2014/03,Meghalaya,East Khasi Hills,Barapathar,25.57822,91.86545,2014-09-23,1459.0,7.9117,312.0504,76.2,268.2,368.3,Open-Meteo historical weather,reanalysis,available
+20350,MEG/RB/78O14/2017/01,Meghalaya,Ri-Bhoi,Tharia slide,25.663444,91.915944,2017-06-17,948.0,16.9684,165.5137,41.4,97.2,246.5,Open-Meteo historical weather,reanalysis,available
+20376,MEGH/WKH/78O02/2007/D-1,Meghalaya,West Khasi Hills,Nongjri (Porthangjah) slide,25.68625,91.118358,2007-09-15,1057.0,21.1787,330.1062,4.2,50.2,67.3,Open-Meteo historical weather,reanalysis,available
+20377,MEG/WKH/78O10/2016/51,Meghalaya,West Khasi Hills,NongkhlawPatharkhammah,25.687056,91.6485,2007-09-15,1139.0,26.6993,59.0033,12.5,83.7,151.9,Open-Meteo historical weather,reanalysis,available
+20390,MEGH/WKH/78O02/2007/D-2,Meghalaya,West Khasi Hills,Tynrong Mawsaw slide,25.69483,91.11836,2007-09-15,1095.0,15.1659,300.5062,4.2,50.2,67.3,Open-Meteo historical weather,reanalysis,available
+20391,ME/EKJ/78O14/2015/23,Meghalaya,East Khasi Hills,NH-40,25.695552,91.903777,2007-09-15,879.0,30.3831,55.0467,11.5,82.5,133.6,Open-Meteo historical weather,reanalysis,available
+20469,ML/RIB/78N16/2014/06,Meghalaya,Ri-Bhoi,19 Mile,26.00294,91.86692,2014-09-23,405.0,8.9282,322.994,26.9,92.3,209.8,Open-Meteo historical weather,reanalysis,available
+20474,ML/RIB/78N16/2014/02,Meghalaya,Ri-Bhoi,17 Mile B,26.02547,91.87158,2014-09-20,179.0,11.1472,110.4349,77.6,117.5,128.3,Open-Meteo historical weather,reanalysis,available
+20491,ME/SWKH/78O07/2024/4,Meghalaya,South West Khasi Hills,Manad slide-1,25.29967,91.46108,2024-06-15,1047.0,17.9653,356.8345,32.3,101.4,163.0,Open-Meteo historical weather,reanalysis,available
+20494,ME/SWKH/78O072024/7,Meghalaya,South West Khasi Hills,Manad slide-4,25.29739,91.46201,2024-06-17,1082.0,13.5209,225.0209,44.4,108.7,225.9,Open-Meteo historical weather,reanalysis,available
+20500,ME/EKH/78O15/2025/02,Meghalaya,East Khasi Hills,Laitlyngkot- Pomlum slide 1,25.422278,91.867694,2025-05-30,1713.0,33.526,61.5467,226.1,349.6,388.4,Open-Meteo historical weather,reanalysis,available
+20501,ME/EKH/78O15/2025/03,Meghalaya,East Khasi Hills,Laitlyngkot-Pomlum slide 2,25.43480556,91.85952778,2025-05-30,1805.0,32.1007,36.8745,226.1,349.6,388.4,Open-Meteo historical weather,reanalysis,available
+20502,ME/EKH/78O15/2025/04,Meghalaya,East Khasi Hills,11th Mile slide2,25.48716667,91.81936111,2025-05-30,1724.0,7.5136,287.8686,226.1,349.6,388.4,Open-Meteo historical weather,reanalysis,available
+20506,ME/EKH/78O15/2025/08,Meghalaya,East Khasi Hills,Mawrah Rock slide,25.366201,91.767213,2025-05-31,1608.0,35.2719,147.866,33.3,462.3,494.7,Open-Meteo historical weather,reanalysis,available
+20507,ME/EKH/78O15/2025/09,Meghalaya,East Khasi Hills,Mawkhnai landslide,25.355042,91.767525,2025-05-31,1621.0,38.2543,141.7492,33.3,462.3,494.7,Open-Meteo historical weather,reanalysis,available
+20508,ME/EKH/78O15/2025/10,Meghalaya,East Khasi Hills,War-War landslide,25.340415,91.774142,2025-05-31,1441.0,32.8104,72.0866,50.1,557.0,590.0,Open-Meteo historical weather,reanalysis,available
+20543,ML/EKH/78O11/2019-20/03,Meghalaya,East Khasi Hills,"Mawsynram, East Khasi Hills District,",25.281,91.57330556,2019-07-07,1325.0,15.4443,120.8427,104.6,261.5,322.1,Open-Meteo historical weather,reanalysis,available
+20547,MEG/EKH/78O8/2019/07,Meghalaya,East Khasi Hills,Balat road slide - I,25.23211111,91.37252778,2019-06-27,418.0,15.0778,347.5327,149.6,228.1,280.1,Open-Meteo historical weather,reanalysis,available
+20548,MEG/EKH/78O8/2019/08,Meghalaya,East Khasi Hills,Balat road,25.22194444,91.38422222,2019-06-27,240.0,20.5076,174.5096,149.6,228.1,280.1,Open-Meteo historical weather,reanalysis,available
+20551,MEG/EKH/78O8/2019/11,Meghalaya,East Khasi Hills,Balat-Shella road,25.18688889,91.39855556,2019-06-27,77.0,17.3564,196.6291,149.6,228.1,280.1,Open-Meteo historical weather,reanalysis,available
+20553,MEG/WJH/83C3/2020/2,Meghalaya,West Jaintia Hills,Iawmusiang Wahthanad,25.44233333,92.19447222,2020-05-26,1331.0,6.4856,16.0189,212.0,306.4,448.4,Open-Meteo historical weather,reanalysis,available
+20554,MEG/WJH/83C3/2020/3,Meghalaya,West Jaintia Hills,Iawmusiang Wahthanad,25.44177778,92.19558333,2020-05-26,1340.0,5.4943,315.6633,212.0,306.4,448.4,Open-Meteo historical weather,reanalysis,available
+20557,MEG/WJH/83C3/2020/6,Meghalaya,West Jaintia Hills,Chilliangraij,25.43505556,92.19836111,2020-05-26,1350.0,12.3864,147.9583,212.0,306.4,448.4,Open-Meteo historical weather,reanalysis,available
+20559,MEG/WJH/83C3/2020/8,Meghalaya,West Jaintia Hills,Caroline colony,25.45075,92.19452778,2020-05-26,1354.0,19.0096,330.373,95.8,133.2,265.7,Open-Meteo historical weather,reanalysis,available
+20577,MEG/SG/78K12/2022/03,Meghalaya,South Garo Hills,Baghmara along the road.,25.21022222,90.63220278,2022-06-17,36.0,17.581,261.1837,110.0,275.1,388.3,Open-Meteo historical weather,reanalysis,available
+20590,MEG/EKH/78O15/2023/01,Meghalaya,East Khasi Hills,NH-40,25.365263,91.878497,2023-04-13,1545.0,23.3977,276.4442,0.0,0.0,0.0,Open-Meteo historical weather,reanalysis,available
+20592,MEG/WJH/83C03/2023-24/2,Meghalaya,West Jaintia Hills,Pynthor Langtein village,25.41955556,92.16194444,2023-08-10,1393.0,4.2328,151.0313,2.4,22.5,104.9,Open-Meteo historical weather,reanalysis,available
+20598,ME/WKH/2025/6,Meghalaya,West Khasi Hills,Sohpian,25.540056,91.314142,2024-07-02,1513.0,12.6872,154.0038,8.2,122.8,176.4,Open-Meteo historical weather,reanalysis,available
+20616,ME/RIB/2025/24,Meghalaya,Ri-Bhoi,Umiam Flyover,25.67517222,91.8983,2024-06-30,1015.0,17.1043,133.1468,72.0,119.8,205.7,Open-Meteo historical weather,reanalysis,available
+20620,ME/RIB/2025/28,Meghalaya,Ri-Bhoi,NH-6,25.67761389,91.89865833,2025-05-30,997.0,25.0492,300.1482,81.6,139.5,196.9,Open-Meteo historical weather,reanalysis,available
+20621,ME/EWK/2026/29,Meghalaya,Eastern-West Khasi Hill,Umkrem,25.49551944,91.49585278,2025-07-02,1584.0,18.1981,113.9687,6.9,11.9,22.2,Open-Meteo historical weather,reanalysis,available
+20622,ME/EWK/2026/30,Meghalaya,South West Khasi Hills,Mawpud,25.28247222,91.36413333,2025-05-30,973.0,35.51,24.0605,159.6,263.4,300.8,Open-Meteo historical weather,reanalysis,available
+20623,ME/SWK/2026/31,Meghalaya,South West Khasi Hills,Mawpud,25.28090556,91.36584722,2025-05-30,993.0,27.5172,9.3946,154.3,254.6,286.5,Open-Meteo historical weather,reanalysis,available
+20624,ME/RIB/2026/32,Meghalaya,Ri-Bhoi,Umbang 1,25.68255833,91.90111389,2024-06-30,960.0,9.5672,279.6758,72.0,119.8,205.7,Open-Meteo historical weather,reanalysis,available
+20634,ME/EWK/2026/42,Meghalaya,Eastern-West Khasi Hill,Nongkhlaw-Tirotsing 2,25.69517778,91.64123611,2025-05-30,1302.0,14.9918,333.0764,81.2,149.3,229.9,Open-Meteo historical weather,reanalysis,available
+20635,ME/EWK/2026/43,Meghalaya,Eastern-West Khasi Hill,Mairang-Guwahati Road,25.69688611,91.64176667,2025-06-25,1285.0,11.4456,266.5622,25.6,105.6,235.1,Open-Meteo historical weather,reanalysis,available
+20636,ME/EWK/2026/44,Meghalaya,Eastern-West Khasi Hill,Nongkhlaw-Tirotsing 3,25.70087778,91.642902,2024-10-08,1247.0,18.3584,0.0,13.6,29.0,162.0,Open-Meteo historical weather,reanalysis,available
+20639,ME/EWK/2026/47,Meghalaya,Eastern-West Khasi Hill,Mairang-Guwahati Road,25.69523333,91.64426944,2025-05-30,1225.0,27.1255,65.7457,81.2,149.3,229.9,Open-Meteo historical weather,reanalysis,available
+20640,ME/EWK/2026/48,Meghalaya,Eastern-West Khasi Hill,Mairang-Guwahati Road,25.69463611,91.64577778,2025-05-30,1204.0,25.9778,43.7313,81.2,149.3,229.9,Open-Meteo historical weather,reanalysis,available
+20641,ME/EWK/2026/49,Meghalaya,Eastern-West Khasi Hill,Mairang-Guwahati Road,25.68698889,91.64812222,2025-05-28,1171.0,38.4626,54.4948,6.4,40.9,110.2,Open-Meteo historical weather,reanalysis,available
+20642,ME/EWK/2026/50,Meghalaya,Eastern-West Khasi Hill,Mairang-Guwahati Road,25.68690556,91.64915278,2025-05-28,1124.0,20.6367,2.0501,6.4,40.9,110.2,Open-Meteo historical weather,reanalysis,available
+22177,MIZO/AIZ/84A10/2007/E-3,Mizoram,Aizawl,Bawng Venglai slide,23.751694,92.731528,2007-09-08,946.0,22.4635,200.0106,8.4,66.3,99.4,Open-Meteo historical weather,reanalysis,available
+22701,MZ/AZL/84A10/2024/001,Mizoram,Aizawl,"Luangmual, Aizawl",23.73888889,92.69638889,2024-05-28,1044.0,25.2673,319.7374,49.4,126.3,165.8,Open-Meteo historical weather,reanalysis,available
+22702,MZ/AZL/84A10/2024/002,Mizoram,Aizawl,"Luangmual, Aizawl",23.73947222,92.69666667,2024-05-28,1033.0,24.4358,301.1035,49.4,126.3,165.8,Open-Meteo historical weather,reanalysis,available
+22703,MZ/AZL/84A10/2024/003,Mizoram,Aizawl,"Luangmual, Aizawl",23.74027778,92.69722222,2024-05-28,1039.0,18.0007,310.3644,49.4,126.3,165.8,Open-Meteo historical weather,reanalysis,available
+22704,MZ/AZL/84A10/2024/004,Mizoram,Aizawl,"Luangmual, Aizawl",23.74066667,92.69336111,2024-05-28,927.0,13.9128,268.1276,49.4,126.3,165.8,Open-Meteo historical weather,reanalysis,available
+22705,MZ/AZL/84A10/2024/005,Mizoram,Aizawl,"Mizoram Law College,",23.7385748,92.6941941,2024-05-28,986.0,30.9157,332.2841,49.4,126.3,165.8,Open-Meteo historical weather,reanalysis,available
+22706,MZ/AZL/84A10/2024/006,Mizoram,Aizawl,"R Romawia (L) Chawlhhmun,",23.74472222,92.69277778,2024-05-28,974.0,23.1393,158.1335,49.4,126.3,165.8,Open-Meteo historical weather,reanalysis,available
+22707,MZ/AZL/84A10/2024/007,Mizoram,Aizawl,"Luangmual, Aizawl",23.74116667,92.69455556,2024-05-28,948.0,27.7806,307.9201,49.4,126.3,165.8,Open-Meteo historical weather,reanalysis,available
+22708,MZ/AZL/84A10/2024/008,Mizoram,Aizawl,"Luangmual - Ainawn road,",23.7375,92.69444444,2024-05-28,979.0,29.1353,132.471,49.4,126.3,165.8,Open-Meteo historical weather,reanalysis,available
+22710,MZ/AZL/84A10/2024/010,Mizoram,Aizawl,"Ainawn Veng, Aizawl",23.72669444,92.69519444,2024-05-28,897.0,30.647,175.7213,49.4,126.3,165.8,Open-Meteo historical weather,reanalysis,available
+22711,MZ/AZL/84A10/2024/011,Mizoram,Aizawl,"Ainawn, Aizawl.",23.73361111,92.69388889,2024-05-28,900.0,24.2412,233.617,49.4,126.3,165.8,Open-Meteo historical weather,reanalysis,available
+22712,MZ/AZL/84A10/2024/012,Mizoram,Aizawl,"Zonuam, Aizawl",23.73472222,92.695,2024-05-28,917.0,24.936,104.1059,49.4,126.3,165.8,Open-Meteo historical weather,reanalysis,available
+22714,MZ/AZL/84A10/2024/014,Mizoram,Aizawl,"Zonuam, Aizawl",23.73305556,92.69944444,2024-05-28,894.0,32.8198,221.1504,49.4,126.3,165.8,Open-Meteo historical weather,reanalysis,available
+22715,MZ/AZL/84A10/2024/015,Mizoram,Aizawl,"Zonuam, Aizawl",23.74972222,92.69833333,2024-05-28,630.0,22.4938,9.2163,49.4,126.3,165.8,Open-Meteo historical weather,reanalysis,available
+22716,MZ/AZL/84A10/2024/016,Mizoram,Aizawl,"Chawnpui, Aizawl",23.73111111,92.70222222,2024-05-28,862.0,18.2265,218.1368,49.4,126.3,165.8,Open-Meteo historical weather,reanalysis,available
+22717,MZ/AZL/84A10/2024/017,Mizoram,Aizawl,"Chawnpui, Aizawl",23.73111111,92.70388889,2024-05-28,873.0,20.0617,175.8348,49.4,126.3,165.8,Open-Meteo historical weather,reanalysis,available
+22718,MZ/AZL/84A10/2024/018,Mizoram,Aizawl,"Chawnpui, Aizawl",23.73333333,92.70527778,2024-05-28,949.0,11.8151,194.6907,49.4,126.3,165.8,Open-Meteo historical weather,reanalysis,available
+22720,MZ/AZL/84A10/2024/020,Mizoram,Aizawl,"Zonuam, Aizawl",23.73583333,92.69777778,2024-05-28,993.0,15.334,154.1951,49.4,126.3,165.8,Open-Meteo historical weather,reanalysis,available
+22721,MZ/AZL/84A10/2024/021,Mizoram,Aizawl,"Kanaan Cemetery, Aizawl",23.73132778,92.70821944,2024-05-28,885.0,13.7226,286.364,49.4,126.3,165.8,Open-Meteo historical weather,reanalysis,available
+22722,MZ/AZL/84A10/2024/022,Mizoram,Aizawl,"MINECO, Aizawl",23.72428333,92.70737778,2024-05-28,978.0,27.0065,204.057,49.4,126.3,165.8,Open-Meteo historical weather,reanalysis,available
+22723,MZ/AZL/84A10/2024/023,Mizoram,Aizawl,"Bungkawn, Aizawl",23.72276944,92.70665,2024-05-28,961.0,39.284,342.7099,49.4,126.3,165.8,Open-Meteo historical weather,reanalysis,available
+22724,MZ/AZL/84A10/2024/024,Mizoram,Aizawl,"Mission Vengthlang, Aizawl",23.71446389,92.71146389,2024-05-28,988.0,29.9599,349.3948,49.4,126.3,165.8,Open-Meteo historical weather,reanalysis,available
+22725,MZ/AZL/84A10/2024/025,Mizoram,Aizawl,"MSVT to Reiek Road, Aizawl",23.71581111,92.70935,2024-05-28,902.0,24.9661,178.3679,49.4,126.3,165.8,Open-Meteo historical weather,reanalysis,available
+22726,MZ/AZL/84A10/2024/026,Mizoram,Aizawl,"Bungkawn, Nursery, Aizawl",23.71595,92.70879444,2024-05-28,895.0,30.8293,194.147,49.4,126.3,165.8,Open-Meteo historical weather,reanalysis,available
+22727,MZ/AZL/84A10/2024/027,Mizoram,Aizawl,"Nursery Veng, Aizawl",23.7175,92.70666667,2024-05-28,900.0,24.279,202.4686,49.4,126.3,165.8,Open-Meteo historical weather,reanalysis,available
+22728,MZ/AZL/84A10/2024/0028,Mizoram,Aizawl,"Nursery Veng, Aizawl",23.71740833,92.70644167,2024-05-28,896.0,23.9462,194.9979,49.4,126.3,165.8,Open-Meteo historical weather,reanalysis,available
+22729,MZ/AZL/84A10/2024/029,Mizoram,Aizawl,"Nursery Veng, Aizawl",23.71735556,92.70753333,2024-05-28,900.0,22.3116,203.4874,49.4,126.3,165.8,Open-Meteo historical weather,reanalysis,available
+22730,MZ/AZL/84A10/2024/030,Mizoram,Aizawl,"Nursery Veng, Aizawl",23.71721667,92.70777778,2024-05-28,906.0,25.53,221.7858,49.4,126.3,165.8,Open-Meteo historical weather,reanalysis,available
+22731,MZ/AZL/84A10/2024/031,Mizoram,Aizawl,"Nursery Veng, Aizawl",23.71697222,92.70817222,2024-05-28,909.0,26.1155,251.2189,49.4,126.3,165.8,Open-Meteo historical weather,reanalysis,available
+22732,MZ/AZL/84A10/2024/032,Mizoram,Aizawl,"Mission Vengthlang, Aizawl",23.71305556,92.70895833,2024-05-28,981.0,21.6029,207.2359,49.4,126.3,165.8,Open-Meteo historical weather,reanalysis,available
+22733,MZ/AZL/84A10/2024/033,Mizoram,Aizawl,"Model Veng, Aizawl",23.71523056,92.71529167,2024-05-28,1012.0,15.5864,199.4367,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+22734,MZ/AZL/84A10/2024/034,Mizoram,Aizawl,"Chanmari-Chanmari West,",23.74,92.715,2024-05-28,1065.0,42.0687,314.745,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+22735,MZ/AZL/84A10/2024/035,Mizoram,Aizawl,"Chanmari-Chanmari west,",23.73944444,92.71472222,2024-05-28,1073.0,49.6244,295.0414,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+22736,MZ/AZL/84A10/2024/036,Mizoram,Aizawl,"Salem Veng, Aizawl",23.71138889,92.72444444,2024-05-28,924.0,26.9756,115.4264,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+22737,MZ/AZL/84A10/2024/037,Mizoram,Aizawl,"Mission Veng, Aizawl",23.71638889,92.72111111,2024-05-28,983.0,28.765,21.7399,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+22738,MZ/AZL/84A10/2024/038,Mizoram,Aizawl,"Salem Veng, Aizawl",23.71444444,92.72861111,2024-05-28,855.0,17.1407,60.9548,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+22741,MZ/AZL/84A10/2024/041,Mizoram,Aizawl,"Salem Veng cemetery, Aizawl",23.71571389,92.72659722,2024-05-28,865.0,25.0056,356.1963,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+22742,MZ/AZL/84A10/2024/042,Mizoram,Aizawl,"Venghnuai, Aizawl",23.7104,92.72237778,2024-05-28,963.0,33.2424,163.1434,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+22743,MZ/AZL/84A10/2024/043,Mizoram,Aizawl,"Republic Veng, Aizawl",23.71865833,92.72335278,2024-05-28,949.0,25.09,76.5046,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+22744,MZ/AZL/84A10/2024/044,Mizoram,Aizawl,"Republic Veng, Lungli Road,",23.7175,92.71972222,2023-09-19,1082.0,29.6546,132.4753,13.6,69.4,88.9,Open-Meteo historical weather,reanalysis,available
+22745,MZ/AZL/84A10/2024/045,Mizoram,Aizawl,"Kulikawn cemetery, Aizawl",23.71,92.71611111,2024-05-28,949.0,16.9338,318.103,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+22747,MZ/AZL/84A10/2024/047,Mizoram,Aizawl,"Kulikawn, Aizawl",23.70666667,92.71444444,2024-05-28,1029.0,47.6526,1.6159,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+22748,MZ/AZL/84A10/2024/048,Mizoram,Aizawl,"Tlangnuam, Aizawl",23.70527778,92.71138889,2024-05-28,1070.0,36.6255,334.6529,49.4,126.3,165.8,Open-Meteo historical weather,reanalysis,available
+22749,MZ/AZL/84A10/2024/049,Mizoram,Aizawl,"Tlangnuam CP Road, Aizawl",23.70416667,92.71222222,2024-05-28,1040.0,35.4552,171.4334,49.4,126.3,165.8,Open-Meteo historical weather,reanalysis,available
+22750,MZ/AZL/84A10/2024/050,Mizoram,Aizawl,"Tlangnuam Vengthar, Aizawl",23.70027778,92.71611111,2024-05-28,1031.0,22.7696,244.898,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+22751,MZ/AZL/84A10/2024/051,Mizoram,Aizawl,"Tlangnuam Vengthar, Aizawl",23.69972222,92.71694444,2024-05-28,1002.0,36.1416,172.6988,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+22752,MZ/AZL/84A10/2024/052,Mizoram,Aizawl,"Trinity Hospital, Silaimual,",23.68027778,92.72472222,2024-05-28,905.0,31.7289,143.6158,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+22753,MZ/AZL/84A10/2024/053,Mizoram,Aizawl,Melthum to Hualngohmun,23.67805556,92.72,2024-05-28,1020.0,51.5636,48.3303,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+22754,MZ/AZL/84A10/2024/054,Mizoram,Aizawl,"Paikhai, Melriat, Aizawl",23.64333333,92.73444444,2024-05-28,724.0,13.7961,37.7126,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+22755,MZ/AZL/84A10/2024/055,Mizoram,Aizawl,"Melriat, Aizawl",23.64638889,92.72638889,2023-10-02,797.0,27.373,68.4465,2.7,32.0,47.1,Open-Meteo historical weather,reanalysis,available
+22756,MZ/AZL/84A10/2024/056,Mizoram,Aizawl,"Melriat, Aizawl",23.64638889,92.72527778,2024-05-28,836.0,20.1478,353.0841,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+22757,MZ/AZL/84A10/2024/057,Mizoram,Aizawl,Kelsih,23.63111111,92.72388889,2024-05-28,867.0,22.5487,108.7623,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+22758,MZ/AZL/84A10/2024/058,Mizoram,Aizawl,"Kelsih, Aizawl",23.63055556,92.72305556,2024-05-28,860.0,24.216,177.1852,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+22759,MZ/AZL/84A10/2024/059,Mizoram,Aizawl,"Falkawn, Aizawl",23.62833333,92.72333333,2024-05-28,797.0,20.2777,281.371,67.8,120.5,158.2,Open-Meteo historical weather,reanalysis,available
+22760,MZ/AZL/84A10/2024/060,Mizoram,Aizawl,"Falkawn, Aizawl",23.62277778,92.72444444,2024-05-28,816.0,7.8818,130.0253,67.8,120.5,158.2,Open-Meteo historical weather,reanalysis,available
+22761,MZ/AZL/84A10/2024/061,Mizoram,Aizawl,"Falkawn, Aizawl",23.62194444,92.72305556,2024-05-28,814.0,30.9194,0.0,67.8,120.5,158.2,Open-Meteo historical weather,reanalysis,available
+22762,MZ/AZL/84A10/2024/062,Mizoram,Aizawl,"Falkawn, Aizawl",23.62083333,92.7225,2024-05-28,822.0,19.0505,283.5558,67.8,120.5,158.2,Open-Meteo historical weather,reanalysis,available
+22763,MZ/AZL/84A10/2024/063,Mizoram,Aizawl,"Falkawn, Aizawl",23.61916667,92.7225,2024-05-28,830.0,34.4811,188.1339,67.8,120.5,158.2,Open-Meteo historical weather,reanalysis,available
+22764,MZ/AZL/84A10/2024/004,Mizoram,Aizawl,"Falkawn Vengthar, Aizawl",23.62,92.72472222,2024-05-28,819.0,28.5234,30.2573,67.8,120.5,158.2,Open-Meteo historical weather,reanalysis,available
+22765,MZ/AZL/84A10/2024/065,Mizoram,Aizawl,"Falkawn vengthar, Aizawl",23.61972222,92.72527778,2024-05-28,818.0,24.3616,33.7803,67.8,120.5,158.2,Open-Meteo historical weather,reanalysis,available
+22766,MZ/AZL/84A10/2024/066,Mizoram,Aizawl,"Falkawn vengthar, Aizawl",23.62027778,92.72555556,2024-05-28,790.0,22.5738,29.9582,67.8,120.5,158.2,Open-Meteo historical weather,reanalysis,available
+22767,MZ/AZL/84A10/2024/067,Mizoram,Aizawl,"Falkawn vengthar, Aizawl",23.62027778,92.72611111,2024-05-28,771.0,31.6087,39.7008,67.8,120.5,158.2,Open-Meteo historical weather,reanalysis,available
+22768,MZ/AZL/84A10/2024/068,Mizoram,Aizawl,"Falkawn vengthar, Aizawl",23.62111111,92.72444444,2024-05-28,795.0,17.9917,130.3902,67.8,120.5,158.2,Open-Meteo historical weather,reanalysis,available
+22769,MZ/AZL/84A10/2024/069,Mizoram,Aizawl,"Melthum, Aizawl",23.68743333,92.72129167,2024-05-28,1098.0,19.559,22.6813,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+22770,MZ/AZL/84A10/2024/070,Mizoram,Aizawl,"Hlimen, Aizawl",23.67694444,92.71722222,2024-05-28,1096.0,27.8779,279.6896,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+22771,MZ/AZL/84A10/2024/071,Mizoram,Aizawl,"Hlimen, Aizawl",23.67583333,92.715,2024-05-28,997.0,25.326,267.5495,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+22772,MZ/AZL/84A10/2024/072,Mizoram,Aizawl,"Hlimen, Aizawl",23.67472222,92.71722222,2024-05-28,1099.0,17.8731,295.2578,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+22773,MZ/AZL/84A10/2024/073,Mizoram,Aizawl,"Hlimen, Aizawl",23.67444444,92.71472222,2024-05-28,1000.0,21.2531,268.8076,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+22774,MZ/AZL/84A10/2024/074,Mizoram,Aizawl,"Hlimen, Aizawl",23.67388889,92.71472222,2024-05-28,997.0,19.9527,279.6258,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+22775,MZ/AZL/84A10/2024/075,Mizoram,Aizawl,"Hlimen, Aizawl",23.672069,92.7099293,2024-05-28,1000.0,18.1742,255.7265,76.9,149.1,183.0,Open-Meteo historical weather,reanalysis,available
+22776,MZ/AZL/84A10/2024/076,Mizoram,Aizawl,"Hlimen, Aizawl",23.684301,92.715511,2024-05-28,1036.0,18.4865,318.6321,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+22777,MZ/AZL/84A10/2024/077,Mizoram,Aizawl,"World Bank Road, Kulikawn",23.70638889,92.72055556,2024-05-28,875.0,35.998,93.8329,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+22778,MZ/AZL/84A10/2024/078,Mizoram,Aizawl,"World Bank Road, Aizawl",23.70416667,92.72,2024-05-28,880.0,38.3848,71.5339,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+22779,MZ/AZL/84A10/2024/079,Mizoram,Aizawl,"World Bank Road, Aizawl",23.70305556,92.72055556,2024-05-28,879.0,41.3603,15.1327,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+22780,MZ/AZL/84A10/2024/080,Mizoram,Aizawl,World Bank Road and,23.69333333,92.72055556,2024-05-28,990.0,28.5329,73.5698,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+22782,MZ/AZL/84A10/2024/082,Mizoram,Aizawl,"World Bank Road, Aizawl",23.69,92.72361111,2024-05-28,871.0,30.1726,98.8091,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+22783,MZ/AZL/84A10/2024/083,Mizoram,Aizawl,"World Bank Road, Aizawl",23.68361111,92.72277778,2024-05-28,924.0,32.5233,93.6389,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+22784,MZ/AZL/84A10/2024/084,Mizoram,Aizawl,"Melthum, Aizawl-Thenzawl-",23.67611111,92.71972222,2024-05-28,976.0,50.3344,113.1177,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+22785,MZ/AZL/84A10/2024/085,Mizoram,Aizawl,Aizawl-Thenzawl-Lunglei,23.67138889,92.72361111,2024-05-28,927.0,35.5707,100.7627,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+22786,MZ/AZL/84A10/2024/086,Mizoram,Aizawl,Aizawl-Thenzawl-Lunglei,23.66694444,92.72194444,2024-05-28,978.0,43.2822,56.6303,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+22787,MZ/AZL/84A10/2024/087,Mizoram,Aizawl,Aizawl-Thenzawl-Lunglei,23.66666667,92.72388889,2024-05-28,829.0,36.4701,70.8219,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+22788,MZ/AZL/84A10/2024/088,Mizoram,Aizawl,Hualngohmun Bifurcation,23.66027778,92.72694444,2024-05-28,859.0,35.7922,13.8269,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+22790,MZ/AZL/84A10/2024/090,Mizoram,Aizawl,"Melriat Bazar, Aizawl",23.64388889,92.72583333,2024-05-28,822.0,27.1194,248.6857,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+22791,MZ/AZL/84A10/2024/091,Mizoram,Aizawl,"Kelsih, Aizawl",23.635,92.72361111,2024-05-28,837.0,34.9969,117.1708,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+22792,MZ/AZL/84A15/2024/092,Mizoram,Aizawl,"Chamring to Hmuifang Road,",23.43277778,92.76111111,2024-05-28,1503.0,17.3118,235.16,65.0,128.9,173.2,Open-Meteo historical weather,reanalysis,available
+22793,MZ/AZL/84A10/2024/093,Mizoram,Aizawl,"Midum Kham, Sumsuih",23.46777778,92.74111111,2024-05-28,1328.0,54.3603,271.6627,65.0,128.9,173.2,Open-Meteo historical weather,reanalysis,available
+22794,MZ/AZL/84A11/2024/094,Mizoram,Aizawl,"Thiak, Aizawl",23.46805556,92.71638889,2024-05-28,1135.0,27.7789,2.8805,65.0,128.9,173.2,Open-Meteo historical weather,reanalysis,available
+22795,MZ/AZL/84A11/2024/095,Mizoram,Aizawl,"Thiak, Aizawl",23.4725,92.71444444,2024-05-28,1075.0,16.9356,72.999,65.0,128.9,173.2,Open-Meteo historical weather,reanalysis,available
+22797,MZ/AZL/84A11/2024/097,Mizoram,Aizawl,Thiak to Maubuang,23.49,92.70555556,2024-05-28,1034.0,35.5047,236.6161,65.0,128.9,173.2,Open-Meteo historical weather,reanalysis,available
+22798,MZ/AZL/84A11/2024/098,Mizoram,Aizawl,Thiak to Maubuang,23.49722222,92.70333333,2024-05-28,905.0,25.9312,241.6797,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+22799,MZ/AZL/84A10/2024/099,Mizoram,Aizawl,Maubuang to Sateek,23.51361111,92.69833333,2024-05-28,780.0,34.4765,224.9907,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+22800,MZ/AZL/84A10/2024/100,Mizoram,Aizawl,Sateek,23.53666667,92.6975,2024-05-28,857.0,37.812,329.9624,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+22801,MZ/AZL/84A10/2024/101,Mizoram,Aizawl,Sateek,23.54166667,92.70194444,2024-05-28,872.0,22.8661,276.0594,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+22802,MZ/AZL/84A10/2024/102,Mizoram,Aizawl,Sateek,23.54277778,92.70333333,2024-05-28,908.0,33.971,337.6662,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+22803,MZ/AZL/84A10/2024/103,Mizoram,Aizawl,Phulpui,23.52944444,92.72944444,2024-05-28,989.0,18.7035,285.2472,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+22804,MZ/AZL/84A10/2024/104,Mizoram,Aizawl,Phulpui,23.53083333,92.73055556,2024-05-28,986.0,28.4014,303.6304,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+22805,MZ/AZL/84A10/2024/105,Mizoram,Aizawl,Phulpui,23.53111111,92.73361111,2024-05-28,1043.0,34.2792,348.4193,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+22806,MZ/AZL/84A10/2024/106,Mizoram,Aizawl,Phulpui,23.53083333,92.73333333,2024-05-28,1065.0,33.9622,350.1897,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+22807,MZ/AZL/84A10/2024/107,Mizoram,Aizawl,Aibawk,23.56388889,92.70805556,2024-05-28,836.0,31.2154,232.5751,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+22808,MZ/AZL/84A10/2024/108,Mizoram,Aizawl,Aibawk,23.56416667,92.70805556,2024-05-28,847.0,28.4076,242.8437,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+22809,MZ/AZL/84A10/2024/109,Mizoram,Aizawl,Aibawk,23.565,92.70777778,2024-05-28,851.0,36.0393,249.1468,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+22810,MZ/AZL/84A10/2024/110,Mizoram,Aizawl,Aibawk,23.56666667,92.70888889,2024-05-28,852.0,13.6489,306.8678,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+22811,MZ/AZL/84A09/2024/111,Mizoram,Aizawl,"BSUP, Durtlang",23.77305556,92.74361111,2024-05-28,1002.0,20.0612,46.6,38.4,98.3,134.2,Open-Meteo historical weather,reanalysis,available
+22812,MZ/AZL/84A13/2024/112,Mizoram,Aizawl,Muthi,23.77472222,92.76194444,2024-05-28,1126.0,13.1051,108.2344,38.4,98.3,134.2,Open-Meteo historical weather,reanalysis,available
+22813,MZ/AZL/84A13/2024/113,Mizoram,Aizawl,Muthi,23.77361111,92.76111111,2024-05-28,1118.0,3.1755,73.0358,38.4,98.3,134.2,Open-Meteo historical weather,reanalysis,available
+22814,MZ/AZL/84A10/2024/114,Mizoram,Aizawl,"Zuangtui, Aizawl",23.74861111,92.73861111,2024-05-28,948.0,32.7505,165.6733,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+22815,MZ/AZL/84A10/2024/115,Mizoram,Aizawl,Muallungthu,23.61,92.72083333,2024-05-28,912.0,30.1769,23.2642,67.8,120.5,158.2,Open-Meteo historical weather,reanalysis,available
+22816,MZ/AZL/84A10/2024/116,Mizoram,Aizawl,Muallungthu,23.60666667,92.72305556,2024-05-28,925.0,21.132,185.9028,67.8,120.5,158.2,Open-Meteo historical weather,reanalysis,available
+22817,MZ/AZL/84A10/2024/117,Mizoram,Aizawl,Tachhip,23.5925,92.71666667,2024-05-28,763.0,19.9226,290.2514,67.8,120.5,158.2,Open-Meteo historical weather,reanalysis,available
+22818,MZ/AZL/84A10/2024/118,Mizoram,Aizawl,Tachhip,23.58722222,92.71361111,2024-05-28,813.0,34.7286,235.9113,67.8,120.5,158.2,Open-Meteo historical weather,reanalysis,available
+22819,MZ/AZL/84A10/2024/119,Mizoram,Aizawl,Tachhip,23.57694444,92.71305556,2024-05-28,906.0,14.7798,29.0351,67.8,120.5,158.2,Open-Meteo historical weather,reanalysis,available
+22820,MZ/AZL/84A10/2024/121,Mizoram,Aizawl,Tachhip,23.58027778,92.715,2024-05-28,918.0,10.5454,180.0,67.8,120.5,158.2,Open-Meteo historical weather,reanalysis,available
+22821,MZ/AZL/84A10/2024/122,Mizoram,Aizawl,Tachhip,23.58138889,92.71416667,2024-05-28,911.0,28.1911,244.9873,67.8,120.5,158.2,Open-Meteo historical weather,reanalysis,available
+22822,MZ/AZL/84A10/2024/123,Mizoram,Aizawl,Tachhip,23.58694444,92.7175,2024-05-28,957.0,16.308,319.5328,67.8,120.5,158.2,Open-Meteo historical weather,reanalysis,available
+22823,MZ/AZL/84A10/2024/124,Mizoram,Aizawl,Tachhip,23.58555556,92.71583333,2024-05-28,924.0,29.0939,269.1666,67.8,120.5,158.2,Open-Meteo historical weather,reanalysis,available
+22824,MZ/AZL/84A10/2024/125,Mizoram,Aizawl,Tachhip,23.58583333,92.71638889,2024-05-28,952.0,21.7513,279.9293,67.8,120.5,158.2,Open-Meteo historical weather,reanalysis,available
+22825,MZ/AZL/84A10/2024/126,Mizoram,Aizawl,Tachhip,23.58638889,92.71583333,2024-05-28,919.0,23.098,280.3865,67.8,120.5,158.2,Open-Meteo historical weather,reanalysis,available
+22826,MZ/AZL/84A10/2024/127,Mizoram,Aizawl,Hualngohmun,23.65388889,92.72444444,2024-05-28,742.0,25.0467,241.5551,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+22827,MZ/AZL/84A10/2024/128,Mizoram,Aizawl,Hualngohmun,23.65416667,92.71777778,2024-05-28,872.0,30.7963,121.5212,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+22828,MZ/AZL/84A10/2024/129,Mizoram,Aizawl,Melriat to Samtlang road,23.655,92.71444444,2024-05-28,859.0,26.8857,247.4722,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+22829,MZ/AZL/84A10/2024/130,Mizoram,Aizawl,Melriat to Samtlang road,23.65416667,92.69,2024-05-28,867.0,35.8753,67.2877,76.9,149.1,183.0,Open-Meteo historical weather,reanalysis,available
+22830,MZ/AZL/84A10/2024/131,Mizoram,Aizawl,N Lungleng,23.66055556,92.67277778,2024-05-28,1017.0,16.6041,148.7614,76.9,149.1,183.0,Open-Meteo historical weather,reanalysis,available
+22831,MZ/AZL/84A10/2024/132,Mizoram,Aizawl,N Lungleng,23.66083333,92.67277778,2024-05-28,1025.0,11.5158,142.6113,76.9,149.1,183.0,Open-Meteo historical weather,reanalysis,available
+22832,MZ/AZL/84A10/2024/133,Mizoram,Aizawl,N Lungleng,23.65777778,92.67444444,2024-05-28,954.0,10.5251,163.4191,76.9,149.1,183.0,Open-Meteo historical weather,reanalysis,available
+22833,MZ/AZL/84A10/2024/134,Mizoram,Aizawl,Samtlang Junction,23.65861111,92.70583333,2024-05-28,872.0,8.2232,162.1979,76.9,149.1,183.0,Open-Meteo historical weather,reanalysis,available
+22834,MZ/AZL/84A10/2024/135,Mizoram,Aizawl,Melthum,23.68143611,92.72144167,2024-05-28,1036.0,32.8555,61.9675,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+22835,MZ/AZL/84A14/2024/136,Mizoram,Aizawl,Zemabawk to Tuirial Airfield,23.73555556,92.78833333,2024-05-28,529.0,30.9353,106.4755,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+22836,MZ/AZL/84A14/2024/137,Mizoram,Aizawl,Tuirial,23.72694444,92.79527778,2024-05-28,256.0,20.2488,28.6418,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+22837,MZ/AZL/84A14/2024/138,Mizoram,Aizawl,Tuirial Airfield,23.73277778,92.79722222,2024-05-28,256.0,14.9932,243.0433,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+22838,MZ/AZL/84A14/2024/139,Mizoram,Aizawl,Tuirial Airfield Cemetery,23.73416667,92.79861111,2024-05-28,296.0,13.9691,264.3983,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+22839,MZ/AZL/84A14/2024/140,Mizoram,Aizawl,Tuirial Airfield,23.74555556,92.79444444,2024-05-28,360.0,25.4539,96.3458,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+22841,MZ/AZL/84A14/2024/142,Mizoram,Aizawl,Tuirial Airfield,23.73638889,92.79805556,2024-05-28,346.0,21.7924,239.5956,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+22842,MZ/AZL/84A14/2024/143,Mizoram,Aizawl,Tuirial Airfield,23.73583333,92.79888889,2024-05-28,355.0,30.03,211.3365,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+22843,MZ/AZL/84A14/2024/144,Mizoram,Aizawl,Tuirial Airfield,23.73638889,92.8,2024-05-28,375.0,24.1043,86.3698,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+22844,MZ/AZL/84A14/2024/145,Mizoram,Aizawl,Tuirial Airfield,23.73555556,92.80027778,2024-05-28,362.0,8.2723,156.7158,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+22845,MZ/AZL/84A14/2024/146,Mizoram,Aizawl,Tuirial,23.71972222,92.79777778,2024-05-28,215.0,19.0236,90.0,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+22846,MZ/AZL/84A14/2024/0147,Mizoram,Aizawl,Tuirial,23.72222222,92.80138889,2024-05-28,203.0,29.3154,271.2389,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+22848,MZ/AZL/84A14/2024/149,Mizoram,Aizawl,Seling to Sesawng,23.73305556,92.84777778,2024-05-28,765.0,44.0481,0.7856,59.1,112.4,143.7,Open-Meteo historical weather,reanalysis,available
+22849,MZ/AZL/84A13/2024/150,Mizoram,Aizawl,Sesawng,23.76083333,92.8475,2024-05-28,789.0,29.7753,294.2211,47.7,88.6,107.8,Open-Meteo historical weather,reanalysis,available
+22850,MZ/AZL/84A13/2024/151,Mizoram,Aizawl,Khawruhlian,23.86972222,92.87611111,2024-05-28,971.0,24.1869,336.7886,52.3,106.3,120.6,Open-Meteo historical weather,reanalysis,available
+22851,MZ/AZL/84A13/2024/152,Mizoram,Aizawl,Mualmam,23.80750556,92.83417222,2024-05-28,558.0,33.7158,49.0828,47.7,88.6,107.8,Open-Meteo historical weather,reanalysis,available
+22852,MZ/SER/84A15/2024/153,Mizoram,Serchhip,Chhingchhip NH,23.47694444,92.857846,2024-05-28,1053.0,16.9317,301.2284,62.0,123.0,185.2,Open-Meteo historical weather,reanalysis,available
+22853,MZ/SER/84A15/2024/154,Mizoram,Serchhip,"Venglai , Chhingchhip",23.471041,92.85503,2024-05-28,1076.0,31.3452,344.454,62.0,123.0,185.2,Open-Meteo historical weather,reanalysis,available
+22854,MZ/SER/84A15/2024/155,Mizoram,Serchhip,"Venglai, Chhingchhip",23.465558,92.855991,2024-05-28,1072.0,16.8421,97.6827,62.0,123.0,185.2,Open-Meteo historical weather,reanalysis,available
+22855,MZ/SER/84A15/2024/156,Mizoram,Serchhip,"Venglai, Chhingchhip",23.463164,92.854672,2024-05-28,1060.0,22.0588,258.4782,62.0,123.0,185.2,Open-Meteo historical weather,reanalysis,available
+22856,MZ/SER/84A15/2024/157,Mizoram,Serchhip,"Hmar Veng, Serchhip",23.31259,92.856415,2024-05-28,1000.0,35.1333,315.9629,84.7,140.4,182.2,Open-Meteo historical weather,reanalysis,available
+22857,MZ/SER/84A15/2024/158,Mizoram,Serchhip,"NH, Serchhip",23.288812,92.864763,2024-05-28,898.0,31.4437,170.4603,84.7,140.4,182.2,Open-Meteo historical weather,reanalysis,available
+22858,MZ/SER/84A15/2024/159,Mizoram,Serchhip,"NH, Serchhip",23.281264,92.869279,2024-05-28,982.0,35.0202,243.2259,84.7,140.4,182.2,Open-Meteo historical weather,reanalysis,available
+22860,MZ/SER/84A15/2024/161,Mizoram,Serchhip,"S Chhiahtlang, Kawn Veng",23.38151,92.844938,2024-05-28,928.0,15.3435,158.3103,85.5,142.7,205.6,Open-Meteo historical weather,reanalysis,available
+22861,MZ/SER/84A15/2024/162,Mizoram,Serchhip,"S Chhiahtlang, Kawn Veng",23.382175,92.843876,2024-05-28,936.0,22.9939,255.0785,85.5,142.7,205.6,Open-Meteo historical weather,reanalysis,available
+22862,MZ/SER/84A15/2024/163,Mizoram,Serchhip,N Chhiahtlang,23.382772,92.845187,2024-05-28,928.0,26.7925,84.4813,85.5,142.7,205.6,Open-Meteo historical weather,reanalysis,available
+22864,MZ/SER/84A15/2024/165,Mizoram,Serchhip,Chhiahtlang,23.387941,92.842291,2024-05-28,964.0,27.0912,270.9066,85.5,142.7,205.6,Open-Meteo historical weather,reanalysis,available
+22865,MZ/SER/84A16/2024/166,Mizoram,Serchhip,Keitum,23.237077,92.910043,2024-05-28,670.0,10.2489,19.9388,47.6,101.9,125.7,Open-Meteo historical weather,reanalysis,available
+22866,MZ/SER/84E04/2024/167,Mizoram,Serchhip,N Vanlaiphai,23.126631,93.064946,2024-05-28,1382.0,22.353,44.0749,30.4,79.8,102.3,Open-Meteo historical weather,reanalysis,available
+22949,MIZ/AZL/2023/81,Mizoram,Aizawl,Aizawl-Thenzawl-Lunglei Highway,23.51980556,92.70066667,2023-08-13,773.0,33.181,327.3185,9.5,14.1,51.9,Open-Meteo historical weather,reanalysis,available
+22953,MIZ/AZL/2023/85,Mizoram,Aizawl,Sakawrdai to Zohmun road,24.27138889,92.96,2023-07-24,776.0,22.7732,283.3771,24.0,59.0,115.6,Open-Meteo historical weather,reanalysis,available
+22970,MIZ/AZL/2023/102,Mizoram,Aizawl,,24.18561111,92.94536111,2013-08-15,452.0,15.3818,318.611,10.4,34.7,100.0,Open-Meteo historical weather,reanalysis,available
+23010,MIZ/AZL/2023/142,Mizoram,Aizawl,,23.57166667,92.71083333,2023-06-09,871.0,31.2792,346.5514,21.1,43.1,44.5,Open-Meteo historical weather,reanalysis,available
+23011,MIZ/AZL/2023/143,Mizoram,Aizawl,,23.58388889,92.71722222,2023-08-08,976.0,7.4123,71.8761,2.9,67.3,106.4,Open-Meteo historical weather,reanalysis,available
+23012,MIZ/AZL/2023/144,Mizoram,Aizawl,,23.58591667,92.71777778,2023-07-25,960.0,19.4191,105.3095,34.1,51.3,88.6,Open-Meteo historical weather,reanalysis,available
+23013,MIZ/AZL/2023/145,Mizoram,Aizawl,,23.55944444,92.70833333,2023-07-06,763.0,14.7388,46.1906,4.0,38.2,56.0,Open-Meteo historical weather,reanalysis,available
+23014,MIZ/AZL/2023/146,Mizoram,Aizawl,,23.54380556,92.70136111,2023-08-06,777.0,26.2091,311.1242,49.0,68.7,97.5,Open-Meteo historical weather,reanalysis,available
+23015,MIZ/AZL/2023/147,Mizoram,Aizawl,,23.54027778,92.70138889,2023-08-06,883.0,30.5845,315.407,49.0,68.7,97.5,Open-Meteo historical weather,reanalysis,available
+23016,MIZ/AZL/2023/148,Mizoram,Aizawl,,23.53986111,92.70063889,2023-08-06,843.0,21.8792,253.0072,49.0,68.7,97.5,Open-Meteo historical weather,reanalysis,available
+23017,MIZ/AZL/2023/149,Mizoram,Aizawl,,23.535,92.69694444,2023-07-28,819.0,39.3131,235.0205,3.7,17.4,77.9,Open-Meteo historical weather,reanalysis,available
+23018,MIZ/AZL/2023/150,Mizoram,Aizawl,,23.53333333,92.69722222,2023-08-02,821.0,36.376,306.0048,9.4,23.7,40.9,Open-Meteo historical weather,reanalysis,available
+23019,MIZ/AZL/2023/151,Mizoram,Aizawl,,23.52972222,92.69611111,2023-08-03,803.0,29.4885,267.5391,5.1,18.3,40.1,Open-Meteo historical weather,reanalysis,available
+23020,MIZ/AZL/2023/152,Mizoram,Aizawl,,23.49991667,92.70136111,2023-06-02,901.0,24.4511,268.47,0.0,4.0,6.1,Open-Meteo historical weather,reanalysis,available
+23021,MIZ/AZL/2023/153,Mizoram,Aizawl,,23.5,92.70111111,2023-08-09,885.0,25.4577,256.7312,3.6,36.2,110.0,Open-Meteo historical weather,reanalysis,available
+23023,MIZ/AZL/2023/155,Mizoram,Aizawl,,23.78138889,92.67638889,2023-10-25,441.0,39.6431,55.8259,11.2,16.0,24.0,Open-Meteo historical weather,reanalysis,available
+23025,MIZ/KOL/2023/157,Mizoram,Kolasib,,23.93027778,92.6525,2023-09-17,194.0,18.1408,90.0,25.3,27.8,99.2,Open-Meteo historical weather,reanalysis,available
+23026,MIZ/KOL/2023/158,Mizoram,Kolasib,,23.05805556,92.67583333,2023-08-12,706.0,4.5267,90.0,11.7,18.1,138.3,Open-Meteo historical weather,reanalysis,available
+23028,MIZ/KOL/2023/160,Mizoram,Kolasib,,23.05222222,92.67027778,2023-09-12,430.0,14.9558,233.7823,10.4,47.0,109.7,Open-Meteo historical weather,reanalysis,available
+23030,MIZ/KOL/2023/162,Mizoram,Kolasib,,23.03016667,92.67336111,2023-09-12,307.0,36.5962,28.6644,10.4,47.0,109.7,Open-Meteo historical weather,reanalysis,available
+23031,MIZ/KOL/2023/163,Mizoram,Kolasib,,23.02280556,92.67255556,2023-09-17,350.0,18.087,212.5844,40.7,44.2,103.6,Open-Meteo historical weather,reanalysis,available
+23032,MIZ/KOL/2023/164,Mizoram,Kolasib,,23.00638889,92.67691667,2023-07-23,402.0,30.0367,28.1282,16.4,45.7,80.2,Open-Meteo historical weather,reanalysis,available
+23037,MIZ/KOL/2023/169,Mizoram,Kolasib,,23.91777778,92.73805556,2023-09-27,908.0,56.8394,342.6658,0.7,16.0,38.8,Open-Meteo historical weather,reanalysis,available
+23038,MIZ/KOL/2023/170,Mizoram,Kolasib,,23.89638889,92.73638889,2023-09-27,1081.0,52.4742,294.81,0.5,16.3,33.1,Open-Meteo historical weather,reanalysis,available
+23088,MIZ/AZL/2024/220,Mizoram,Aizawl,,23.60861111,92.85055556,2024-05-28,1123.0,26.1864,228.1962,45.3,102.7,144.5,Open-Meteo historical weather,reanalysis,available
+23095,MIZ/AZL/2024/227,Mizoram,Aizawl,,23.73305556,92.75,2024-07-22,951.0,40.4279,237.2107,3.7,14.2,52.7,Open-Meteo historical weather,reanalysis,available
+23096,MIZ/AZL/2024/228,Mizoram,Aizawl,,23.73222222,92.75,2024-05-28,944.0,45.7409,264.342,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+23097,MIZ/AZL/2024/229,Mizoram,Aizawl,,23.73194444,92.75,2024-05-28,923.0,48.5726,260.752,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+23098,MIZ/AZL/2024/230,Mizoram,Aizawl,,23.74083333,92.74111111,2024-05-28,953.0,29.1434,92.4959,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+23099,MIZ/AZL/2024/231,Mizoram,Aizawl,,23.74916667,92.7375,2024-06-30,1017.0,35.0318,155.0035,18.1,32.6,71.1,Open-Meteo historical weather,reanalysis,available
+23103,MIZ/AZL/2024/235,Mizoram,Aizawl,,23.76972222,92.74472222,2024-05-28,1153.0,35.75,333.3582,38.4,98.3,134.2,Open-Meteo historical weather,reanalysis,available
+23105,MIZ/AZL/2024/237,Mizoram,Aizawl,,23.76388889,92.73388889,2024-09-26,1203.0,39.1825,273.4158,2.4,48.3,49.4,Open-Meteo historical weather,reanalysis,available
+23109,MIZ/AZL/2024/241,Mizoram,Aizawl,,23.73888889,92.71472222,2024-08-21,1107.0,29.7054,290.3395,8.6,75.2,177.6,Open-Meteo historical weather,reanalysis,available
+23115,MIZ/AZL/2024/247,Mizoram,Aizawl,,23.74916667,92.69416667,2024-05-28,802.0,38.9334,113.9391,49.4,126.3,165.8,Open-Meteo historical weather,reanalysis,available
+23117,MIZ/AZL/2024/249,Mizoram,Aizawl,,23.74194444,92.71305556,2024-08-21,902.0,22.6945,289.7977,12.3,55.0,163.9,Open-Meteo historical weather,reanalysis,available
+23118,MIZ/AZL/2024/250,Mizoram,Aizawl,,23.74388889,92.71222222,2024-07-20,824.0,30.3894,313.6362,2.7,23.6,54.1,Open-Meteo historical weather,reanalysis,available
+23119,MIZ/AZL/2024/252,Mizoram,Aizawl,,23.74722222,92.71805556,2024-07-02,966.0,36.6566,277.185,23.7,95.4,132.2,Open-Meteo historical weather,reanalysis,available
+23121,MIZ/AZL/2024/254,Mizoram,Aizawl,,23.69277778,92.72055556,2024-05-28,978.0,39.3651,102.8256,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+23129,MIZ/AZL/2024/262,Mizoram,Aizawl,,23.69777778,92.71944444,2024-09-20,984.0,34.5172,140.9651,0.4,9.6,33.2,Open-Meteo historical weather,reanalysis,available
+23130,MIZ/AZL/2024/263,Mizoram,Aizawl,,23.69972222,92.7175,2024-06-20,998.0,31.2703,178.3319,2.4,8.8,20.9,Open-Meteo historical weather,reanalysis,available
+23132,MIZ/AZL/2024/265,Mizoram,Aizawl,,23.70972222,92.72222222,2024-05-28,918.0,31.9993,172.276,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+23133,MIZ/AZL/2024/266,Mizoram,Aizawl,,23.69944444,92.71972222,2024-05-28,1070.0,12.1529,157.0489,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+23137,MIZ/AZL/2024/270,Mizoram,Aizawl,,23.70277778,92.72083333,2024-07-02,899.0,40.499,40.6972,23.7,95.4,132.2,Open-Meteo historical weather,reanalysis,available
+23138,MIZ/AZL/2024/271,Mizoram,Aizawl,,23.7025,92.72138889,2024-07-02,875.0,33.375,75.0474,23.7,95.4,132.2,Open-Meteo historical weather,reanalysis,available
+23139,MIZ/AZL/2024/272,Mizoram,Aizawl,,23.69805556,92.72277778,2024-07-02,858.0,31.1158,134.7467,23.7,95.4,132.2,Open-Meteo historical weather,reanalysis,available
+23140,MIZ/AZL/2024/273,Mizoram,Aizawl,,23.69361111,92.7225,2024-06-28,869.0,38.7004,86.8147,5.7,35.5,57.9,Open-Meteo historical weather,reanalysis,available
+23145,MIZ/AZL/2024/278,Mizoram,Aizawl,,23.66416667,92.72055556,2024-05-28,1046.0,52.0775,98.8877,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+23146,MIZ/AZL/2024/279,Mizoram,Aizawl,,23.66055556,92.72527778,2024-05-28,888.0,25.1637,30.5219,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+23147,MIZ/AZL/2024/280,Mizoram,Aizawl,,23.66,92.72638889,2024-05-28,891.0,19.8351,23.0768,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+23148,MIZ/AZL/2024/281,Mizoram,Aizawl,,23.65527778,92.72694444,2024-05-28,811.0,22.1191,147.8157,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+23149,MIZ/AZL/2024/282,Mizoram,Aizawl,,23.65138889,92.72694444,2024-05-28,789.0,10.8378,141.4576,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+23150,MIZ/AZL/2024/283,Mizoram,Aizawl,,23.64555556,92.72444444,2024-05-28,805.0,33.1469,263.9528,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+23152,MIZ/AZL/2024/285,Mizoram,Aizawl,,23.64444444,92.72527778,2024-05-28,816.0,23.9698,215.8922,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+23153,MIZ/AZL/2024/286,Mizoram,Aizawl,,23.64166667,92.72416667,2024-05-28,829.0,21.132,337.1319,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+23154,MIZ/AZL/2024/287,Mizoram,Aizawl,,23.64083333,92.72472222,2024-05-28,827.0,24.0431,214.3626,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+23155,MIZ/AZL/2024/288,Mizoram,Aizawl,,23.6375,92.72277778,2024-05-28,843.0,37.8044,4.8998,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+23160,MIZ/AZL/2024/294,Mizoram,Aizawl,,23.62611111,92.72638889,2024-05-28,785.0,21.9405,35.5338,67.8,120.5,158.2,Open-Meteo historical weather,reanalysis,available
+23161,MIZ/AZL/2024/295,Mizoram,Aizawl,,23.6325,92.72388889,2024-05-28,807.0,35.583,60.5216,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+23163,MIZ/AZL/2024/297,Mizoram,Aizawl,,23.62972222,92.72555556,2024-05-28,771.0,27.3416,154.17,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+23167,MIZ/AZL/2024/302,Mizoram,Aizawl,,23.61611111,92.71722222,2024-05-28,887.0,23.3428,142.8538,67.8,120.5,158.2,Open-Meteo historical weather,reanalysis,available
+23170,MIZ/AZL/2024/305,Mizoram,Aizawl,,23.61861111,92.72611111,2024-05-28,793.0,28.4604,161.4708,67.8,120.5,158.2,Open-Meteo historical weather,reanalysis,available
+23171,MIZ/AZL/2024/306,Mizoram,Aizawl,,23.60555556,92.725,2024-05-28,906.0,22.503,54.1175,67.8,120.5,158.2,Open-Meteo historical weather,reanalysis,available
+23172,MIZ/AZL/2024/307,Mizoram,Aizawl,,23.58694444,92.8175,2024-08-25,633.0,3.897,26.9856,6.6,45.3,169.3,Open-Meteo historical weather,reanalysis,available
+23177,MIZ/AZL/2024/312,Mizoram,Aizawl,,23.59194444,92.75055556,2024-05-28,701.0,25.6409,196.0219,67.8,120.5,158.2,Open-Meteo historical weather,reanalysis,available
+23178,MIZ/AZL/2024/313,Mizoram,Aizawl,,23.595,92.81611111,2024-05-28,622.0,26.6875,46.8178,45.3,102.7,144.5,Open-Meteo historical weather,reanalysis,available
+23184,MIZ/AZL/2024/319,Mizoram,Aizawl,,23.60861111,92.80972222,2024-05-28,498.0,26.6805,153.3695,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+23188,MIZ/AZL/2024/323,Mizoram,Aizawl,,23.60972222,92.80916667,2024-05-28,536.0,25.4526,302.3893,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+23189,MIZ/AZL/2024/324,Mizoram,Aizawl,,23.61361111,92.80777778,2024-05-28,549.0,25.3917,154.6568,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+23192,MIZ/AZL/2024/327,Mizoram,Aizawl,,23.61222222,92.80527778,2024-05-28,450.0,24.8375,144.4031,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+23193,MIZ/AZL/2024/328,Mizoram,Aizawl,,23.61138889,92.80333333,2024-05-28,451.0,30.0593,180.4373,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+23196,MIZ/AZL/2024/331,Mizoram,Aizawl,,23.60972222,92.79972222,2024-07-02,397.0,37.5447,236.4348,24.2,91.9,130.7,Open-Meteo historical weather,reanalysis,available
+23207,MIZ/AZL/2024/342,Mizoram,Aizawl,,23.61611111,92.79777778,2024-05-28,397.0,23.6053,159.2829,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+23208,MIZ/AZL/2024/343,Mizoram,Aizawl,,23.61472222,92.79583333,2024-05-28,380.0,36.492,156.7922,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+23209,MIZ/AZL/2024/344,Mizoram,Aizawl,,23.615,92.79222222,2024-05-28,331.0,29.6418,207.2548,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+23210,MIZ/AZL/2024/345,Mizoram,Aizawl,,23.61583333,92.79111111,2023-09-23,329.0,33.4128,207.9479,0.2,9.2,90.9,Open-Meteo historical weather,reanalysis,available
+23211,MIZ/AZL/2024/346,Mizoram,Aizawl,,23.61861111,92.79,2024-05-28,314.0,10.1451,174.3336,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+23214,MIZ/AZL/2024/350,Mizoram,Aizawl,,23.62333333,92.78888889,2024-05-28,229.0,22.9586,248.1255,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+23215,MIZ/AZL/2024/351,Mizoram,Aizawl,,23.62361111,92.78888889,2024-08-28,235.0,26.4865,251.5337,42.8,62.0,105.6,Open-Meteo historical weather,reanalysis,available
+23216,MIZ/AZL/2024/352,Mizoram,Aizawl,,23.62527778,92.78638889,2024-05-28,204.0,7.8156,317.484,61.9,120.9,163.8,Open-Meteo historical weather,reanalysis,available
+23222,MIZ/AZL/2024/358,Mizoram,Aizawl,,23.60111111,92.75888889,2024-05-26,569.0,35.8934,246.2577,16.4,52.1,59.5,Open-Meteo historical weather,reanalysis,available
+23229,MIZ/AZL/2024/365,Mizoram,Aizawl,,23.59527778,92.71722222,2024-05-28,743.0,24.1683,283.0296,67.8,120.5,158.2,Open-Meteo historical weather,reanalysis,available
+23230,MIZ/AZL/2024/366,Mizoram,Aizawl,,23.59055556,92.71611111,2024-05-28,774.0,31.9306,339.249,67.8,120.5,158.2,Open-Meteo historical weather,reanalysis,available
+23231,MIZ/AZL/2024/367,Mizoram,Aizawl,,23.59027778,92.71583333,2024-05-28,788.0,33.9557,334.3532,67.8,120.5,158.2,Open-Meteo historical weather,reanalysis,available
+23246,MIZ/AZL/2024/382,Mizoram,Aizawl,,23.57138889,92.70972222,2024-05-28,855.0,35.2608,322.7155,67.8,120.5,158.2,Open-Meteo historical weather,reanalysis,available
+23247,MIZ/AZL/2024/383,Mizoram,Aizawl,,23.57055556,92.70888889,2024-05-28,904.0,32.8255,342.4727,67.8,120.5,158.2,Open-Meteo historical weather,reanalysis,available
+23248,MIZ/AZL/2024/384,Mizoram,Aizawl,,23.57027778,92.70722222,2024-05-28,847.0,30.5194,248.2405,67.8,120.5,158.2,Open-Meteo historical weather,reanalysis,available
+23249,MIZ/AZL/2024/385,Mizoram,Aizawl,,23.55388889,92.70472222,2024-05-28,834.0,1.7852,82.5393,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+23250,MIZ/AZL/2024/386,Mizoram,Aizawl,,23.55444444,92.70527778,2024-05-28,826.0,5.9121,192.3078,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+23251,MIZ/AZL/2024/387,Mizoram,Aizawl,,23.5625,92.70777778,2024-08-25,806.0,20.8835,259.6116,3.9,38.9,168.7,Open-Meteo historical weather,reanalysis,available
+23252,MIZ/AZL/2024/388,Mizoram,Aizawl,,23.56555556,92.7075,2024-07-19,834.0,39.1656,281.1721,14.5,31.9,75.2,Open-Meteo historical weather,reanalysis,available
+23253,MIZ/AZL/2024/389,Mizoram,Aizawl,,23.55,92.70444444,2024-05-28,847.0,30.0885,298.812,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+23254,MIZ/AZL/2024/390,Mizoram,Aizawl,,23.53222222,92.735,2024-05-28,1001.0,24.1012,354.3373,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+23264,MIZ/AZL/2024/401,Mizoram,Aizawl,,23.53555556,92.72333333,2024-05-28,910.0,21.8346,179.3688,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+23265,MIZ/AZL/2024/402,Mizoram,Aizawl,,23.53805556,92.71861111,2024-05-29,888.0,17.2108,109.8578,1.1,102.4,157.8,Open-Meteo historical weather,reanalysis,available
+23272,MIZ/AZL/2024/409,Mizoram,Aizawl,,23.54833333,92.71083333,2024-05-28,959.0,22.333,235.8387,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+23277,MIZ/AZL/2024/414,Mizoram,Aizawl,,23.54888889,92.70555556,2024-05-28,921.0,26.2756,280.3894,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+23278,MIZ/AZL/2024/415,Mizoram,Aizawl,,23.545,92.70333333,2024-05-28,858.0,34.5831,267.3084,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+23279,MIZ/AZL/2024/416,Mizoram,Aizawl,,23.54027778,92.70138889,2024-05-28,883.0,30.5845,315.407,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+23283,MIZ/AZL/2024/420,Mizoram,Aizawl,,23.53694444,92.6975,2024-05-28,841.0,33.0589,319.8876,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+23284,MIZ/AZL/2024/421,Mizoram,Aizawl,,23.53611111,92.69777778,2024-05-28,917.0,34.6531,324.4701,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+23285,MIZ/AZL/2024/422,Mizoram,Aizawl,,23.53555556,92.69694444,2024-05-28,853.0,44.0191,233.5096,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+23289,MIZ/AZL/2024/426,Mizoram,Aizawl,,23.53027778,92.69666667,2024-05-28,832.0,31.5609,297.8895,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+23290,MIZ/AZL/2024/427,Mizoram,Aizawl,,23.52861111,92.6975,2024-05-28,825.0,37.4496,209.3301,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+23294,MIZ/AZL/2024/431,Mizoram,Aizawl,,23.52277778,92.70277778,2024-05-28,787.0,17.2538,219.7549,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+23295,MIZ/AZL/2024/432,Mizoram,Aizawl,,23.51944444,92.70055556,2024-09-25,789.0,26.6637,335.6003,21.1,77.3,79.6,Open-Meteo historical weather,reanalysis,available
+23297,MIZ/AZL/2024/435,Mizoram,Aizawl,,23.51444444,92.69805556,2024-05-28,821.0,33.9992,224.4385,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+23299,MIZ/AZL/2024/437,Mizoram,Aizawl,,23.51055556,92.69972222,2024-05-28,824.0,32.1827,302.696,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+23300,MIZ/AZL/2024/438,Mizoram,Aizawl,,23.50861111,92.69805556,2024-05-28,834.0,32.0217,334.9504,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+23301,MIZ/AZL/2024/439,Mizoram,Aizawl,,23.50694444,92.69638889,2024-05-28,822.0,37.9605,228.7932,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+23303,MIZ/AZL/2024/441,Mizoram,Aizawl,,23.50527778,92.6975,2024-05-28,848.0,30.2823,266.026,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+23306,MIZ/AZL/2024/444,Mizoram,Aizawl,,23.55027778,92.70444444,2024-05-28,834.0,32.9737,307.2351,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+23316,MIZ/AZL/2024/454,Mizoram,Aizawl,,23.54305556,92.70055556,2024-05-28,824.0,37.9106,322.662,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+23321,MIZ/AZL/2024/459,Mizoram,Aizawl,,23.53972222,92.69944444,2024-05-28,783.0,33.6774,302.7195,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+23322,MIZ/AZL/2024/460,Mizoram,Aizawl,,23.53777778,92.69833333,2024-05-28,826.0,30.3167,318.3705,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+23327,MIZ/AZL/2024/465,Mizoram,Aizawl,,23.54277778,92.67638889,2024-05-28,665.0,16.773,123.4019,93.3,158.0,173.6,Open-Meteo historical weather,reanalysis,available
+23331,MIZ/AZL/2024/469,Mizoram,Aizawl,,23.54277778,92.67472222,2024-05-28,628.0,36.4956,221.9334,93.3,158.0,173.6,Open-Meteo historical weather,reanalysis,available
+23333,MIZ/AZL/2024/471,Mizoram,Aizawl,,23.54333333,92.66472222,2024-05-28,672.0,28.0117,122.176,93.3,158.0,173.6,Open-Meteo historical weather,reanalysis,available
+23334,MIZ/AZL/2024/472,Mizoram,Aizawl,,23.54166667,92.66472222,2023-08-12,701.0,19.0795,161.3936,2.2,8.3,112.1,Open-Meteo historical weather,reanalysis,available
+23336,MIZ/AZL/2024/474,Mizoram,Aizawl,,23.53944444,92.66527778,2024-05-28,599.0,22.8314,160.3957,93.3,158.0,173.6,Open-Meteo historical weather,reanalysis,available
+23338,MIZ/AZL/2024/476,Mizoram,Aizawl,,23.53888889,92.6625,2024-05-28,626.0,18.6923,123.3826,93.3,158.0,173.6,Open-Meteo historical weather,reanalysis,available
+23345,MIZ/AZL/2024/483,Mizoram,Aizawl,,23.53944444,92.65888889,2024-05-28,552.0,15.1297,236.3714,93.3,158.0,173.6,Open-Meteo historical weather,reanalysis,available
+23346,MIZ/AZL/2024/484,Mizoram,Aizawl,,23.53611111,92.65527778,2024-05-28,494.0,25.5398,93.8851,93.3,158.0,173.6,Open-Meteo historical weather,reanalysis,available
+23348,MIZ/AZL/2024/486,Mizoram,Aizawl,,23.52694444,92.65444444,2024-09-20,397.0,27.0028,118.9757,0.3,17.9,47.7,Open-Meteo historical weather,reanalysis,available
+23350,MIZ/AZL/2024/488,Mizoram,Aizawl,,23.52583333,92.63861111,2024-06-02,229.0,25.128,239.9707,0.9,10.3,152.1,Open-Meteo historical weather,reanalysis,available
+23351,MIZ/AZL/2024/489,Mizoram,Aizawl,,23.45083333,92.6825,2024-05-28,903.0,19.8093,179.2983,65.0,128.9,173.2,Open-Meteo historical weather,reanalysis,available
+23360,MIZ/AZL/2024/498,Mizoram,Aizawl,,23.44805556,92.68333333,2024-05-28,874.0,17.5106,78.1569,65.0,128.9,173.2,Open-Meteo historical weather,reanalysis,available
+23362,MIZ/AZL/2024/500,Mizoram,Aizawl,,23.44333333,92.68527778,2024-05-28,837.0,22.979,193.2296,65.0,128.9,173.2,Open-Meteo historical weather,reanalysis,available
+23365,MIZ/AZL/2024/503,Mizoram,Aizawl,,23.42722222,92.71277778,2024-05-28,940.0,40.8891,314.5119,65.0,128.9,173.2,Open-Meteo historical weather,reanalysis,available
+23367,MIZ/AZL/2024/505,Mizoram,Aizawl,,23.41694444,92.71805556,2024-05-28,1095.0,22.7387,12.7667,65.0,128.9,173.2,Open-Meteo historical weather,reanalysis,available
+23373,MIZ/AZL/2024/511,Mizoram,Aizawl,,23.41,92.74944444,2024-05-28,1224.0,27.7617,343.9505,65.0,128.9,173.2,Open-Meteo historical weather,reanalysis,available
+23388,MIZ/AZL/2024/526,Mizoram,Aizawl,,23.37972222,92.75166667,2024-05-28,1273.0,30.8044,176.184,69.1,138.8,190.5,Open-Meteo historical weather,reanalysis,available
+23396,MIZ/AZL/2024/534,Mizoram,Aizawl,,23.35694444,92.77027778,2024-05-28,1024.0,22.1038,248.9782,85.5,142.7,205.6,Open-Meteo historical weather,reanalysis,available
+23397,MIZ/AZL/2024/535,Mizoram,Aizawl,,23.35638889,92.77027778,2024-05-28,1016.0,26.6033,222.6661,85.5,142.7,205.6,Open-Meteo historical weather,reanalysis,available
+23401,MIZ/AZL/2024/539,Mizoram,Aizawl,,23.39166667,92.75527778,2024-05-28,1310.0,33.8656,161.2194,69.1,138.8,190.5,Open-Meteo historical weather,reanalysis,available
+23410,MIZ/AZL/2024/548,Mizoram,Aizawl,,23.43194444,92.76083333,2024-05-28,1460.0,23.839,219.7057,65.0,128.9,173.2,Open-Meteo historical weather,reanalysis,available
+23414,MIZ/AZL/2024/552,Mizoram,Aizawl,,23.44138889,92.77888889,2024-05-28,1331.0,27.7599,162.4406,62.0,123.0,185.2,Open-Meteo historical weather,reanalysis,available
+23420,MIZ/AZL/2024/559,Mizoram,Aizawl,,23.48555556,92.70305556,2024-05-28,979.0,9.7119,337.249,65.0,128.9,173.2,Open-Meteo historical weather,reanalysis,available
+23421,MIZ/AZL/2024/561,Mizoram,Aizawl,,23.49083333,92.70555556,2024-05-28,1007.0,51.7628,301.9619,65.0,128.9,173.2,Open-Meteo historical weather,reanalysis,available
+23427,MIZ/AZL/2024/567,Mizoram,Aizawl,,23.49861111,92.70388889,2024-05-28,951.0,37.2879,242.4593,54.9,118.1,157.5,Open-Meteo historical weather,reanalysis,available
+23430,MIZ/AZL/2024/570,Mizoram,Aizawl,,23.66194444,92.85416667,2024-11-12,834.0,19.7208,273.236,0.1,0.1,0.6,Open-Meteo historical weather,reanalysis,available
+23431,MIZ/AZL/2024/571,Mizoram,Aizawl,,23.68277778,92.8575,2024-05-28,946.0,33.1505,227.5171,50.3,103.7,135.9,Open-Meteo historical weather,reanalysis,available
+23432,MIZ/AZL/2024/572,Mizoram,Aizawl,,23.68305556,92.8575,2024-05-28,960.0,26.3733,224.757,50.3,103.7,135.9,Open-Meteo historical weather,reanalysis,available
+23435,MIZ/AZL/2024/575,Mizoram,Aizawl,,23.71388889,92.85722222,2024-07-02,840.0,34.9951,211.1802,25.7,96.6,134.3,Open-Meteo historical weather,reanalysis,available
+23436,MIZ/AZL/2024/576,Mizoram,Aizawl,,23.68638889,92.85833333,2024-05-28,927.0,22.4575,328.4073,50.3,103.7,135.9,Open-Meteo historical weather,reanalysis,available
+23438,MIZ/AZL/2024/578,Mizoram,Aizawl,,23.69472222,92.85972222,2024-05-28,937.0,22.8517,257.2398,59.1,112.4,143.7,Open-Meteo historical weather,reanalysis,available
+23439,MIZ/AZL/2024/579,Mizoram,Aizawl,,23.71416667,92.85805556,2024-05-28,879.0,28.0825,204.47,59.1,112.4,143.7,Open-Meteo historical weather,reanalysis,available
+23442,MIZ/AZL/2024/582,Mizoram,Aizawl,,23.72722222,92.85472222,2024-05-28,805.0,34.0307,219.9063,59.1,112.4,143.7,Open-Meteo historical weather,reanalysis,available
+23443,MIZ/AZL/2024/583,Mizoram,Aizawl,,23.72972222,92.85305556,2024-05-28,767.0,33.2788,250.5517,59.1,112.4,143.7,Open-Meteo historical weather,reanalysis,available
+23446,MIZ/AZL/2024/586,Mizoram,Aizawl,,23.73111111,92.84638889,2024-05-28,698.0,24.5467,229.0257,59.1,112.4,143.7,Open-Meteo historical weather,reanalysis,available
+23447,MIZ/AZL/2024/587,Mizoram,Aizawl,,23.73361111,92.84305556,2024-05-28,676.0,37.4133,235.1528,59.1,112.4,143.7,Open-Meteo historical weather,reanalysis,available
+23459,MIZ/AZL/2024/599,Mizoram,Aizawl,,23.73833333,92.81333333,2024-05-28,391.0,32.4096,213.3766,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+23460,MIZ/AZL/2024/600,Mizoram,Aizawl,,23.73694444,92.81361111,2024-07-02,407.0,37.254,330.7717,23.7,95.4,132.2,Open-Meteo historical weather,reanalysis,available
+23461,MIZ/AZL/2024/601,Mizoram,Aizawl,,23.73472222,92.81333333,2024-05-28,428.0,32.8023,258.7756,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+23465,MIZ/AZL/2024/605,Mizoram,Aizawl,,23.73,92.75833333,2024-05-28,910.0,35.6282,332.4433,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+23468,MIZ/AZL/2024/608,Mizoram,Aizawl,,23.73055556,92.75861111,2024-05-28,893.0,36.5198,316.1705,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+23470,MIZ/AZL/2024/610,Mizoram,Aizawl,,23.72916667,92.76583333,2024-07-02,754.0,29.0887,152.5565,23.7,95.4,132.2,Open-Meteo historical weather,reanalysis,available
+23472,MIZ/AZL/2024/612,Mizoram,Aizawl,,23.73027778,92.76861111,2024-08-28,728.0,31.9115,173.8873,37.3,62.3,96.1,Open-Meteo historical weather,reanalysis,available
+23473,MIZ/AZL/2024/613,Mizoram,Aizawl,,23.73222222,92.76555556,2024-07-02,892.0,37.3915,118.4592,23.7,95.4,132.2,Open-Meteo historical weather,reanalysis,available
+23476,MIZ/AZL/2024/616,Mizoram,Aizawl,,23.73794444,92.78613889,2024-07-02,546.0,42.3452,306.8318,23.7,95.4,132.2,Open-Meteo historical weather,reanalysis,available
+23477,MIZ/AZL/2024/617,Mizoram,Aizawl,,23.7375,92.78805556,2024-07-02,569.0,26.5521,88.6078,23.7,95.4,132.2,Open-Meteo historical weather,reanalysis,available
+23480,MIZ/AZL/2024/620,Mizoram,Aizawl,,23.73388889,92.79388889,2024-07-02,320.0,20.0289,126.8326,23.7,95.4,132.2,Open-Meteo historical weather,reanalysis,available
+23481,MIZ/AZL/2024/621,Mizoram,Aizawl,,23.72222222,92.79861111,2024-05-28,215.0,24.9147,343.4113,49.4,108.6,154.4,Open-Meteo historical weather,reanalysis,available
+23482,MIZ/AZL/2024/622,Mizoram,Aizawl,,23.72138889,92.79944444,2024-07-02,209.0,19.0675,94.0283,23.7,95.4,132.2,Open-Meteo historical weather,reanalysis,available
+23483,MIZ/AZL/2024/623,Mizoram,Aizawl,,23.72138889,92.85777778,2024-07-02,792.0,34.1986,296.1477,25.7,96.6,134.3,Open-Meteo historical weather,reanalysis,available
+23484,MIZ/AZL/2024/624,Mizoram,Aizawl,,23.72083333,92.86472222,2024-07-02,826.0,34.519,39.0398,25.7,96.6,134.3,Open-Meteo historical weather,reanalysis,available
+23487,MIZ/AZL/2024/627,Mizoram,Aizawl,,23.71166667,92.87833333,2024-07-02,612.0,30.5428,68.2618,25.7,96.6,134.3,Open-Meteo historical weather,reanalysis,available
+23488,MIZ/AZL/2024/628,Mizoram,Aizawl,,23.71111111,92.87861111,2024-06-28,592.0,34.4881,120.4391,9.9,33.3,61.7,Open-Meteo historical weather,reanalysis,available
+23489,MIZ/AZL/2024/629,Mizoram,Aizawl,,23.70333333,92.87638889,2024-07-18,566.0,2.1126,208.6375,3.4,38.5,57.5,Open-Meteo historical weather,reanalysis,available
+23494,MIZ/AZL/2024/634,Mizoram,Aizawl,,23.73361111,92.84833333,2024-06-07,727.0,24.919,325.8459,1.4,1.7,14.0,Open-Meteo historical weather,reanalysis,available
+23495,MIZ/AZL/2024/635,Mizoram,Aizawl,,23.73361111,92.85305556,2024-08-28,851.0,43.0716,0.2709,20.8,44.8,99.9,Open-Meteo historical weather,reanalysis,available
+23496,MIZ/AZL/2024/636,Mizoram,Aizawl,,23.735,92.85666667,2024-07-02,770.0,23.6414,288.3201,25.7,96.6,134.3,Open-Meteo historical weather,reanalysis,available
+23497,MIZ/AZL/2024/637,Mizoram,Aizawl,,23.73666667,92.85611111,2024-07-02,766.0,29.0164,256.4985,25.7,96.6,134.3,Open-Meteo historical weather,reanalysis,available
+23498,MIZ/AZL/2024/638,Mizoram,Aizawl,,23.73583333,92.85194444,2024-05-28,711.0,24.5583,27.6705,59.1,112.4,143.7,Open-Meteo historical weather,reanalysis,available
+23499,MIZ/AZL/2024/639,Mizoram,Aizawl,,23.74416667,92.85555556,2024-09-25,833.0,27.2393,187.8981,20.3,44.9,49.5,Open-Meteo historical weather,reanalysis,available
+23500,MIZ/AZL/2024/640,Mizoram,Aizawl,,23.74361111,92.85416667,2024-09-25,823.0,29.3812,154.9109,20.3,44.9,49.5,Open-Meteo historical weather,reanalysis,available
+23501,MIZ/AZL/2024/641,Mizoram,Aizawl,,23.76111111,92.84777778,2024-07-02,790.0,32.6014,309.2548,24.5,107.0,153.1,Open-Meteo historical weather,reanalysis,available
+23502,MIZ/AZL/2024/642,Mizoram,Aizawl,,23.76166667,92.85083333,2024-07-02,808.0,29.8292,316.0478,24.5,107.0,153.1,Open-Meteo historical weather,reanalysis,available
+23503,MIZ/AZL/2024/643,Mizoram,Aizawl,,23.76527778,92.85,2024-07-02,774.0,33.297,222.8421,24.5,107.0,153.1,Open-Meteo historical weather,reanalysis,available
+23504,MIZ/AZL/2024/644,Mizoram,Aizawl,,23.76861111,92.85138889,2024-07-02,772.0,31.1876,305.0968,24.5,107.0,153.1,Open-Meteo historical weather,reanalysis,available
+23505,MIZ/AZL/2024/645,Mizoram,Aizawl,,23.77777778,92.8479,2024-05-28,678.0,38.4632,221.0641,47.7,88.6,107.8,Open-Meteo historical weather,reanalysis,available
+23506,MIZ/AZL/2024/646,Mizoram,Aizawl,,23.774,92.848,2024-06-28,670.0,32.5817,318.9004,11.1,39.2,65.6,Open-Meteo historical weather,reanalysis,available
+23507,MIZ/AZL/2024/647,Mizoram,Aizawl,,23.7775,92.84833333,2024-05-28,686.0,37.4179,219.9133,47.7,88.6,107.8,Open-Meteo historical weather,reanalysis,available
+23508,MIZ/AZL/2024/648,Mizoram,Aizawl,,23.77833333,92.84666667,2024-05-28,665.0,34.4192,229.036,47.7,88.6,107.8,Open-Meteo historical weather,reanalysis,available
+23509,MIZ/AZL/2024/649,Mizoram,Aizawl,,23.77166667,92.84805556,2023-07-23,735.0,31.6228,273.3911,21.2,61.2,121.2,Open-Meteo historical weather,reanalysis,available
+23512,MIZ/AZL/2024/652,Mizoram,Aizawl,,23.77361111,92.84944444,2024-05-28,737.0,27.1837,318.4693,47.7,88.6,107.8,Open-Meteo historical weather,reanalysis,available
+23517,MIZ/AZL/2024/657,Mizoram,Aizawl,,23.82638889,92.8325,2024-05-28,395.0,38.9204,246.9883,47.7,88.6,107.8,Open-Meteo historical weather,reanalysis,available
+23519,MIZ/AZL/2024/659,Mizoram,Aizawl,,23.83277778,92.8325,2024-07-02,350.0,36.2796,229.415,20.8,102.8,160.4,Open-Meteo historical weather,reanalysis,available
+23520,MIZ/AZL/2024/660,Mizoram,Aizawl,,23.83888889,92.83194444,2024-07-02,262.0,24.4609,287.6063,20.8,102.8,160.4,Open-Meteo historical weather,reanalysis,available
+23521,MIZ/AZL/2024/661,Mizoram,Aizawl,,23.84777778,92.83694444,2024-05-28,376.0,22.4429,248.7451,52.3,106.3,120.6,Open-Meteo historical weather,reanalysis,available
+23522,MIZ/AZL/2024/662,Mizoram,Aizawl,,23.85194444,92.83305556,2024-09-25,165.0,15.2357,262.3149,19.6,46.9,50.1,Open-Meteo historical weather,reanalysis,available
+23523,MIZ/AZL/2024/663,Mizoram,Aizawl,,23.86222222,92.83666667,2024-07-02,239.0,19.4743,210.8694,19.9,104.6,162.6,Open-Meteo historical weather,reanalysis,available
+23525,MIZ/AZL/2024/665,Mizoram,Aizawl,,23.87777778,92.84083333,2024-09-25,374.0,41.2509,355.3687,19.6,46.9,50.1,Open-Meteo historical weather,reanalysis,available
+23526,MIZ/AZL/2024/666,Mizoram,Aizawl,,23.88583333,92.85055556,2024-09-28,514.0,30.8791,236.7583,1.3,10.0,56.9,Open-Meteo historical weather,reanalysis,available
+23527,MIZ/AZL/2024/667,Mizoram,Aizawl,,23.89277778,92.85083333,2024-09-28,582.0,26.3374,155.1507,1.3,10.0,56.9,Open-Meteo historical weather,reanalysis,available
+23528,MIZ/AZL/2024/668,Mizoram,Aizawl,,23.89138889,92.84888889,2024-07-02,568.0,24.1828,162.8005,19.9,104.6,162.6,Open-Meteo historical weather,reanalysis,available
+23529,MIZ/AZL/2024/669,Mizoram,Aizawl,,23.89305556,92.84722222,2024-09-28,573.0,22.8814,257.2587,1.3,10.0,56.9,Open-Meteo historical weather,reanalysis,available
+23530,MIZ/AZL/2024/670,Mizoram,Aizawl,,23.88361111,92.85305556,2024-08-17,658.0,31.0472,270.7704,57.5,105.3,138.5,Open-Meteo historical weather,reanalysis,available
+23531,MIZ/AZL/2024/671,Mizoram,Aizawl,,23.88527778,92.8575,2024-09-25,702.0,28.2761,135.6214,19.6,46.9,50.1,Open-Meteo historical weather,reanalysis,available
+23532,MIZ/AZL/2024/672,Mizoram,Aizawl,,23.76972222,92.76,2024-07-02,1166.0,42.5093,309.4768,24.8,101.3,141.2,Open-Meteo historical weather,reanalysis,available
+23533,MIZ/AZL/2024/705,Mizoram,Aizawl,,24.03503889,93.54139444,2024-09-28,1012.0,27.4351,300.4455,1.5,9.7,54.4,Open-Meteo historical weather,reanalysis,available
+23534,MIZ/AZL/2024/706,Mizoram,Aizawl,,24.05808333,93.49808333,2024-10-07,1244.0,11.2318,121.9961,3.4,9.8,77.6,Open-Meteo historical weather,reanalysis,available
+23535,MIZ/AZL/2024/707,Mizoram,Aizawl,,24.04531667,93.49220278,2024-10-07,1340.0,15.0536,81.3458,3.4,9.8,77.6,Open-Meteo historical weather,reanalysis,available
+23536,MIZ/AZL/2024/708,Mizoram,Aizawl,,24.090025,93.54191667,2024-10-07,705.0,18.8698,5.9558,3.8,10.9,70.3,Open-Meteo historical weather,reanalysis,available
+23537,MIZ/AZL/2024/709,Mizoram,Aizawl,,24.10864167,93.54198333,2024-09-28,741.0,5.5901,85.2565,1.1,7.5,24.7,Open-Meteo historical weather,reanalysis,available
+23538,MIZ/AZL/2024/710,Mizoram,Aizawl,,24.12682222,93.54013889,2024-09-28,765.0,22.4324,40.1262,1.1,7.5,24.7,Open-Meteo historical weather,reanalysis,available
+23539,MIZ/AZL/2024/711,Mizoram,Aizawl,,24.12715278,93.53351389,2024-10-07,633.0,17.3244,101.2218,7.3,12.1,63.7,Open-Meteo historical weather,reanalysis,available
+23540,MIZ/AZL/2024/712,Mizoram,Aizawl,,24.17180556,93.54406667,2024-07-02,659.0,26.5277,84.4171,16.6,74.9,128.3,Open-Meteo historical weather,reanalysis,available
+23541,MIZ/AZL/2024/713,Mizoram,Aizawl,,24.18291667,93.53441944,2024-07-02,785.0,27.8609,106.9135,16.6,74.9,128.3,Open-Meteo historical weather,reanalysis,available
+23542,MIZ/AZL/2024/714,Mizoram,Aizawl,,24.18566111,93.53935278,2024-07-02,673.0,23.0086,223.5909,16.6,74.9,128.3,Open-Meteo historical weather,reanalysis,available
+23543,MIZ/AZL/2024/715,Mizoram,Aizawl,,24.24449722,93.55275833,2024-07-02,1018.0,21.9418,164.6673,19.4,94.6,130.9,Open-Meteo historical weather,reanalysis,available
+23544,MIZ/AZL/2024/716,Mizoram,Aizawl,,24.24755556,93.54809722,2024-07-02,1166.0,27.1012,160.2295,18.6,100.9,149.9,Open-Meteo historical weather,reanalysis,available
+23545,MIZ/AZL/2024/717,Mizoram,Aizawl,,24.28840278,93.58591389,2024-08-13,798.0,25.0005,231.3287,8.2,18.8,42.2,Open-Meteo historical weather,reanalysis,available
+23546,MIZ/AZL/2024/718,Mizoram,Aizawl,,24.29982222,93.59040833,2024-08-13,786.0,26.4235,319.9558,8.2,18.8,42.2,Open-Meteo historical weather,reanalysis,available
+23547,MIZ/AZL/2024/719,Mizoram,Aizawl,,24.30768611,93.58120556,2024-08-13,735.0,9.7883,72.2448,8.2,18.8,42.2,Open-Meteo historical weather,reanalysis,available
+23548,MIZ/AZL/2024/720,Mizoram,Aizawl,,24.30711944,93.59375833,2024-08-13,905.0,23.515,201.5549,8.2,18.8,42.2,Open-Meteo historical weather,reanalysis,available
+23549,MIZ/AZL/2024/721,Mizoram,Aizawl,,24.33915833,93.66233611,2024-08-13,1042.0,15.7354,25.1912,2.6,18.0,54.8,Open-Meteo historical weather,reanalysis,available
+23550,MIZ/AZL/2024/722,Mizoram,Aizawl,,24.33331944,93.65702778,2024-08-13,1097.0,13.317,113.1559,2.6,18.0,54.8,Open-Meteo historical weather,reanalysis,available
+23551,MIZ/AZL/2024/723,Mizoram,Aizawl,,24.33300556,93.65357222,2024-09-28,1160.0,4.7762,73.1053,0.8,16.1,39.5,Open-Meteo historical weather,reanalysis,available
+23552,MIZ/AZL/2024/724,Mizoram,Aizawl,,24.3309,93.66054444,2024-08-13,1049.0,8.0717,110.0254,2.6,18.0,54.8,Open-Meteo historical weather,reanalysis,available
+23553,MIZ/AZL/2024/725,Mizoram,Aizawl,,24.32773611,93.57937222,2024-07-02,781.0,22.4169,191.1744,18.6,100.9,149.9,Open-Meteo historical weather,reanalysis,available
+23554,MIZ/AZL/2024/726,Mizoram,Aizawl,,24.39255556,93.65468611,2024-08-13,1561.0,43.7902,45.1703,2.6,18.0,54.8,Open-Meteo historical weather,reanalysis,available
+23556,MIZ/AZL/2024/728,Mizoram,Aizawl,,24.49112222,93.62215556,2024-08-13,1216.0,29.4382,142.0743,3.4,30.8,57.7,Open-Meteo historical weather,reanalysis,available
+23558,MIZ/AZL/2024/730,Mizoram,Aizawl,,24.48458889,93.58781944,2024-08-13,817.0,19.1307,299.3405,7.1,39.7,84.1,Open-Meteo historical weather,reanalysis,available
+23559,MIZ/AZL/2024/731,Mizoram,Aizawl,,24.492825,93.58643611,2024-09-28,632.0,12.7412,300.0751,4.8,31.0,65.2,Open-Meteo historical weather,reanalysis,available
+23560,MIZ/AZL/2024/732,Mizoram,Aizawl,,24.51785556,93.55086944,2024-08-13,1019.0,12.5727,202.2676,7.1,39.7,84.1,Open-Meteo historical weather,reanalysis,available
+23562,MIZ/AZL/2024/734,Mizoram,Aizawl,,24.52308611,93.57206944,2024-09-28,758.0,14.4334,284.5711,4.8,31.0,65.2,Open-Meteo historical weather,reanalysis,available
+23563,MIZ/AZL/2024/735,Mizoram,Aizawl,,24.48338333,93.58848056,2024-09-28,862.0,18.3773,294.4675,4.8,31.0,65.2,Open-Meteo historical weather,reanalysis,available
+23564,MIZ/KOL/2024/736,Mizoram,Kolasib,,24.450125,93.35963889,2024-08-08,328.0,7.9271,292.1992,18.5,38.8,104.3,Open-Meteo historical weather,reanalysis,available
+23565,MIZ/KOL/2024/737,Mizoram,Kolasib,,24.48857222,93.36792222,2024-09-28,268.0,13.3263,52.0444,5.4,28.2,76.5,Open-Meteo historical weather,reanalysis,available
+23566,MIZ/KOL/2024/738,Mizoram,Kolasib,,24.54263333,93.39741944,2024-08-18,560.0,40.9928,236.0273,21.7,55.7,112.4,Open-Meteo historical weather,reanalysis,available
+23567,MIZ/KOL/2024/739,Mizoram,Kolasib,,24.60002222,93.37166389,2024-10-21,863.0,15.6439,127.3711,0.0,9.7,14.0,Open-Meteo historical weather,reanalysis,available
+23568,MIZ/KOL/2024/740,Mizoram,Kolasib,,24.60067222,93.37223056,2024-10-21,854.0,22.6701,124.8643,0.0,9.7,14.0,Open-Meteo historical weather,reanalysis,available
+23569,MIZ/KOL/2024/741,Mizoram,Kolasib,,24.60372222,93.37223056,2024-07-02,815.0,31.2069,45.4564,33.6,134.8,214.0,Open-Meteo historical weather,reanalysis,available
+23570,MIZ/KOL/2024/742,Mizoram,Kolasib,,24.66895556,93.33700556,2024-07-02,832.0,31.1743,222.6253,34.9,155.3,230.1,Open-Meteo historical weather,reanalysis,available
+23572,MIZ/KOL/2024/744,Mizoram,Kolasib,,24.76606111,93.30076667,2024-08-13,451.0,22.7138,165.1947,15.9,27.6,86.4,Open-Meteo historical weather,reanalysis,available
+23573,MIZ/KOL/2024/745,Mizoram,Kolasib,,24.73838889,93.30909722,2024-08-18,264.0,25.3663,201.5021,21.6,71.0,130.0,Open-Meteo historical weather,reanalysis,available
+23574,MIZ/KOL/2024/746,Mizoram,Kolasib,,24.72074444,93.30899167,2024-07-02,372.0,6.4847,175.5038,43.5,154.4,267.5,Open-Meteo historical weather,reanalysis,available
+23575,MIZ/KOL/2024/747,Mizoram,Kolasib,,24.716225,93.32551389,2024-08-18,116.0,16.0219,301.429,21.6,71.0,130.0,Open-Meteo historical weather,reanalysis,available
+23576,MIZ/KOL/2024/748,Mizoram,Kolasib,,24.70553333,93.33064167,2024-09-28,371.0,24.6057,56.7775,3.9,21.9,61.4,Open-Meteo historical weather,reanalysis,available
+23577,MIZ/KOL/2024/749,Mizoram,Kolasib,,24.60719444,93.46784722,2024-08-19,1112.0,22.3947,51.0561,29.3,79.3,117.7,Open-Meteo historical weather,reanalysis,available
+23578,MIZ/KOL/2024/750,Mizoram,Kolasib,,24.60853333,93.41668333,2024-08-18,944.0,38.3905,270.0,32.5,62.9,107.2,Open-Meteo historical weather,reanalysis,available
+23580,MIZ/AZL/2024/752,Mizoram,Aizawl,,23.09758333,93.21623333,2024-07-02,878.0,29.0428,183.1794,19.3,83.2,154.5,Open-Meteo historical weather,reanalysis,available
+23581,MIZ/AZL/2024/753,Mizoram,Aizawl,,23.10851389,93.20975,2024-06-28,1106.0,23.7403,82.0665,7.8,61.5,88.4,Open-Meteo historical weather,reanalysis,available
+23582,MIZ/AZL/2024/754,Mizoram,Aizawl,,23.10172778,93.20231944,2024-05-28,1175.0,19.0932,148.5914,31.8,60.9,90.4,Open-Meteo historical weather,reanalysis,available
+23583,MIZ/AZL/2024/755,Mizoram,Aizawl,,23.101925,93.20426111,2024-07-02,1121.0,27.5924,129.9948,19.3,83.2,154.5,Open-Meteo historical weather,reanalysis,available
+23584,MIZ/AZL/2024/756,Mizoram,Aizawl,,23.10184722,93.20138889,2024-09-28,1202.0,21.8119,126.6274,10.5,35.4,60.0,Open-Meteo historical weather,reanalysis,available
+23587,MIZ/AZL/2024/759,Mizoram,Aizawl,,23.09759444,93.21089444,2024-07-02,924.0,33.2923,153.3279,19.3,83.2,154.5,Open-Meteo historical weather,reanalysis,available
+23588,MIZ/AZL/2024/760,Mizoram,Aizawl,,23.09561111,93.20786389,2024-05-28,1000.0,20.6569,356.655,31.8,60.9,90.4,Open-Meteo historical weather,reanalysis,available
+23590,MIZ/AZL/2024/762,Mizoram,Aizawl,,23.10100556,93.19393611,2024-07-02,1048.0,21.7626,221.396,19.3,83.2,154.5,Open-Meteo historical weather,reanalysis,available
+23591,MIZ/AZL/2024/763,Mizoram,Aizawl,,23.10074722,93.18785278,2024-07-02,978.0,25.9603,305.5804,19.3,83.2,154.5,Open-Meteo historical weather,reanalysis,available
+23592,MIZ/AZL/2024/764,Mizoram,Aizawl,,23.09954722,93.18600278,2024-07-02,913.0,22.4738,290.6209,19.3,83.2,154.5,Open-Meteo historical weather,reanalysis,available
+23595,MIZ/AZL/2024/767,Mizoram,Aizawl,,23.0983,93.17597222,2024-07-02,979.0,17.9933,230.5453,19.3,83.2,154.5,Open-Meteo historical weather,reanalysis,available
+23596,MIZ/AZL/2024/768,Mizoram,Aizawl,,23.110975,93.21260278,2024-05-28,1020.0,28.151,71.0216,31.8,60.9,90.4,Open-Meteo historical weather,reanalysis,available
+23597,MIZ/AZL/2024/769,Mizoram,Aizawl,,23.25986389,93.16155278,2024-10-28,1215.0,25.8343,21.9024,0.0,0.0,14.1,Open-Meteo historical weather,reanalysis,available
+23598,MIZ/AZL/2024/770,Mizoram,Aizawl,,23.25828611,93.15288333,2024-11-28,1207.0,30.3485,321.3582,1.8,1.8,7.1,Open-Meteo historical weather,reanalysis,available
+23599,MIZ/AZL/2024/771,Mizoram,Aizawl,,23.26126111,93.15070556,2024-11-28,1098.0,18.0465,291.1129,1.8,1.8,7.1,Open-Meteo historical weather,reanalysis,available
+23600,MIZ/AZL/2024/772,Mizoram,Aizawl,,23.25951944,93.15917222,2024-09-28,1252.0,16.3288,38.0585,3.0,20.6,64.8,Open-Meteo historical weather,reanalysis,available
+23601,MIZ/AZL/2024/773,Mizoram,Aizawl,,23.27598056,93.14351667,2024-07-02,663.0,7.3704,81.0002,21.3,71.9,117.6,Open-Meteo historical weather,reanalysis,available
+23602,MIZ/AZL/2024/774,Mizoram,Aizawl,,23.27663889,93.14375,2024-07-02,655.0,8.1684,37.8677,21.3,71.9,117.6,Open-Meteo historical weather,reanalysis,available
+23603,MIZ/AZL/2024/775,Mizoram,Aizawl,,23.281075,93.144075,2024-07-02,653.0,24.6649,73.6196,21.3,71.9,117.6,Open-Meteo historical weather,reanalysis,available
+23604,MIZ/AZL/2024/776,Mizoram,Aizawl,,23.32829167,93.12184167,2024-09-28,869.0,26.1233,190.8785,1.8,16.4,50.4,Open-Meteo historical weather,reanalysis,available
+23605,MIZ/AZL/2024/777,Mizoram,Aizawl,,23.33529167,93.11214167,2024-07-02,1144.0,30.6554,212.8773,21.3,71.9,117.6,Open-Meteo historical weather,reanalysis,available
+23606,MIZ/KOL/2024/778,Mizoram,Kolasib,,23.41421944,93.10569167,2024-08-13,1023.0,26.7757,353.98,13.7,19.7,42.9,Open-Meteo historical weather,reanalysis,available
+23608,MIZ/KOL/2024/780,Mizoram,Kolasib,,23.50882222,93.09170278,2024-07-02,685.0,25.6444,254.8513,20.0,87.7,132.4,Open-Meteo historical weather,reanalysis,available
+23609,MIZ/KOL/2024/781,Mizoram,Kolasib,,23.54130278,93.10256944,2024-09-12,635.0,6.6376,166.8439,1.9,23.8,47.3,Open-Meteo historical weather,reanalysis,available
+23610,MIZ/KOL/2024/782,Mizoram,Kolasib,,23.54600556,93.09247222,2024-09-12,791.0,23.3379,79.1874,3.8,35.0,62.9,Open-Meteo historical weather,reanalysis,available
+23611,MIZ/KOL/2024/783,Mizoram,Kolasib,,23.54286944,93.08539722,2024-09-12,916.0,22.8621,65.6241,3.8,35.0,62.9,Open-Meteo historical weather,reanalysis,available
+23612,MIZ/KOL/2024/784,Mizoram,Kolasib,,23.56332778,93.10553333,2024-10-22,724.0,25.5783,226.7768,2.4,3.1,10.4,Open-Meteo historical weather,reanalysis,available
+23613,MIZ/KOL/2024/785,Mizoram,Kolasib,,23.56785,93.10472222,2024-09-12,659.0,19.0966,194.0226,0.7,22.6,41.7,Open-Meteo historical weather,reanalysis,available
+23614,MIZ/KOL/2024/786,Mizoram,Kolasib,,23.56413333,93.11378889,2024-09-12,740.0,14.6099,344.2759,0.7,22.6,41.7,Open-Meteo historical weather,reanalysis,available
+23615,MIZ/KOL/2024/787,Mizoram,Kolasib,,23.56233889,93.11890833,2024-09-12,816.0,33.5608,285.2071,0.7,22.6,41.7,Open-Meteo historical weather,reanalysis,available
+23617,MIZ/KOL/2024/789,Mizoram,Kolasib,,23.56238611,93.12376667,2024-09-12,762.0,23.4678,335.9971,0.7,22.6,41.7,Open-Meteo historical weather,reanalysis,available
+23618,MIZ/KOL/2024/790,Mizoram,Kolasib,,23.56404167,93.10752222,2024-09-12,758.0,3.1663,331.3882,0.7,22.6,41.7,Open-Meteo historical weather,reanalysis,available
+23619,MIZ/KOL/2024/791,Mizoram,Kolasib,,23.56145278,93.10908889,2024-09-12,730.0,20.3515,287.7873,0.7,22.6,41.7,Open-Meteo historical weather,reanalysis,available
+23620,MIZ/KOL/2024/792,Mizoram,Kolasib,,23.55881111,93.10900556,2024-09-12,756.0,6.8305,227.4901,0.7,22.6,41.7,Open-Meteo historical weather,reanalysis,available
+23622,MIZ/KOL/2024/794,Mizoram,Kolasib,,23.5356,93.10656944,2024-09-13,687.0,29.4078,349.6232,1.9,5.9,44.2,Open-Meteo historical weather,reanalysis,available
+23623,MIZ/AZL/2024/795,Mizoram,Aizawl,,23.34297778,93.057775,2024-09-13,875.0,26.9373,313.2288,10.0,30.9,59.5,Open-Meteo historical weather,reanalysis,available
+23624,MIZ/AZL/2024/796,Mizoram,Aizawl,,23.35406111,93.04156111,2024-09-28,516.0,10.5397,301.4687,0.8,21.2,67.0,Open-Meteo historical weather,reanalysis,available
+23625,MIZ/AZL/2024/797,Mizoram,Aizawl,,23.35958611,93.04477222,2024-09-28,595.0,30.2762,306.1025,0.8,21.2,67.0,Open-Meteo historical weather,reanalysis,available
+23626,MIZ/KOL/2024/798,Mizoram,Kolasib,,23.36556111,93.05125278,2024-07-09,696.0,21.5595,340.4441,11.0,26.3,71.4,Open-Meteo historical weather,reanalysis,available
+23627,MIZ/KOL/2024/799,Mizoram,Kolasib,,23.36966389,93.04609444,2024-07-09,568.0,40.7688,111.4753,11.0,26.3,71.4,Open-Meteo historical weather,reanalysis,available
+23629,MIZ/KOL/2024/801,Mizoram,Kolasib,,23.03821667,93.12529444,2024-09-17,435.0,33.9108,101.107,8.2,17.4,107.1,Open-Meteo historical weather,reanalysis,available
+23630,MIZ/KOL/2024/802,Mizoram,Kolasib,,23.54294167,93.23821667,2024-09-24,1546.0,25.5904,296.6068,18.4,18.4,28.9,Open-Meteo historical weather,reanalysis,available
+23632,MIZ/KOL/2024/804,Mizoram,Kolasib,,24.55205833,93.25569167,2024-07-09,235.0,4.9548,27.5092,24.6,58.7,100.1,Open-Meteo historical weather,reanalysis,available
+23637,MIZ/KOL/2024/809,Mizoram,Kolasib,,24.599425,93.30004722,2024-08-24,520.0,23.6256,200.8631,11.6,107.3,243.0,Open-Meteo historical weather,reanalysis,available
+23638,MIZ/KOL/2024/810,Mizoram,Kolasib,,24.60921944,93.30050278,2024-09-24,720.0,39.2619,66.9747,4.1,4.8,7.8,Open-Meteo historical weather,reanalysis,available
+23640,MIZ/KOL/2024/812,Mizoram,Kolasib,,24.64528611,93.28593611,2024-09-24,570.0,25.8758,353.1464,3.3,3.6,6.1,Open-Meteo historical weather,reanalysis,available
+23641,MIZ/KOL/2024/813,Mizoram,Kolasib,,24.02205833,93.29369167,2024-09-24,1201.0,27.1884,353.0642,12.1,12.8,23.1,Open-Meteo historical weather,reanalysis,available
+23642,MIZ/KOL/2024/814,Mizoram,Kolasib,,23.01689167,93.283175,2024-09-24,885.0,30.6528,290.7989,18.6,18.7,23.1,Open-Meteo historical weather,reanalysis,available
+23643,MIZ/KOL/2024/815,Mizoram,Kolasib,,24.02782222,93.28944444,2024-07-02,816.0,28.773,21.7874,23.7,93.9,155.0,Open-Meteo historical weather,reanalysis,available
+23644,MIZ/KOL/2024/816,Mizoram,Kolasib,,24.04014167,93.2915,2024-07-02,666.0,22.4171,220.94,18.5,102.9,150.0,Open-Meteo historical weather,reanalysis,available
+23645,MIZ/KOL/2024/817,Mizoram,Kolasib,,24.03980278,93.29373889,2024-07-02,749.0,25.5759,235.491,18.5,102.9,150.0,Open-Meteo historical weather,reanalysis,available
+23646,MIZ/KOL/2024/818,Mizoram,Kolasib,,24.05823611,93.28901944,2024-07-02,585.0,29.8468,222.2205,18.5,102.9,150.0,Open-Meteo historical weather,reanalysis,available
+23647,MIZ/KOL/2024/819,Mizoram,Kolasib,,24.09210556,93.29866667,2024-09-24,923.0,15.9504,242.1429,17.5,19.3,23.8,Open-Meteo historical weather,reanalysis,available
+23648,MIZ/KOL/2024/820,Mizoram,Kolasib,,24.12428889,93.318525,2024-07-02,606.0,11.5376,92.2724,24.5,113.1,180.5,Open-Meteo historical weather,reanalysis,available
+23652,MIZ/KOL/2024/825,Mizoram,Kolasib,,24.297775,93.34159722,2024-09-24,562.0,27.2487,315.0097,24.4,24.4,25.9,Open-Meteo historical weather,reanalysis,available
+23654,MIZ/KOL/2024/827,Mizoram,Kolasib,,24.35137778,93.34095556,2024-09-24,315.0,10.1474,208.1358,23.1,23.2,24.4,Open-Meteo historical weather,reanalysis,available
+23657,MIZ/KOL/2024/830,Mizoram,Kolasib,,23.631219,93.118033,2024-08-15,670.0,7.0637,161.2861,22.9,54.1,75.1,Open-Meteo historical weather,reanalysis,available
+23660,MIZ/KOL/2024/834,Mizoram,Kolasib,,23.62418333,93.14208611,2024-08-15,1381.0,27.4353,234.769,22.9,54.1,75.1,Open-Meteo historical weather,reanalysis,available
+23662,MIZ/KOL/2024/836,Mizoram,Kolasib,,23.56672222,93.13764444,2024-07-09,1140.0,27.489,288.1261,17.5,35.2,79.4,Open-Meteo historical weather,reanalysis,available
+23663,MIZ/KOL/2024/837,Mizoram,Kolasib,,24.04014167,93.2915,2024-07-02,666.0,22.4171,220.94,18.5,102.9,150.0,Open-Meteo historical weather,reanalysis,available
+23664,MIZ/KOL/2024/838,Mizoram,Kolasib,,24.56771111,93.14291667,2024-07-09,461.0,10.1921,302.6996,24.3,54.3,115.3,Open-Meteo historical weather,reanalysis,available
+23665,MIZ/KOL/2024/839,Mizoram,Kolasib,,24.57467222,93.14389722,2024-07-09,584.0,26.0516,245.5482,24.3,54.3,115.3,Open-Meteo historical weather,reanalysis,available
+23666,MIZ/KOL/2024/840,Mizoram,Kolasib,,24.57470833,93.13897222,2024-07-09,349.0,32.5402,212.4813,24.3,54.3,115.3,Open-Meteo historical weather,reanalysis,available
+23667,MIZ/KOL/2024/841,Mizoram,Kolasib,,24.57151389,93.141725,2024-07-02,378.0,24.6464,188.9272,25.1,124.1,213.2,Open-Meteo historical weather,reanalysis,available
+23668,MIZ/KOL/2024/842,Mizoram,Kolasib,,24.56917222,93.14073611,2024-07-02,355.0,27.8031,330.1397,25.1,124.1,213.2,Open-Meteo historical weather,reanalysis,available
+23669,MIZ/KOL/2024/843,Mizoram,Kolasib,,24.5606,93.13071389,2024-07-07,464.0,29.2062,349.915,22.1,52.5,168.8,Open-Meteo historical weather,reanalysis,available
+23670,MIZ/KOL/2024/844,Mizoram,Kolasib,,24.55987778,93.12541667,2024-07-07,334.0,23.6561,257.1898,16.3,46.6,187.7,Open-Meteo historical weather,reanalysis,available
+23671,MIZ/KOL/2024/845,Mizoram,Kolasib,,24.08927222,93.12408611,2024-09-28,983.0,20.6657,240.4257,2.1,22.0,68.6,Open-Meteo historical weather,reanalysis,available
+23672,MIZ/KOL/2024/846,Mizoram,Kolasib,,24.10641389,93.12339944,2024-09-28,973.0,26.3786,146.3396,2.1,22.0,68.6,Open-Meteo historical weather,reanalysis,available
+23673,MIZ/KOL/2024/847,Mizoram,Kolasib,,24.10710778,93.11535444,2024-07-07,1001.0,36.1116,221.0231,9.2,23.8,133.5,Open-Meteo historical weather,reanalysis,available
+23674,MIZ/KOL/2024/848,Mizoram,Kolasib,,24.10015917,93.10461389,2024-09-24,464.0,29.5754,337.9772,17.4,17.7,23.8,Open-Meteo historical weather,reanalysis,available
+23675,MIZ/KOL/2024/849,Mizoram,Kolasib,,24.11104722,93.10374167,2024-09-24,584.0,25.4737,282.261,20.4,20.9,28.8,Open-Meteo historical weather,reanalysis,available
+23676,MIZ/KOL/2024/850,Mizoram,Kolasib,,24.10506389,93.09593611,2024-09-24,319.0,22.9446,254.4743,20.4,20.9,28.8,Open-Meteo historical weather,reanalysis,available
+23677,MIZ/KOL/2024/851,Mizoram,Kolasib,,24.10743611,93.09532222,2024-09-24,421.0,39.8112,207.911,20.4,20.9,28.8,Open-Meteo historical weather,reanalysis,available
+23678,MIZ/KOL/2024/852,Mizoram,Kolasib,,24.10687222,93.08849722,2024-09-24,216.0,29.4125,312.9969,20.4,20.9,28.8,Open-Meteo historical weather,reanalysis,available
+23679,MIZ/AZL/2024/853,Mizoram,Aizawl,,23.24231111,93.17726667,2024-07-17,647.0,16.2071,238.0564,6.6,35.5,60.7,Open-Meteo historical weather,reanalysis,available
+23680,MIZ/AZL/2024/854,Mizoram,Aizawl,,23.24500833,93.17587222,2024-09-24,559.0,11.1205,74.4755,13.3,13.9,19.7,Open-Meteo historical weather,reanalysis,available
+23681,MIZ/AZL/2024/855,Mizoram,Aizawl,,23.24454722,93.17027222,2024-07-19,861.0,32.7841,103.8141,4.3,12.2,59.8,Open-Meteo historical weather,reanalysis,available
+23682,MIZ/AZL/2024/856,Mizoram,Aizawl,,23.20960722,93.13104722,2024-07-02,911.0,17.3221,108.9287,18.0,72.0,122.9,Open-Meteo historical weather,reanalysis,available
+23683,MIZ/AZL/2024/857,Mizoram,Aizawl,,23.21068583,93.1212325,2024-07-02,1126.0,19.2309,50.3527,18.1,81.5,131.1,Open-Meteo historical weather,reanalysis,available
+23684,MIZ/KOL/2024/858,Mizoram,Kolasib,,23.49216111,93.23695,2024-07-17,1309.0,24.5839,181.6581,17.9,36.2,61.0,Open-Meteo historical weather,reanalysis,available
+23685,MIZ/KOL/2024/859,Mizoram,Kolasib,,23.504575,93.23805,2024-07-17,1419.0,27.4675,250.4427,17.9,36.2,61.0,Open-Meteo historical weather,reanalysis,available
+23686,MIZ/KOL/2024/860,Mizoram,Kolasib,,24.15364444,93.02183611,2024-06-07,306.0,28.7914,27.9106,3.6,9.8,37.5,Open-Meteo historical weather,reanalysis,available
+23687,MIZ/KOL/2024/861,Mizoram,Kolasib,,24.15817222,93.02488611,2024-09-28,570.0,21.3945,348.9038,3.0,22.3,61.5,Open-Meteo historical weather,reanalysis,available
+23688,MIZ/KOL/2024/862,Mizoram,Kolasib,,24.23419444,93.02469167,2024-09-28,80.0,27.7778,276.1747,0.7,7.1,48.3,Open-Meteo historical weather,reanalysis,available
+23689,MIZ/KOL/2024/863,Mizoram,Kolasib,,24.32836667,93.00923056,2024-09-28,430.0,41.9584,151.3693,1.3,21.6,67.1,Open-Meteo historical weather,reanalysis,available
+23691,MIZ/KOL/2024/865,Mizoram,Kolasib,,24.40520278,93.06672222,2024-07-09,349.0,30.9036,58.6278,18.8,41.8,140.1,Open-Meteo historical weather,reanalysis,available
+23692,MIZ/KOL/2024/866,Mizoram,Kolasib,,24.4259,93.13580556,2024-05-28,524.0,10.7145,290.0116,86.8,122.3,132.6,Open-Meteo historical weather,reanalysis,available
+23693,MIZ/KOL/2024/867,Mizoram,Kolasib,,24.44347778,93.15817778,2024-07-07,65.0,3.8415,15.3557,17.4,78.2,192.6,Open-Meteo historical weather,reanalysis,available
+23695,MIZ/KOL/2024/869,Mizoram,Kolasib,,24.44857778,93.15738611,2024-07-07,75.0,19.8139,88.0689,17.4,78.2,192.6,Open-Meteo historical weather,reanalysis,available
+23699,MIZ/KOL/2024/873,Mizoram,Kolasib,,24.65409167,93.204625,2024-07-17,134.0,22.4962,269.4401,13.8,78.6,135.9,Open-Meteo historical weather,reanalysis,available
+23700,MIZ/KOL/2024/874,Mizoram,Kolasib,,24.65018056,93.20256667,2024-07-17,230.0,20.4266,358.6298,13.8,78.6,135.9,Open-Meteo historical weather,reanalysis,available
+23701,MIZ/KOL/2024/875,Mizoram,Kolasib,,24.6273,93.20404444,2024-07-17,184.0,13.2817,62.4258,13.8,78.6,135.9,Open-Meteo historical weather,reanalysis,available
+23702,MIZ/KOL/2024/876,Mizoram,Kolasib,,24.62604722,93.22583889,2024-06-12,128.0,3.7693,222.5118,22.1,47.3,83.8,Open-Meteo historical weather,reanalysis,available
+23703,MIZ/KOL/2024/877,Mizoram,Kolasib,,24.58605,93.21056389,2024-09-24,72.0,21.9815,299.4238,18.2,18.6,20.1,Open-Meteo historical weather,reanalysis,available
+23704,MIZ/KOL/2024/878,Mizoram,Kolasib,,24.577475,93.19105,2024-10-22,129.0,11.833,124.0674,0.0,0.5,30.2,Open-Meteo historical weather,reanalysis,available
+23705,MIZ/KOL/2024/879,Mizoram,Kolasib,,24.56062778,93.18938889,2024-07-07,110.0,10.5356,314.1322,22.1,52.5,168.8,Open-Meteo historical weather,reanalysis,available
+23706,MIZ/KOL/2024/880,Mizoram,Kolasib,,24.5716,93.17273056,2024-06-12,208.0,30.0961,291.7199,20.8,45.1,83.4,Open-Meteo historical weather,reanalysis,available
+23707,MIZ/KOL/2024/881,Mizoram,Kolasib,,24.56925833,93.177275,2024-05-28,184.0,15.466,227.7148,98.1,134.1,141.3,Open-Meteo historical weather,reanalysis,available
+23708,MIZ/KOL/2024/882,Mizoram,Kolasib,,24.57296389,93.17700556,2024-07-07,301.0,26.4287,137.1221,22.1,52.5,168.8,Open-Meteo historical weather,reanalysis,available
+23709,MIZ/KOL/2024/883,Mizoram,Kolasib,,24.5768,93.106075,2024-06-12,119.0,18.9414,298.1443,23.3,45.9,81.4,Open-Meteo historical weather,reanalysis,available
+23710,MIZ/KOL/2024/884,Mizoram,Kolasib,,24.526075,93.05379167,2024-05-28,107.0,26.6417,152.5431,79.4,123.8,130.6,Open-Meteo historical weather,reanalysis,available
+23711,MIZ/KOL/2024/885,Mizoram,Kolasib,,24.458325,93.09439167,2024-09-24,443.0,17.2966,333.7306,16.8,16.8,19.6,Open-Meteo historical weather,reanalysis,available
+23712,MZ/AZL/84A10/2024/120,Mizoram,Aizawl,,23.57722222,92.71222222,2024-05-28,908.0,0.4637,180.0,67.8,120.5,158.2,Open-Meteo historical weather,reanalysis,available
+23714,MIZ/AZL/84A10/2025/002,Mizoram,Aizawl,Kulikawn East,23.6868033,92.7251987,2025-05-29,856.0,43.8405,101.4238,30.6,76.1,151.1,Open-Meteo historical weather,reanalysis,available
+23715,MIZ/AZL/84A10/2025/003,Mizoram,Aizawl,"Ngaizel, Kulikawn",23.7002691,92.7181685,2025-05-13,1038.0,35.5705,191.7676,0.7,5.0,5.6,Open-Meteo historical weather,reanalysis,available
+23721,MIZ/AZL/84A09/2025/009,Mizoram,Aizawl,"Zuangtui, Aizawl",23.75024,92.736662,2025-06-01,1095.0,22.9214,209.4348,27.5,126.3,227.3,Open-Meteo historical weather,reanalysis,available
+23723,MIZ/AZL/84A09/2025/011,Mizoram,Aizawl,Chaltlang Lily Veng,23.755925,92.726753,2025-05-24,1006.0,41.3656,349.5854,10.3,18.6,34.3,Open-Meteo historical weather,reanalysis,available
+23724,MIZ/AZL/84A10/2025/012,Mizoram,Aizawl,"Chanmari West, Aizawl",23.745802,92.717053,2025-06-01,919.0,22.6576,300.9185,27.5,126.3,227.3,Open-Meteo historical weather,reanalysis,available
+23727,MIZ/AZL/84A11/2025/015,Mizoram,Aizawl,Sumsuih,23.469247,92.744068,2025-06-01,1365.0,14.1234,71.2358,41.5,212.7,342.8,Open-Meteo historical weather,reanalysis,available
+23728,MIZ/AZL/84A15/2025/016,Mizoram,Aizawl,Sialsuk,23.410771,92.753123,2024-05-28,1132.0,29.6848,67.0164,65.0,128.9,173.2,Open-Meteo historical weather,reanalysis,available
+23729,MIZ/AZL/84A15/2025/017,Mizoram,Aizawl,Aizawl-Thenzawl-Lunglei,23.367366,92.767304,2025-06-01,1144.0,49.1993,245.4363,50.5,250.5,371.3,Open-Meteo historical weather,reanalysis,available
+23730,MIZ/AZL/84A15/2025/018,Mizoram,Aizawl,Aizawl-Thenzawl-Lunglei,23.353485,92.780193,2025-05-31,884.0,47.9246,267.2776,33.7,235.2,356.1,Open-Meteo historical weather,reanalysis,available
+23731,MIZ/AZL/84A15/2025/019,Mizoram,Aizawl,Aizawl-Thenzawl-Lunglei,23.350187,92.778852,2025-05-30,837.0,29.2453,344.0059,168.5,229.5,325.6,Open-Meteo historical weather,reanalysis,available
+23732,MIZ/AZL/84A15/2025/020,Mizoram,Aizawl,Aizawl-Thenzawl-Lunglei,23.341022,92.776761,2025-05-30,744.0,30.2739,233.8937,168.5,229.5,325.6,Open-Meteo historical weather,reanalysis,available
+23733,MIZ/AZL/84A15/2025/021,Mizoram,Aizawl,Aizawl-Thenzawl-Lunglei,23.339144,92.786128,2025-05-30,682.0,25.3917,202.9548,168.5,229.5,325.6,Open-Meteo historical weather,reanalysis,available
+23734,MIZ/AZL/84A15/2025/022,Mizoram,Aizawl,Thenzawl Quarry,23.336229,92.787113,2025-05-30,676.0,44.5431,224.3167,147.4,203.7,287.8,Open-Meteo historical weather,reanalysis,available
+23735,MIZ/AZL/84A15/2025/023,Mizoram,Aizawl,Aizawl-Thenzawl-Lunglei,23.313871,92.792739,2025-06-01,596.0,16.5018,355.7346,57.7,268.8,382.4,Open-Meteo historical weather,reanalysis,available
+23736,MIZ/SER/84A15/2025/024,Mizoram,Serchhip,Aizawl-Thenzawl-Lunglei,23.315355,92.790619,2025-05-31,617.0,31.8633,24.2813,32.2,214.3,317.7,Open-Meteo historical weather,reanalysis,available
+23737,MIZ/SER/84A15/2025/025,Mizoram,Serchhip,Outside Thenzawl,23.316491,92.788798,2025-05-31,641.0,28.5907,48.0645,32.2,214.3,317.7,Open-Meteo historical weather,reanalysis,available
+23738,MIZ/SER/84A12/2025/026,Mizoram,Serchhip,Aizawl-Thenzawl-Lunglei,23.239637,92.748175,2025-05-30,756.0,12.1146,135.7621,173.5,224.4,311.5,Open-Meteo historical weather,reanalysis,available
+23739,MIZ/SER/84A12/2025/027,Mizoram,Serchhip,Buangpui,23.239077,92.745631,2025-05-31,756.0,18.7672,138.6199,29.1,239.5,335.7,Open-Meteo historical weather,reanalysis,available
+23740,MIZ/SER/84A12/2025/028,Mizoram,Serchhip,Buangpui,23.239137,92.744468,2025-06-01,764.0,11.8024,140.7779,59.9,262.5,377.3,Open-Meteo historical weather,reanalysis,available
+23741,MIZ/SER/84A12/2025/029,Mizoram,Serchhip,Buangpui,23.239797,92.744214,2025-05-31,779.0,12.3831,160.0609,29.1,239.5,335.7,Open-Meteo historical weather,reanalysis,available
+23742,MIZ/SER/84A12/2025/030,Mizoram,Serchhip,Buangpui,23.238785,92.744224,2025-05-31,771.0,16.0405,78.6348,29.1,239.5,335.7,Open-Meteo historical weather,reanalysis,available
+23744,MIZ/LUNG/84A12/2025/032,Mizoram,Lunglei,Kanghmun,23.214239,92.740856,2025-05-31,842.0,18.9384,254.2601,29.1,239.5,335.7,Open-Meteo historical weather,reanalysis,available
+23745,MIZ/LUNG/84A12/2025/033,Mizoram,Lunglei,Aizawl-Thenzawl-Lunglei,23.203253,92.735838,2025-05-31,708.0,19.4583,288.7072,29.1,239.5,335.7,Open-Meteo historical weather,reanalysis,available
+23746,MIZ/LUNG/84A12/2025/034,Mizoram,Lunglei,Aizawl-Thenzawl-Lunglei,23.200475,92.735007,2025-06-01,749.0,16.9548,149.6367,59.9,262.5,377.3,Open-Meteo historical weather,reanalysis,available
+23747,MIZ/LUNG/84A12/2025/035,Mizoram,Lunglei,Aizawl-Thenzawl-Lunglei,23.195661,92.73562,2025-06-01,750.0,22.7936,99.9824,59.9,262.5,377.3,Open-Meteo historical weather,reanalysis,available
+23748,MIZ/LUNG/84A12/2025/036,Mizoram,Lunglei,Aizawl-Thenzawl-Lunglei,23.194007,92.734654,2025-05-30,778.0,29.5221,51.0315,118.4,169.1,246.8,Open-Meteo historical weather,reanalysis,available
+23749,MIZ/LUNG/84A12/2025/037,Mizoram,Lunglei,Aizawl-Thenzawl-Lunglei,23.193468,92.734849,2025-05-30,793.0,25.8645,81.8418,118.4,169.1,246.8,Open-Meteo historical weather,reanalysis,available
+23750,MIZ/LUNG/84A12/2025/038,Mizoram,Lunglei,Ramlaitui,23.183856,92.735346,2025-05-30,835.0,17.6988,119.6424,118.4,169.1,246.8,Open-Meteo historical weather,reanalysis,available
+23753,MIZ/LUNG/84A12/2025/041,Mizoram,Lunglei,Ramlaitui,23.18077,92.735789,2025-05-31,817.0,28.4849,220.4706,27.4,180.2,269.9,Open-Meteo historical weather,reanalysis,available
+23754,MIZ/LUNG/84A12/2025/042,Mizoram,Lunglei,Ramlaitui,23.173606,92.739793,2025-05-31,787.0,16.6696,124.5858,27.4,180.2,269.9,Open-Meteo historical weather,reanalysis,available
+23755,MIZ/LUNG/84A12/2025/043,Mizoram,Lunglei,Aizawl-Thenzawl-Lunglei,23.150939,92.748258,2025-05-31,881.0,24.8083,49.6184,27.4,180.2,269.9,Open-Meteo historical weather,reanalysis,available
+23756,MIZ/LUNG/84A16/2025/044,Mizoram,Lunglei,Sekhum,23.140846,92.751229,2025-05-31,861.0,34.2709,238.4905,27.4,180.2,269.9,Open-Meteo historical weather,reanalysis,available
+23757,MIZ/LUNG/84A12/2025/045,Mizoram,Lunglei,Aizawl-Thenzawl-Lunglei,23.1351,92.748694,2025-05-31,921.0,36.2804,291.6776,27.4,180.2,269.9,Open-Meteo historical weather,reanalysis,available
+23758,MIZ/LUNG/84A12/2025/046,Mizoram,Lunglei,Aizawl-Thenzawl-Lunglei,23.134009,92.746247,2025-05-31,795.0,22.0458,271.1453,27.4,180.2,269.9,Open-Meteo historical weather,reanalysis,available
+23759,MIZ/LUNG/84A12/2025/047,Mizoram,Lunglei,Aizawl-Thenzawl-Lunglei,23.132082,92.746268,2025-05-31,858.0,20.2875,270.0,27.4,180.2,269.9,Open-Meteo historical weather,reanalysis,available
+23760,MIZ/LUNG/84A12/2025/048,Mizoram,Lunglei,N. Mualthuam,23.114694,92.743931,2025-06-01,835.0,32.8427,71.353,43.0,163.7,265.8,Open-Meteo historical weather,reanalysis,available
+23761,MIZ/LUNG/84A12/2025/049,Mizoram,Lunglei,N. Mualthuam,23.114225,92.746024,2025-05-31,802.0,28.7965,344.6826,23.9,150.8,261.3,Open-Meteo historical weather,reanalysis,available
+23762,MIZ/LUNG/84A12/2025/050,Mizoram,Lunglei,N. Mualthuam,23.111824,92.745097,2025-05-31,835.0,16.1672,192.2681,23.9,150.8,261.3,Open-Meteo historical weather,reanalysis,available
+23763,MIZ/LUNG/84A16/2025/051,Mizoram,Lunglei,Aizawl-Thenzawl-Lunglei,23.015005,92.765065,2025-05-30,959.0,25.6628,27.8215,69.0,112.3,201.5,Open-Meteo historical weather,reanalysis,available
+23764,MIZ/LUNG/84A16/2025/052,Mizoram,Lunglei,Aizawl-Thenzawl-Lunglei,23.022804,92.755698,2025-05-31,852.0,20.0183,27.2986,27.9,119.3,223.3,Open-Meteo historical weather,reanalysis,available
+23765,MIZ/LUNG/84B09/2025/053,Mizoram,Lunglei,Aizawl-Thenzawl-Lunglei,22.973735,92.725975,2025-05-30,545.0,8.7103,236.3085,86.3,148.2,254.1,Open-Meteo historical weather,reanalysis,available
+23767,MIZ/LAW/84B14/2025/055,Mizoram,Lawngtlai,"College Veng, Lawngtlai",22.519716,92.891037,2025-05-31,888.0,18.4206,91.3925,18.4,86.6,282.8,Open-Meteo historical weather,reanalysis,available
+23768,MIZ/LAW/84B15/2025/056,Mizoram,Lawngtlai,NH 54,22.48765,92.886806,2025-05-31,1028.0,42.4705,296.521,18.4,86.6,282.8,Open-Meteo historical weather,reanalysis,available
+23769,MIZ/SIA/84B15/2025/057,Mizoram,Siaha,Kawchaw W,22.404215,92.951647,2025-05-31,198.0,30.0204,226.6567,43.4,111.5,293.0,Open-Meteo historical weather,reanalysis,available
+23770,MIZ/SIA/84B15/2025/058,Mizoram,Siaha,NH 54,22.444376,92.947323,2025-05-30,469.0,41.2451,332.9718,34.6,110.9,250.1,Open-Meteo historical weather,reanalysis,available
+23771,MIZ/SIA/84B15/2025/059,Mizoram,Siaha,"Meiseviah, Siaha",22.491822,92.970252,2025-05-31,967.0,21.168,259.7661,25.5,88.4,279.5,Open-Meteo historical weather,reanalysis,available
+23772,MIZ/SIA/84B15/2025/060,Mizoram,Siaha,"Meiseviah, Siaha",22.491,92.97076,2025-05-31,984.0,35.0395,271.9844,25.5,88.4,279.5,Open-Meteo historical weather,reanalysis,available
+23773,MIZ/SIA/84F03/2025/061,Mizoram,Siaha,Lobo,22.469737,93.100868,2025-06-01,1116.0,10.2861,191.1311,37.8,90.6,250.7,Open-Meteo historical weather,reanalysis,available
+23774,MIZ/SIA/84B15/2025/061,Mizoram,Siaha,Siaha to Kawlchaw,22.437107,92.946912,2025-05-31,344.0,26.7187,205.7801,43.4,111.5,293.0,Open-Meteo historical weather,reanalysis,available
+23775,MIZ/LAW/84B14/2025/061,Mizoram,Lawngtlai,Thingkah,22.54735,92.882032,2025-05-31,822.0,35.0505,268.0164,18.4,86.6,282.8,Open-Meteo historical weather,reanalysis,available
+23776,MIZ/LUNG/84B14/2025/062,Mizoram,Lunglei,NH 54,22.641087,92.867635,2025-05-31,1049.0,29.5735,103.1918,29.7,100.0,255.8,Open-Meteo historical weather,reanalysis,available
+23777,MIZ/LUNG/84B14/2025/063,Mizoram,Lunglei,NH 54,22.660692,92.855602,2025-05-31,980.0,26.7301,125.9177,29.7,100.0,255.8,Open-Meteo historical weather,reanalysis,available
+23778,MIZ/LUNG/84B14/2025/064,Mizoram,Lunglei,NH 54,22.688472,92.842907,2025-05-31,949.0,43.5056,266.5778,29.7,100.0,255.8,Open-Meteo historical weather,reanalysis,available
+23779,MIZ/LUNG/84B14/2025/065,Mizoram,Lunglei,NH 54,22.702165,92.836523,2025-05-31,815.0,27.755,253.4685,29.7,100.0,255.8,Open-Meteo historical weather,reanalysis,available
+23780,MIZ/LUNG/84B14/2025/066,Mizoram,Lunglei,NH 54,22.706999,92.841597,2025-05-31,860.0,34.1228,262.1049,29.7,100.0,255.8,Open-Meteo historical weather,reanalysis,available
+23781,MIZ/LUNG/84B14/2025/067,Mizoram,Lunglei,NH 54,22.745387,92.841543,2025-05-31,624.0,16.0754,184.3667,37.3,116.1,265.1,Open-Meteo historical weather,reanalysis,available
+23782,MIZ/LUNG/84B13/2025/070,Mizoram,Lunglei,NH 54,22.788323,92.833817,2025-05-31,745.0,13.326,259.1676,27.6,117.0,235.6,Open-Meteo historical weather,reanalysis,available
+23783,MIZ/LUNG/84B13/2025/071,Mizoram,Lunglei,NH 54,22.793307,92.819831,2025-05-31,865.0,31.7724,191.4464,27.6,117.0,235.6,Open-Meteo historical weather,reanalysis,available
+23784,MIZ/LUNG/84B13/2025/072,Mizoram,Lunglei,Theiriat,22.866131,92.772713,2025-06-01,1098.0,22.2907,153.9425,52.9,149.3,263.7,Open-Meteo historical weather,reanalysis,available
+23785,MIZ/LUNG/84B13/2025/073,Mizoram,Lunglei,Serkawn PHE Complex,22.903567,92.758702,2025-06-01,1199.0,33.5247,246.2239,52.9,149.3,263.7,Open-Meteo historical weather,reanalysis,available
+23786,MIZ/LUNG/84B13/2025/074,Mizoram,Lunglei,"Zohnuai, Lunglei",22.903454,92.760096,2025-06-01,1160.0,27.9957,132.6501,52.9,149.3,263.7,Open-Meteo historical weather,reanalysis,available
+23787,MIZ/LUNG/84B13/2025/075,Mizoram,Lunglei,"Serkawn, Lunglei",22.904615,92.75705,2025-06-01,1159.0,23.3854,250.8801,52.9,149.3,263.7,Open-Meteo historical weather,reanalysis,available
+23788,MIZ/LUNG/84B13/2025/076,Mizoram,Lunglei,"Zohnuai, Lunglei",22.922528,92.752404,2025-06-01,1126.0,15.9202,256.0429,49.0,147.7,251.5,Open-Meteo historical weather,reanalysis,available
+23789,MIZ/LUNG/84B09/2025/077,Mizoram,Lunglei,"Bazar Veng, Lunglei",22.895235,92.747812,2025-06-02,1010.0,25.003,278.4831,14.7,91.9,240.2,Open-Meteo historical weather,reanalysis,available
+23790,MIZ/LUNG/84B13/2025/078,Mizoram,Lunglei,NH 54,22.88042,92.821692,2025-06-01,872.0,22.7351,204.7909,52.9,149.3,263.7,Open-Meteo historical weather,reanalysis,available
+23791,MIZ/LUNG/84B13/2025/079,Mizoram,Lunglei,NH 54,22.892426,92.822937,2025-05-31,777.0,32.0617,95.1897,24.3,119.7,235.4,Open-Meteo historical weather,reanalysis,available
+23792,MIZ/HNAH/84B13/2025/080,Mizoram,Hnahthial,NH 54,22.902089,92.879909,2025-05-31,431.0,15.23,242.5614,24.5,107.1,203.4,Open-Meteo historical weather,reanalysis,available
+23793,MIZ/HNAH/84B13/2025/081,Mizoram,Hnahthial,Hnahthial Kanaan Veng,22.967715,92.925677,2025-05-31,773.0,18.4412,222.2411,24.4,110.0,206.6,Open-Meteo historical weather,reanalysis,available
+23794,MIZ/HNAH/84B13/2025/082,Mizoram,Hnahthial,"Electric Veng, Hnahthial",22.971217,92.925544,2025-05-31,728.0,31.4076,239.7531,24.4,110.0,206.6,Open-Meteo historical weather,reanalysis,available
+23795,MIZ/HNAH/84B13/2025/083,Mizoram,Hnahthial,"Electric Veng, Hnahthial",22.969582,92.925917,2025-05-31,758.0,28.9786,318.189,24.4,110.0,206.6,Open-Meteo historical weather,reanalysis,available
+23796,MIZ/HNAH/84A16/2025/084,Mizoram,Hnahthial,Pangzawl,23.077813,92.89844,2025-05-31,712.0,19.7674,101.6947,19.2,108.2,210.2,Open-Meteo historical weather,reanalysis,available
+23797,MIZ/HNAH/84A16/2025/085,Mizoram,Hnahthial,Pangzawl,23.081023,92.897247,2025-05-31,749.0,38.7077,106.126,19.2,108.2,210.2,Open-Meteo historical weather,reanalysis,available
+23798,MIZ/HNAH/84A16/2025/086,Mizoram,Hnahthial,Pangzawl,23.084343,92.898597,2025-05-31,767.0,28.4911,134.4987,19.2,108.2,210.2,Open-Meteo historical weather,reanalysis,available
+23799,MIZ/HNAH/84A16/2025/087,Mizoram,Hnahthial,Pangzawl,23.170678,92.899334,2025-06-01,869.0,4.8649,211.1446,41.1,129.6,236.1,Open-Meteo historical weather,reanalysis,available
+23800,MIZ/SER/84A16/2025/088,Mizoram,Serchhip,Bungtlang,23.180345,92.900082,2025-06-01,791.0,34.1377,90.684,41.1,129.6,236.1,Open-Meteo historical weather,reanalysis,available
+23801,MIZ/SER/84A16/2025/089,Mizoram,Serchhip,Bungtlang Vengsang,23.187383,92.89826,2025-06-01,885.0,26.8343,359.5014,41.1,129.6,236.1,Open-Meteo historical weather,reanalysis,available
+23803,MIZ/SER/84A16/2025/091,Mizoram,Serchhip,Bungtlang,23.188273,92.898879,2025-05-31,827.0,21.225,21.9678,19.4,118.5,223.9,Open-Meteo historical weather,reanalysis,available
+23804,MIZ/SER/84A16/2025/092,Mizoram,Serchhip,Bungtlang,23.193401,92.900218,2025-05-29,830.0,22.7778,102.8071,30.0,72.5,157.9,Open-Meteo historical weather,reanalysis,available
+23805,MIZ/SER/84A16/2025/093,Mizoram,Serchhip,Bungtlang,23.198119,92.899566,2025-05-31,904.0,15.2751,91.6983,19.4,118.5,223.9,Open-Meteo historical weather,reanalysis,available
+23806,MIZ/SER/84A16/2025/094,Mizoram,Serchhip,NH 54,23.223594,92.914767,2025-05-31,760.0,26.4308,61.2918,29.8,134.4,235.5,Open-Meteo historical weather,reanalysis,available
+23807,MIZ/SER/84A16/2025/095,Mizoram,Serchhip,NH 54,23.225227,92.912496,2025-05-31,734.0,40.7913,357.3674,29.8,134.4,235.5,Open-Meteo historical weather,reanalysis,available
+23809,MIZ/SER/84A15/2025/097,Mizoram,Serchhip,"P&E Veng, Serchhip",23.322039,92.859147,2025-05-31,1006.0,24.5661,105.4023,33.7,235.2,356.1,Open-Meteo historical weather,reanalysis,available
+23810,MIZ/SER/84A15/2025/098,Mizoram,Serchhip,"P&E Veng, Serchhip",23.319156,92.857722,2025-05-31,1038.0,20.0449,167.4429,33.7,235.2,356.1,Open-Meteo historical weather,reanalysis,available
+23811,MIZ/SER/84A15/2025/099,Mizoram,Serchhip,"P&E Veng, Serchhip",23.317543,92.858683,2025-05-31,1030.0,23.5241,52.1512,33.7,235.2,356.1,Open-Meteo historical weather,reanalysis,available
+23812,MIZ/SER/84A15/2025/100,Mizoram,Serchhip,"P&E Veng, Serchhip",23.318568,92.852294,2025-05-31,810.0,13.18,297.8136,32.2,214.3,317.7,Open-Meteo historical weather,reanalysis,available
+23813,MIZ/SER/84A15/2025/101,Mizoram,Serchhip,"P&E Veng, Serchhip",23.323423,92.860926,2025-05-31,989.0,9.2114,130.454,33.7,235.2,356.1,Open-Meteo historical weather,reanalysis,available
+23814,MIZ/SER/84A15/2025/102,Mizoram,Serchhip,"P&E Veng, Serchhip",23.319412,92.855415,2025-05-31,950.0,25.4325,234.6403,33.7,235.2,356.1,Open-Meteo historical weather,reanalysis,available
+23815,MIZ/SER/84A15/2025/103,Mizoram,Serchhip,"P&E Veng, Serchhip",23.319184,92.856725,2025-05-31,1024.0,27.0792,269.0929,33.7,235.2,356.1,Open-Meteo historical weather,reanalysis,available
+23816,MIZ/SER/84A15/2025/104,Mizoram,Serchhip,"Field Veng, Serchhip",23.309286,92.850807,2025-05-31,972.0,23.3006,283.5867,32.2,214.3,317.7,Open-Meteo historical weather,reanalysis,available
+23817,MIZ/SER/84A15/2025/105,Mizoram,Serchhip,"Field Veng, Serchhip",23.10112,92.852784,2025-05-31,772.0,17.6837,129.395,23.4,129.9,211.0,Open-Meteo historical weather,reanalysis,available
+23818,MIZ/SER/84A15/2025/106,Mizoram,Serchhip,"Ramthlun Veng, Serchhip",23.309914,92.853522,2025-05-31,969.0,28.9544,34.9917,32.2,214.3,317.7,Open-Meteo historical weather,reanalysis,available
+23819,MIZ/SER/84A15/2025/107,Mizoram,Serchhip,"AOC, Serchhip",23.315273,92.856524,2025-05-31,971.0,32.8634,231.6711,33.7,235.2,356.1,Open-Meteo historical weather,reanalysis,available
+23820,MIZ/SER/84A15/2025/108,Mizoram,Serchhip,Serchhip,23.311529,92.85443,2025-05-31,958.0,33.004,262.1212,32.2,214.3,317.7,Open-Meteo historical weather,reanalysis,available
+23821,MIZ/SER/84A15/2025/109,Mizoram,Serchhip,Serchhip,23.31637,92.854172,2025-05-31,895.0,21.9734,276.3343,33.7,235.2,356.1,Open-Meteo historical weather,reanalysis,available
+23822,MIZ/SER/84A15/2025/110,Mizoram,Serchhip,"Chandmari, Serchhip",23.310074,92.858498,2025-05-31,999.0,29.6102,217.7745,32.2,214.3,317.7,Open-Meteo historical weather,reanalysis,available
+23823,MIZ/SER/84A15/2025/111,Mizoram,Serchhip,"Chandmari, Serchhip",23.309295,92.860017,2025-05-31,997.0,20.4761,235.6971,32.2,214.3,317.7,Open-Meteo historical weather,reanalysis,available
+23824,MIZ/SER/84A15/2025/112,Mizoram,Serchhip,"Chandmari, Serchhip",23.308629,92.860039,2025-05-31,993.0,21.4154,270.5912,32.2,214.3,317.7,Open-Meteo historical weather,reanalysis,available
+23825,MIZ/SER/84A15/2025/113,Mizoram,Serchhip,Serchhip,23.308778,92.858357,2025-05-31,960.0,21.7342,105.9084,32.2,214.3,317.7,Open-Meteo historical weather,reanalysis,available
+23826,MIZ/SER/84A15/2025/114,Mizoram,Serchhip,Serchhip,23.300837,92.855693,2025-05-31,937.0,36.7748,27.3771,32.2,214.3,317.7,Open-Meteo historical weather,reanalysis,available
+23827,MIZ/SER/84A15/2025/115,Mizoram,Serchhip,Serchhip,23.300787,92.853572,2025-05-31,997.0,34.4853,38.9504,32.2,214.3,317.7,Open-Meteo historical weather,reanalysis,available
+23828,MIZ/SER/84A15/2025/116,Mizoram,Serchhip,Serchhip,23.305323,92.852358,2025-05-31,1070.0,30.8432,81.4253,32.2,214.3,317.7,Open-Meteo historical weather,reanalysis,available
+23830,MIZ/SER/84A15/2025/118,Mizoram,Serchhip,"Chandmari, Serchhip",23.304746,92.862109,2025-06-08,1005.0,34.5726,228.4265,8.2,14.1,45.9,Open-Meteo historical weather,reanalysis,available
+23831,MIZ/SER/84A15/2025/119,Mizoram,Serchhip,Serchhip,23.298928,92.857435,2025-05-31,941.0,20.7805,7.3382,32.2,214.3,317.7,Open-Meteo historical weather,reanalysis,available
+23832,MIZ/SER/84A15/2025/120,Mizoram,Serchhip,"Chandmari, Serchhip",23.310846,92.858915,2025-05-31,1053.0,28.219,213.9456,32.2,214.3,317.7,Open-Meteo historical weather,reanalysis,available
+23833,MIZ/SER/84A15/2025/121,Mizoram,Serchhip,"Chandmari, Serchhip",23.311335,92.858026,2025-05-31,1056.0,21.7675,212.7344,32.2,214.3,317.7,Open-Meteo historical weather,reanalysis,available
+23835,MIZ/SER/84A15/2025/123,Mizoram,Serchhip,"Saron, Serchhip",23.3057,92.852802,2025-05-31,1023.0,32.6017,87.4613,32.2,214.3,317.7,Open-Meteo historical weather,reanalysis,available
+23836,MIZ/SER/84A15/2025/124,Mizoram,Serchhip,"Chhim Veng, Serchhip",23.307093,92.856289,2025-06-01,981.0,19.608,178.5824,61.7,241.3,357.7,Open-Meteo historical weather,reanalysis,available
+23838,MIZ/SER/84A15/2025/126,Mizoram,Serchhip,"Chhim Veng, Serchhip",23.305939,92.857538,2025-06-01,922.0,26.6393,96.9508,61.7,241.3,357.7,Open-Meteo historical weather,reanalysis,available
+23839,MIZ/SER/84A15/2025/127,Mizoram,Serchhip,"Dinthar, Serchhip",23.303906,92.853173,2025-06-01,1037.0,38.2635,98.5574,61.7,241.3,357.7,Open-Meteo historical weather,reanalysis,available
+23840,MIZ/SER/84A15/2025/128,Mizoram,Serchhip,"Dinthar, Serchhip",23.301381,92.853078,2025-05-31,980.0,25.4051,35.1144,32.2,214.3,317.7,Open-Meteo historical weather,reanalysis,available
+23841,MIZ/SER/84A15/2025/129,Mizoram,Serchhip,"Dinthar, Serchhip",23.299628,92.855609,2025-05-31,950.0,25.3007,98.8646,32.2,214.3,317.7,Open-Meteo historical weather,reanalysis,available
+23842,MIZ/SER/84A15/2025/130,Mizoram,Serchhip,"Dinthar, Serchhip",23.298137,92.857412,2025-05-29,929.0,23.5264,135.7058,34.7,65.5,143.2,Open-Meteo historical weather,reanalysis,available
+23843,MIZ/SER/84A15/2025/131,Mizoram,Serchhip,Serchhip,23.293453,92.858089,2025-05-30,892.0,23.817,23.533,147.4,203.7,287.8,Open-Meteo historical weather,reanalysis,available
+23845,MIZ/SER/84A15/2025/133,Mizoram,Serchhip,"Dinthar, Serchhip",23.298166,92.858694,2025-05-31,907.0,21.2413,171.5258,32.2,214.3,317.7,Open-Meteo historical weather,reanalysis,available
+23846,MIZ/SER/84A15/2025/134,Mizoram,Serchhip,New Serchhip,23.346456,92.851511,2025-06-01,906.0,28.4446,248.066,60.5,261.8,383.8,Open-Meteo historical weather,reanalysis,available
+23847,MIZ/SER/84A15/2025/135,Mizoram,Serchhip,New Serchhip,23.3466,92.854847,2025-06-01,897.0,16.7978,162.1436,60.5,261.8,383.8,Open-Meteo historical weather,reanalysis,available
+23849,MIZ/SER/84A15/2025/137,Mizoram,Serchhip,Serchhip Bypass road,23.301587,92.868485,2025-05-31,864.0,23.7064,145.1109,32.2,214.3,317.7,Open-Meteo historical weather,reanalysis,available
+23850,MIZ/SER/84A15/2025/138,Mizoram,Serchhip,Serchhip Bypass road,23.313996,92.863984,2025-05-31,916.0,19.4496,103.2503,33.7,235.2,356.1,Open-Meteo historical weather,reanalysis,available
+23852,MIZ/SER/84A15/2025/140,Mizoram,Serchhip,Serchhip Bypass road,23.3228,92.862406,2025-05-31,946.0,20.4205,159.1993,33.7,235.2,356.1,Open-Meteo historical weather,reanalysis,available
+23853,MIZ/SER/84A15/2025/141,Mizoram,Serchhip,NH 54,23.286141,92.868152,2025-05-31,985.0,36.0554,262.9755,32.2,214.3,317.7,Open-Meteo historical weather,reanalysis,available
+23854,MIZ/SER/84A15/2025/142,Mizoram,Serchhip,NH 54,23.281219,92.869608,2025-05-31,1046.0,47.5702,245.5239,32.2,214.3,317.7,Open-Meteo historical weather,reanalysis,available
+23855,MIZ/SER/84A15/2025/143,Mizoram,Serchhip,NH 54,23.274148,92.871011,2025-05-31,1089.0,26.973,246.5723,32.2,214.3,317.7,Open-Meteo historical weather,reanalysis,available
+23856,MIZ/SER/84A15/2025/144,Mizoram,Serchhip,NH 54,23.272548,92.874296,2025-05-31,1024.0,36.4526,208.1086,30.2,149.9,265.2,Open-Meteo historical weather,reanalysis,available
+23857,MIZ/SER/84A15/2025/145,Mizoram,Serchhip,NH 54,23.271227,92.874544,2025-06-01,945.0,30.059,225.0669,56.3,182.3,302.1,Open-Meteo historical weather,reanalysis,available
+23858,MIZ/SER/84A15/2025/146,Mizoram,Serchhip,NH 54,23.270548,92.877577,2025-06-01,1087.0,34.3018,234.454,56.3,182.3,302.1,Open-Meteo historical weather,reanalysis,available
+23859,MIZ/SER/84A15/2025/147,Mizoram,Serchhip,NH 54,23.67701,92.87895,2025-06-01,407.0,20.2133,124.0946,33.1,162.6,275.5,Open-Meteo historical weather,reanalysis,available
+23860,MIZ/SER/84A16/2025/148,Mizoram,Serchhip,Keitum,23.243855,92.905242,2025-05-31,745.0,32.8571,217.8609,29.8,134.4,235.5,Open-Meteo historical weather,reanalysis,available
+23861,MIZ/SER/84A15/2025/149,Mizoram,Serchhip,Serchhip - Thenzawl road,23.286735,92.85703,2025-05-31,882.0,34.7092,134.048,32.2,214.3,317.7,Open-Meteo historical weather,reanalysis,available
+23862,MIZ/SER/84A15/2025/150,Mizoram,Serchhip,Serchhip - Thenzawl road,23.284565,92.857096,2025-05-31,830.0,31.9729,57.8844,32.2,214.3,317.7,Open-Meteo historical weather,reanalysis,available
+23863,MIZ/SER/84A15/2025/151,Mizoram,Serchhip,Serchhip - Thenzawl road,23.281443,92.840145,2025-06-01,662.0,44.0522,297.9375,61.7,241.3,357.7,Open-Meteo historical weather,reanalysis,available
+23864,MIZ/SER/84A15/2025/152,Mizoram,Serchhip,Serchhip - Thenzawl road,23.280947,92.8367,2025-06-01,621.0,36.7733,145.9432,61.7,241.3,357.7,Open-Meteo historical weather,reanalysis,available
+23865,MIZ/SER/84A15/2025/153,Mizoram,Serchhip,Serchhip - Thenzawl road,23.288276,92.830821,2025-05-31,550.0,25.287,217.9907,32.2,214.3,317.7,Open-Meteo historical weather,reanalysis,available
+23869,MIZ/SER/84A11/2025/157,Mizoram,Serchhip,Thenzawl - Buarpui road,23.307135,92.707624,2025-05-31,458.0,32.6262,132.5643,31.1,250.1,347.7,Open-Meteo historical weather,reanalysis,available
+23870,MIZ/SER/84A11/2025/158,Mizoram,Serchhip,Thenzawl - Buarpui road,23.306409,92.706083,2025-05-31,415.0,26.6632,187.5638,31.1,250.1,347.7,Open-Meteo historical weather,reanalysis,available
+23871,MIZ/SER/84A11/2025/159,Mizoram,Serchhip,Thenzawl - Buarpui road,23.306012,92.704212,2025-05-31,433.0,29.6127,203.2906,31.1,250.1,347.7,Open-Meteo historical weather,reanalysis,available
+23872,MIZ/SER/84A11/2025/160,Mizoram,Serchhip,Thenzawl - Buarpui road,23.300291,92.69577,2025-06-01,358.0,26.5238,144.9806,57.3,288.1,399.0,Open-Meteo historical weather,reanalysis,available
+23873,MIZ/SER/84A11/2025/161,Mizoram,Serchhip,Thenzawl - Buarpui road,23.299806,92.694901,2025-06-01,347.0,24.5287,173.3462,57.3,288.1,399.0,Open-Meteo historical weather,reanalysis,available
+23874,MIZ/SER/84A11/2025/162,Mizoram,Serchhip,Thenzawl - Buarpui road,23.299312,92.692614,2025-06-01,418.0,17.8295,168.9424,57.3,288.1,399.0,Open-Meteo historical weather,reanalysis,available
+23875,MIZ/LUNG/84A11/2025/163,Mizoram,Lunglei,Thenzawl - Buarpui road,23.297521,92.689449,2025-06-01,311.0,28.3307,202.5891,57.3,288.1,399.0,Open-Meteo historical weather,reanalysis,available
+23876,MIZ/LUNG/84A11/2025/164,Mizoram,Lunglei,Thenzawl - Buarpui road,23.30374,92.672816,2025-06-01,553.0,9.6631,31.1699,57.3,288.1,399.0,Open-Meteo historical weather,reanalysis,available
+23877,MIZ/LUNG/84A11/2025/165,Mizoram,Lunglei,Thenzawl - Buarpui road,23.304123,92.671521,2025-06-01,574.0,31.9049,30.1675,57.3,288.1,399.0,Open-Meteo historical weather,reanalysis,available
+23878,MIZ/LUNG/84A11/2025/166,Mizoram,Lunglei,Thenzawl - Buarpui road,23.306105,92.671296,2025-06-01,517.0,27.6116,96.2186,57.3,288.1,399.0,Open-Meteo historical weather,reanalysis,available
+23879,MIZ/LUNG/84A11/2025/167,Mizoram,Lunglei,Thenzawl - Buarpui road,23.306338,92.666573,2025-06-01,686.0,28.2593,27.3273,57.3,288.1,399.0,Open-Meteo historical weather,reanalysis,available
+23880,MIZ/LUNG/84A11/2025/168,Mizoram,Lunglei,New Khawlek,23.32044,92.643229,2025-06-01,718.0,12.2293,50.5921,57.3,288.1,399.0,Open-Meteo historical weather,reanalysis,available
+23881,MIZ/LUNG/84A11/2025/169,Mizoram,Lunglei,Thenzawl - Buarpui road,23.301901,92.649401,2025-06-01,725.0,23.1396,255.7464,57.3,288.1,399.0,Open-Meteo historical weather,reanalysis,available
+23882,MIZ/LUNG/84A12/2025/170,Mizoram,Lunglei,Buarpui,23.246611,92.655112,2025-06-01,405.0,19.0381,289.1705,60.6,302.9,428.6,Open-Meteo historical weather,reanalysis,available
+23883,MIZ/LUNG/84A12/2025/171,Mizoram,Lunglei,West Bungtlang to Changpui,23.2388,92.636923,2025-06-01,793.0,22.0815,20.3288,60.6,302.9,428.6,Open-Meteo historical weather,reanalysis,available
+23884,MIZ/LUNG/84A12/2025/172,Mizoram,Lunglei,West Bungtlang to Changpui,23.234538,92.637234,2025-06-01,817.0,20.6832,243.9283,60.6,302.9,428.6,Open-Meteo historical weather,reanalysis,available
+23885,MIZ/LUNG/84A12/2025/173,Mizoram,Lunglei,West Bungtlang to Changpui,23.206413,92.632701,2025-06-01,549.0,17.0433,324.9328,60.6,302.9,428.6,Open-Meteo historical weather,reanalysis,available
+23886,MIZ/LUNG/84A12/2025/174,Mizoram,Lunglei,West Bungtlang to Changpui,23.197283,92.632661,2025-06-01,591.0,23.5181,82.5194,50.3,261.5,389.0,Open-Meteo historical weather,reanalysis,available
+23887,MIZ/LUNG/84A12/2025/175,Mizoram,Lunglei,Changpui,23.174558,92.612556,2025-06-01,771.0,4.4308,340.0698,50.3,261.5,389.0,Open-Meteo historical weather,reanalysis,available
+23888,MIZ/LUNG/84A12/2025/176,Mizoram,Lunglei,Changpui,23.1739,92.611378,2025-06-01,785.0,12.6147,280.4182,50.3,261.5,389.0,Open-Meteo historical weather,reanalysis,available
+23889,MIZ/LUNG/84A12/2025/177,Mizoram,Lunglei,Changpui,23.173258,92.611929,2025-06-01,793.0,15.502,270.836,50.3,261.5,389.0,Open-Meteo historical weather,reanalysis,available
+23890,MIZ/LUNG/84A12/2025/178,Mizoram,Lunglei,Changpui,23.17252,92.611434,2025-06-01,806.0,19.5651,7.8309,50.3,261.5,389.0,Open-Meteo historical weather,reanalysis,available
+23891,MIZ/LUNG/84A12/2025/179,Mizoram,Lunglei,Changpui,23.172659,92.611828,2025-06-01,800.0,17.9242,311.5375,50.3,261.5,389.0,Open-Meteo historical weather,reanalysis,available
+23892,MIZ/LUNG/84A12/2025/180,Mizoram,Lunglei,Thenhlum,23.198272,92.589291,2025-06-01,704.0,3.6946,19.9334,60.6,302.9,428.6,Open-Meteo historical weather,reanalysis,available
+23893,MIZ/LUNG/84A12/2025/181,Mizoram,Lunglei,Thenhlum,23.198961,92.590043,2025-06-01,687.0,19.1688,23.1189,60.6,302.9,428.6,Open-Meteo historical weather,reanalysis,available
+23894,MIZ/LUNG/84A12/2025/182,Mizoram,Lunglei,Thenhlum,23.199095,92.586671,2025-06-01,719.0,10.0222,10.0436,60.6,302.9,428.6,Open-Meteo historical weather,reanalysis,available
+23895,MIZ/LUNG/84A12/2025/183,Mizoram,Lunglei,Thenhlum,23.199415,92.585883,2025-06-01,709.0,17.0192,7.4383,60.6,302.9,428.6,Open-Meteo historical weather,reanalysis,available
+23896,MIZ/LUNG/84A12/2025/184,Mizoram,Lunglei,Thenhlum,23.200105,92.584517,2025-06-01,705.0,15.6184,357.2917,60.6,302.9,428.6,Open-Meteo historical weather,reanalysis,available
+23897,MIZ/LUNG/84A12/2025/185,Mizoram,Lunglei,Thenhlum to West Bunghmun,23.200655,92.5813,2025-06-01,737.0,21.9437,70.03,60.6,302.9,428.6,Open-Meteo historical weather,reanalysis,available
+23898,MIZ/LUNG/84A12/2025/186,Mizoram,Lunglei,Thenhlum to West Bunghmun,23.201843,92.579666,2025-06-01,728.0,20.8895,44.7283,60.6,302.9,428.6,Open-Meteo historical weather,reanalysis,available
+23899,MIZ/LUNG/84A12/2025/187,Mizoram,Lunglei,Thenhlum to West Bunghmun,23.202247,92.57903,2025-06-01,736.0,24.3659,42.8853,60.6,302.9,428.6,Open-Meteo historical weather,reanalysis,available
+23900,MIZ/LUNG/84A12/2025/188,Mizoram,Lunglei,Thenhlum to West Bunghmun,23.203107,92.577972,2025-06-01,749.0,21.0494,61.7578,54.1,313.9,433.5,Open-Meteo historical weather,reanalysis,available
+23901,MIZ/LUNG/84A12/2025/189,Mizoram,Lunglei,Thenhlum to West Bunghmun,23.203903,92.576807,2025-06-01,756.0,20.4716,25.8742,54.1,313.9,433.5,Open-Meteo historical weather,reanalysis,available
+23902,MIZ/LUNG/84A12/2025/190,Mizoram,Lunglei,Thenhlum to West Bunghmun,23.204282,92.576174,2025-06-01,770.0,26.5974,41.2647,54.1,313.9,433.5,Open-Meteo historical weather,reanalysis,available
+23903,MIZ/LUNG/84A12/2025/191,Mizoram,Lunglei,Thenhlum to West Bunghmun,23.204481,92.575792,2025-06-01,768.0,27.9435,41.6107,54.1,313.9,433.5,Open-Meteo historical weather,reanalysis,available
+23904,MIZ/LUNG/84A12/2025/192,Mizoram,Lunglei,Thenhlum to West Bunghmun,23.205193,92.574684,2025-06-01,774.0,35.5328,55.0864,54.1,313.9,433.5,Open-Meteo historical weather,reanalysis,available
+23905,MIZ/LUNG/84A12/2025/193,Mizoram,Lunglei,Thenhlum to West Bunghmun,23.214589,92.572672,2025-06-01,818.0,18.191,72.0682,54.1,313.9,433.5,Open-Meteo historical weather,reanalysis,available
+23906,MIZ/LUNG/84A12/2025/194,Mizoram,Lunglei,Thenhlum to West Bunghmun,23.212919,92.558022,2025-06-01,863.0,13.9078,117.2333,54.1,313.9,433.5,Open-Meteo historical weather,reanalysis,available
+23907,MIZ/LUNG/84A12/2025/195,Mizoram,Lunglei,Thenhlum to West Bunghmun,23.207082,92.509726,2025-06-01,735.0,11.0067,256.7692,54.1,313.9,433.5,Open-Meteo historical weather,reanalysis,available
+23908,MIZ/LUNG/84A12/2025/196,Mizoram,Lunglei,Thenhlum to West Bunghmun,23.195616,92.546251,2025-06-01,579.0,16.3399,286.0261,54.1,313.9,433.5,Open-Meteo historical weather,reanalysis,available
+23909,MIZ/LUNG/84A12/2025/197,Mizoram,Lunglei,Thenhlum to West Bunghmun,23.19796,92.543304,2025-06-01,580.0,32.3246,22.9331,54.1,313.9,433.5,Open-Meteo historical weather,reanalysis,available
+23910,MIZ/LUNG/84A12/2025/198,Mizoram,Lunglei,Thenhlum to West Bunghmun,23.190022,92.554302,2025-06-01,631.0,17.0695,198.3875,54.1,313.9,433.5,Open-Meteo historical weather,reanalysis,available
+23911,MIZ/LUNG/84A12/2025/199,Mizoram,Lunglei,Thenhlum to West Bunghmun,23.21035,92.539589,2025-06-01,689.0,26.5975,146.3557,54.1,313.9,433.5,Open-Meteo historical weather,reanalysis,available
+23912,MIZ/LUNG/84A12/2025/200,Mizoram,Lunglei,Thenhlum to West Bunghmun,23.208921,92.541174,2025-06-01,669.0,22.5162,58.1856,54.1,313.9,433.5,Open-Meteo historical weather,reanalysis,available
+23913,MIZ/LUNG/84A12/2025/201,Mizoram,Lunglei,Thenhlum to West Bunghmun,23.208823,92.53749,2025-06-01,726.0,12.6492,17.1156,54.1,313.9,433.5,Open-Meteo historical weather,reanalysis,available
+23914,MIZ/LUNG/84A12/2025/202,Mizoram,Lunglei,Thenhlum to West Bunghmun,23.206239,92.491221,2025-06-01,645.0,20.5951,139.8745,54.1,313.9,433.5,Open-Meteo historical weather,reanalysis,available
+23915,MIZ/LUNG/84A12/2025/203,Mizoram,Lunglei,Thenhlum to West Bunghmun,23.20549,92.543278,2025-06-01,651.0,23.7909,29.3008,54.1,313.9,433.5,Open-Meteo historical weather,reanalysis,available
+23916,MIZ/LUNG/84A12/2025/204,Mizoram,Lunglei,Thenhlum to West Bunghmun,23.219631,92.563324,2025-06-01,922.0,25.2195,206.6666,54.1,313.9,433.5,Open-Meteo historical weather,reanalysis,available
+23917,MIZ/LUNG/84A12/2025/205,Mizoram,Lunglei,Tleu,23.204981,92.534603,2025-06-01,776.0,8.1461,139.7608,54.1,313.9,433.5,Open-Meteo historical weather,reanalysis,available
+23918,MIZ/LUNG/84A12/2025/206,Mizoram,Lunglei,Tleu,23.206253,92.533605,2025-06-01,791.0,14.9378,256.8478,54.1,313.9,433.5,Open-Meteo historical weather,reanalysis,available
+23919,MIZ/LUNG/84A12/2025/207,Mizoram,Lunglei,Tleu to West Bunghmun,23.209857,92.500587,2025-06-01,611.0,22.3515,192.9963,54.1,313.9,433.5,Open-Meteo historical weather,reanalysis,available
+23920,MIZ/LUNG/84A08/2025/208,Mizoram,Lunglei,Tleu to West Bunghmun,23.206239,92.491221,2025-06-01,645.0,20.5951,139.8745,54.1,313.9,433.5,Open-Meteo historical weather,reanalysis,available
+23921,MIZ/LUNG/84A08/2025/209,Mizoram,Lunglei,Tleu to West Bunghmun,23.199961,92.488796,2025-06-01,725.0,12.6101,67.6731,54.1,313.9,433.5,Open-Meteo historical weather,reanalysis,available
+23922,MIZ/LUNG/84A08/2025/210,Mizoram,Lunglei,West Bunghmun,23.17824,92.491031,2025-06-01,762.0,18.6793,81.7412,54.1,313.9,433.5,Open-Meteo historical weather,reanalysis,available
+23923,MIZ/LUNG/84A08/2025/211,Mizoram,Lunglei,West Bunghmun,23.180969,92.488193,2025-06-01,773.0,16.6656,270.0,54.1,313.9,433.5,Open-Meteo historical weather,reanalysis,available
+23924,MIZ/LUNG/84A08/2025/212,Mizoram,Lunglei,West Bunghmun cemetary,23.180354,92.486971,2025-06-01,744.0,9.0499,236.0148,54.1,313.9,433.5,Open-Meteo historical weather,reanalysis,available
+23925,MIZ/LUNG/84A08/2025/213,Mizoram,Lunglei,West Bunghmun,23.182466,92.487731,2025-06-01,785.0,10.3656,329.64,54.1,313.9,433.5,Open-Meteo historical weather,reanalysis,available
+23926,MIZ/LUNG/84A12/2025/214,Mizoram,Lunglei,Tleu,23.204706,92.533825,2025-06-01,775.0,13.0942,294.6812,54.1,313.9,433.5,Open-Meteo historical weather,reanalysis,available
+23927,MIZ/LUNG/84A11/2025/215,Mizoram,Lunglei,West Bungtlang,23.251004,92.63667,2025-06-01,749.0,9.1931,154.1855,60.6,302.9,428.6,Open-Meteo historical weather,reanalysis,available
+23928,MIZ/SER/84A16/2025/216,Mizoram,Serchhip,Keitum,23.234898,92.911307,2025-06-01,670.0,12.3331,60.0159,42.9,153.1,255.1,Open-Meteo historical weather,reanalysis,available
+23929,MIZ/SER/84A16/2025/217,Mizoram,Serchhip,Serchhip to Khawbung S road,23.225619,92.924909,2025-06-01,451.0,31.6076,358.3597,42.9,153.1,255.1,Open-Meteo historical weather,reanalysis,available
+23930,MIZ/SER/84A16/2025/218,Mizoram,Serchhip,Serchhip to Khawbung S road,23.223807,92.944448,2025-06-01,485.0,9.8157,152.7311,42.9,153.1,255.1,Open-Meteo historical weather,reanalysis,available
+23931,MIZ/SER/84A16/2025/219,Mizoram,Serchhip,Khawlailung,23.21795,92.998007,2025-06-01,1110.0,29.8009,243.1131,37.3,111.4,228.8,Open-Meteo historical weather,reanalysis,available
+23932,MIZ/SER/84A16/2025/220,Mizoram,Serchhip,Khawlailung,23.217324,92.99812,2025-06-01,1082.0,19.5255,281.1866,37.3,111.4,228.8,Open-Meteo historical weather,reanalysis,available
+23933,MIZ/SER/84E04/2025/221,Mizoram,Serchhip,Serchhip to Khawbung S road,23.19917,93.000199,2025-06-01,768.0,36.0733,202.7561,39.0,117.7,233.0,Open-Meteo historical weather,reanalysis,available
+23934,MIZ/SER/84E04/2025/222,Mizoram,Serchhip,Serchhip to Khawbung S road,23.1915,93.011024,2025-05-31,875.0,39.9056,226.5944,14.3,106.7,217.6,Open-Meteo historical weather,reanalysis,available
+23935,MIZ/SER/84E04/2025/223,Mizoram,Serchhip,Serchhip to Khawbung S road,23.183361,93.066742,2025-05-31,1033.0,30.1644,23.1973,15.4,84.6,199.2,Open-Meteo historical weather,reanalysis,available
+23937,MIZ/KHAW/84E04/2025/225,Mizoram,Khawzawl,Serchhip to Khawbung S road,23.229765,93.127521,2025-05-31,1009.0,28.8147,209.7599,14.4,90.3,199.0,Open-Meteo historical weather,reanalysis,available
+23938,MIZ/KHAW/84E04/2025/226,Mizoram,Khawzawl,Serchhip to Khawbung S road,23.2066,93.148665,2025-06-01,830.0,33.051,258.8833,33.9,100.5,217.3,Open-Meteo historical weather,reanalysis,available
+23939,MIZ/KHAW/84E04/2025/227,Mizoram,Khawzawl,Serchhip to Khawbung S road,23.197704,93.163019,2025-05-31,546.0,31.6108,239.1439,21.2,90.4,206.0,Open-Meteo historical weather,reanalysis,available
+23940,MIZ/CHAM/84E04/2025/228,Mizoram,Champhai,Serchhip to Vaphai road,23.198136,93.166988,2025-06-01,663.0,27.8033,208.9656,30.7,102.3,214.2,Open-Meteo historical weather,reanalysis,available
+23941,MIZ/CHAM/84E04/2025/229,Mizoram,Champhai,Serchhip to Vaphai road,23.177311,93.198157,2025-06-01,1149.0,17.0639,253.9264,34.4,101.9,194.8,Open-Meteo historical weather,reanalysis,available
+23943,MIZ/KHAW/84E08/2025/231,Mizoram,Khawzawl,Vaphai,23.14788,93.323791,2025-06-01,1548.0,20.8789,138.8755,26.3,69.9,184.8,Open-Meteo historical weather,reanalysis,available
+23944,MIZ/KHAW/84E03/2025/232,Mizoram,Khawzawl,NH 6,23.486306,93.220639,2025-06-12,819.0,23.4516,50.6273,0.6,1.8,30.2,Open-Meteo historical weather,reanalysis,available
+23945,MIZ/KHAW/84E02/2025/233,Mizoram,Khawzawl,NH 6,23.544052,93.155591,2025-06-14,1004.0,25.2503,44.5865,8.3,11.0,54.2,Open-Meteo historical weather,reanalysis,available
+23946,MIZ/KHAW/84E02/2025/234,Mizoram,Khawzawl,NH 6,23.545766,93.147931,2025-06-14,946.0,30.9147,66.0787,8.3,11.0,54.2,Open-Meteo historical weather,reanalysis,available
+23947,MIZ/KHAW/84E02/2025/235,Mizoram,Khawzawl,NH 6,23.5266,93.192968,2025-06-14,1187.0,30.2005,48.6577,4.7,6.6,43.9,Open-Meteo historical weather,reanalysis,available
+23948,MIZ/SAI/84A14/2025/236,Mizoram,Saitual,NH 6,23.667553,92.89259,2025-06-15,372.0,21.9422,169.8927,6.9,31.2,65.2,Open-Meteo historical weather,reanalysis,available
+23950,MIZ/AIZ/84A14/2025/238,Mizoram,Aizawl,NH 6,23.700835,92.877449,2025-06-15,527.0,23.8334,137.9069,12.5,34.3,73.7,Open-Meteo historical weather,reanalysis,available
+23951,MIZ/AIZ/84A13/2025/239,Mizoram,Aizawl,Sesawng,23.760466,92.848969,2025-05-31,829.0,14.647,192.7054,24.3,153.5,256.8,Open-Meteo historical weather,reanalysis,available
+23952,MIZ/AIZ/84A13/2025/240,Mizoram,Aizawl,Mualmam,23.807952,92.834037,2025-06-01,534.0,39.0866,56.4256,32.1,154.9,258.3,Open-Meteo historical weather,reanalysis,available
+23953,MIZ/AIZ/83D15/2025/241,Mizoram,Aizawl,Zohmun,24.285871,92.94599,2025-06-14,904.0,24.7462,220.1939,6.9,13.2,30.5,Open-Meteo historical weather,reanalysis,available
+23954,MIZ/AIZ/83D15/2025/242,Mizoram,Aizawl,Zohmun,24.288014,92.946017,2025-06-14,923.0,27.6595,259.3204,6.9,13.2,30.5,Open-Meteo historical weather,reanalysis,available
+23955,MIZ/AIZ/83D15/2025/243,Mizoram,Aizawl,Mauchar,24.354658,92.925511,2025-05-29,689.0,13.5924,129.497,23.0,66.1,130.8,Open-Meteo historical weather,reanalysis,available
+23956,MIZ/AIZ/83D15/2025/244,Mizoram,Aizawl,Mauchar,24.365715,92.930137,2025-06-01,610.0,29.8947,224.6857,28.9,133.3,211.6,Open-Meteo historical weather,reanalysis,available
+23957,MIZ/AIZ/84A14/2025/245,Mizoram,Aizawl,Sesawng,23.747519,92.853155,2025-06-15,808.0,31.0903,257.2045,12.5,34.3,73.7,Open-Meteo historical weather,reanalysis,available
+23963,Mizoram/Aizawl/84A09/2018/0,Mizoram,Aizawl,Selesih Slide,24.80375556,92.733375,2018-04-28,18.0,0.8006,253.1651,0.9,2.3,8.7,Open-Meteo historical weather,reanalysis,available
+23966,Mizoram/Aizawl/84A14/2020/0,Mizoram,Aizawl,Zemabawk landslide,24.73197222,92.75988889,2020-02-02,19.0,1.1214,245.5754,0.0,1.7,3.3,Open-Meteo historical weather,reanalysis,available
+23971,MZ/AZL/84A/10/2023/01,Mizoram,Aizawl,Vaivakawn landslide,23.74150833,92.70785833,2023-06-04,888.0,38.0342,41.3961,0.9,2.1,4.0,Open-Meteo historical weather,reanalysis,available
+23979,MZ/AZL/84A10/2016/01,Mizoram,Aizawl,Tlungvel slide,23.60830556,92.85058333,2016-09-17,1111.0,31.4003,237.0676,7.8,42.6,77.1,Open-Meteo historical weather,reanalysis,available
+23992,MIZ/AZL/84A11/2025/020,Mizoram,Aizawl,Thiak to N. Lungsai (Aizawl-,23.4807,92.7025,2025-09-13,997.0,24.8931,54.8585,19.0,51.9,86.7,Open-Meteo historical weather,reanalysis,available
+23993,MIZ/AZL/84A11/2025/021,Mizoram,Aizawl,Thiak to N. Lungsai (Aizawl-,23.4855,92.7033,2024-07-02,978.0,13.7922,47.4742,17.0,81.2,150.2,Open-Meteo historical weather,reanalysis,available
+23995,MIZ/AZL/84A11/2025/023,Mizoram,Aizawl,Aizawl-Thenzawl-Lunglei SH,23.4946,92.7044,2024-08-25,929.0,44.6092,273.9992,3.9,38.9,168.7,Open-Meteo historical weather,reanalysis,available
+23999,MIZ/SER/84A12/2025/027,Mizoram,Serchhip,Aizawl-Thenzawl-Lunglei SH,23.239287,92.74818,2025-06-02,748.0,12.0387,114.6756,12.8,101.8,345.9,Open-Meteo historical weather,reanalysis,available
+24000,MIZ/SER/84A12/2025/028,Mizoram,Serchhip,Buangpui,23.237356,92.744978,2025-06-05,774.0,8.3869,151.4475,0.7,13.4,288.7,Open-Meteo historical weather,reanalysis,available
+24002,MIZ/LUN/84A12/2025/030,Mizoram,Lunglei,Aizawl-Thenzawl-Lunglei SH,23.230114,92.740067,2025-06-02,781.0,16.1814,107.0303,12.8,101.8,345.9,Open-Meteo historical weather,reanalysis,available
+24003,MIZ/LUN/84A12/2025/031,Mizoram,Lunglei,2 kms north of Kanghmun S,23.229731,92.73968,2025-05-24,786.0,17.3052,102.7569,4.9,16.5,30.1,Open-Meteo historical weather,reanalysis,available
+24004,MIZ/LUN/84A12/2025/032,Mizoram,Lunglei,Outside Kanghmun S,23.226843,92.740266,2025-06-02,757.0,17.4034,75.7997,12.8,101.8,345.9,Open-Meteo historical weather,reanalysis,available
+24005,MIZ/LUN/84A12/2025/033,Mizoram,Lunglei,Kanghmun S,23.225357,92.74039,2025-06-06,756.0,10.4132,117.5453,1.5,5.0,116.7,Open-Meteo historical weather,reanalysis,available
+24007,MIZ/LUN/84A12/2025/037,Mizoram,Lunglei,Outside Kanghmun S Aizawl-,23.204595,92.73861,2025-06-03,795.0,32.553,333.3631,9.9,82.6,336.1,Open-Meteo historical weather,reanalysis,available
+24014,MIZ/LUN/84A12/2025/044,Mizoram,Lunglei,South of Kanghmun S,23.201335,92.734857,2025-06-02,774.0,25.213,41.6019,12.8,101.8,345.9,Open-Meteo historical weather,reanalysis,available
+24015,MIZ/LUN/84A12/2025/045,Mizoram,Lunglei,South of Kanghmun S,23.201614,92.734453,2025-06-02,763.0,30.3032,40.3849,12.8,101.8,345.9,Open-Meteo historical weather,reanalysis,available
+24016,MIZ/LUN/84A12/2025/046,Mizoram,Lunglei,South of Kanghmun S,23.201759,92.734328,2025-06-02,763.0,30.3032,40.3849,12.8,101.8,345.9,Open-Meteo historical weather,reanalysis,available
+24018,MIZ/LUN/84A12/2025/048,Mizoram,Lunglei,Between Kanghmun S to,23.199924,92.73481,2025-06-02,752.0,19.484,73.3838,12.8,101.8,345.9,Open-Meteo historical weather,reanalysis,available
+24020,MIZ/LUN/84A12/2025/052,Mizoram,Lunglei,"North of Ramlaitui, Aizawl-",23.197825,92.73502,2025-06-15,741.0,11.5983,115.7089,9.0,25.9,76.8,Open-Meteo historical weather,reanalysis,available
+24023,MIZ/LUN/84A12/2025/055,Mizoram,Lunglei,"North of Ramlaitui, Aizawl-",23.193237,92.734819,2025-06-02,793.0,25.8645,81.8417,12.1,87.8,270.5,Open-Meteo historical weather,reanalysis,available
+24024,MIZ/LUN/84A12/2025/056,Mizoram,Lunglei,"North of Ramlaitui, Aizawl-",23.191775,92.734778,2025-06-06,785.0,18.1515,138.8499,0.7,5.5,101.0,Open-Meteo historical weather,reanalysis,available
+24025,MIZ/LUN/84A12/2025/057,Mizoram,Lunglei,"North of Ramlaitui, Aizawl-",23.191747,92.73459,2025-06-02,785.0,18.1515,138.8499,12.1,87.8,270.5,Open-Meteo historical weather,reanalysis,available
+24028,MIZ/LUN/84A12/2025/064,Mizoram,Lunglei,"Outside Ramlaitui, Aizawl-",23.188245,92.734327,2025-06-02,812.0,26.4828,35.6785,12.1,87.8,270.5,Open-Meteo historical weather,reanalysis,available
+24030,MIZ/LUN/84A12/2025/066,Mizoram,Lunglei,"Outside Ramlaitui, Aizawl-",23.18675,92.735178,2025-06-02,850.0,24.9868,61.4702,12.1,87.8,270.5,Open-Meteo historical weather,reanalysis,available
+24031,MIZ/LUN/84A12/2025/067,Mizoram,Lunglei,"Outside Ramlaitui, Aizawl-",23.186501,92.735632,2025-09-13,838.0,30.7796,60.7126,5.9,26.9,65.4,Open-Meteo historical weather,reanalysis,available
+24032,MIZ/LUN/84A12/2025/068,Mizoram,Lunglei,"Outside Ramlaitui, Aizawl-",23.186296,92.7356,2025-09-13,838.0,30.7796,60.7126,5.9,26.9,65.4,Open-Meteo historical weather,reanalysis,available
+24033,MIZ/LUN/84A12/2025/069,Mizoram,Lunglei,"Outside Ramlaitui, Aizawl-",23.186133,92.735682,2025-09-13,850.0,35.1219,41.0869,5.9,26.9,65.4,Open-Meteo historical weather,reanalysis,available
+24034,MIZ/LUN/84A12/2025/070,Mizoram,Lunglei,Outside Ramlaitui,23.184091,92.738895,2025-06-01,781.0,27.9462,347.5396,48.3,194.1,293.6,Open-Meteo historical weather,reanalysis,available
+24041,MIZ/LUN/84A12/2025/084,Mizoram,Lunglei,Aizawl-Thenzawl-Lunglei SH,23.174341,92.740855,2025-09-13,786.0,24.2857,99.8117,5.9,26.9,65.4,Open-Meteo historical weather,reanalysis,available
+24059,MIZ/LUN/84A12/2025/105,Mizoram,Lunglei,"Aizawl-Thenzawl-Lunglei SH,",23.152289,92.746243,2025-05-30,891.0,10.8091,314.3857,118.4,169.1,246.8,Open-Meteo historical weather,reanalysis,available
+24068,MIZ/LUN/84A12/2025/114,Mizoram,Lunglei,"Aizawl-Thenzawl-Lunglei SH,",23.147798,92.749742,2025-09-13,905.0,18.9014,120.5458,5.9,26.9,65.4,Open-Meteo historical weather,reanalysis,available
+24069,MIZ/LUN/84A16/2025/115,Mizoram,Lunglei,"Aizawl-Thenzawl-Lunglei SH,",23.144687,92.750609,2025-06-06,861.0,10.0884,62.9402,0.7,5.5,101.0,Open-Meteo historical weather,reanalysis,available
+24072,MIZ/LUN/84A16/2025/119,Mizoram,Lunglei,Sekhum,23.141474,92.750577,2025-05-29,838.0,30.376,253.9677,34.4,64.3,133.8,Open-Meteo historical weather,reanalysis,available
+24074,MIZ/LUN/84A16/2025/121,Mizoram,Lunglei,Sekhum,23.139887,92.751646,2025-05-30,860.0,12.3262,148.4223,118.4,169.1,246.8,Open-Meteo historical weather,reanalysis,available
+24086,MIZ/LUN/84A12/2025/133,Mizoram,Lunglei,Aizawl-Thenzawl-Lunglei SH,23.131999,92.744413,2025-09-13,807.0,27.6519,344.9074,5.9,26.9,65.4,Open-Meteo historical weather,reanalysis,available
+24100,MIZ/LUN/84A12/2025/150,Mizoram,Lunglei,Mualthuam N,23.11239,92.745417,2025-06-01,838.0,16.924,86.187,43.0,163.7,265.8,Open-Meteo historical weather,reanalysis,available
+24102,MIZ/LUN/84A12/2025/152,Mizoram,Lunglei,"Aizawl-Thenzawl-Lunglei SH,",23.113126,92.74564,2025-06-02,833.0,21.847,87.107,13.3,80.2,242.8,Open-Meteo historical weather,reanalysis,available
+24104,MIZ/LUN/84A12/2025/154,Mizoram,Lunglei,"Aizawl-Thenzawl-Lunglei SH,",23.108018,92.746279,2025-05-30,763.0,15.6649,116.5753,96.8,145.9,241.8,Open-Meteo historical weather,reanalysis,available
+24105,MIZ/LUN/84A12/2025/155,Mizoram,Lunglei,Mualthuam N,23.10565,92.745979,2025-05-30,711.0,17.5285,224.149,96.8,145.9,241.8,Open-Meteo historical weather,reanalysis,available
+24111,MIZ/LUN/84A16/2025/161,Mizoram,Lunglei,"Aizawl-Thenzawl-Lunglei SH,",23.100785,92.751508,2025-05-30,780.0,13.0859,224.4536,96.8,145.9,241.8,Open-Meteo historical weather,reanalysis,available
+24112,MIZ/LUN/84A16/2025/162,Mizoram,Lunglei,"Aizawl-Thenzawl-Lunglei SH,",23.099615,92.752199,2025-06-06,780.0,7.8078,135.0985,1.6,5.4,99.2,Open-Meteo historical weather,reanalysis,available
+24115,MIZ/LUN/84A16/2025/165,Mizoram,Lunglei,Below Aizawl-Thenzawl-Lunglei,23.092076,92.752286,2025-09-13,754.0,22.4904,292.4092,10.0,39.8,70.6,Open-Meteo historical weather,reanalysis,available
+24120,MIZ/LUN/84A16/2025/175,Mizoram,Lunglei,"Aizawl-Thenzawl-Lunglei SH,",23.074255,92.76222,2025-06-01,771.0,21.8159,252.951,43.0,163.7,265.8,Open-Meteo historical weather,reanalysis,available
+24122,MIZ/LUN/84A16/2025/177,Mizoram,Lunglei,"Aizawl-Thenzawl-Lunglei SH,",23.069585,92.765797,2025-05-31,800.0,13.4304,38.7776,27.9,119.3,223.3,Open-Meteo historical weather,reanalysis,available
+24123,MIZ/LUN/84A16/2025/178,Mizoram,Lunglei,"Aizawl-Thenzawl-Lunglei SH,",23.067473,92.767201,2025-05-30,843.0,25.498,40.2102,69.0,112.3,201.5,Open-Meteo historical weather,reanalysis,available
+24126,MIZ/LUN/84A16/2025/181,Mizoram,Lunglei,"Aizawl-Thenzawl-Lunglei SH,",23.063838,92.769004,2025-06-15,897.0,25.3925,72.6384,7.2,36.6,96.8,Open-Meteo historical weather,reanalysis,available
+24127,MIZ/LUN/84A16/2025/182,Mizoram,Lunglei,"Aizawl-Thenzawl-Lunglei SH,",23.061745,92.770105,2025-05-30,941.0,20.6498,24.1099,69.0,112.3,201.5,Open-Meteo historical weather,reanalysis,available
+24466,NAG/KOH/83K02/2008/F-3A,Nagaland,Kohima,PR Hills slide,25.66083,94.10278,2008-08-02,1483.0,3.1786,150.9825,23.6,70.0,130.5,Open-Meteo historical weather,reanalysis,available
+24491,NAG/KOH/83K02/2008/F-3B,Nagaland,Kohima,Officer Hill/ Naga Hospital Colony slide,25.66667,94.10972,2007-08-12,1425.0,13.4404,190.8292,24.7,47.7,76.7,Open-Meteo historical weather,reanalysis,available
+24516,NAG/KOH/83K02/2008/F-4(A),Nagaland,Kohima,New Market slide,25.66917,94.10722,2008-08-16,1452.0,14.9839,169.3659,7.7,32.8,158.5,Open-Meteo historical weather,reanalysis,available
+24660,NL/KOH/83K02/2014/04,Nagaland,Kohima,Meriema,25.71611,94.08883,2013-07-03,1449.0,16.1449,341.9207,18.1,62.0,196.7,Open-Meteo historical weather,reanalysis,available
+24751,NL/DIM/83G13/2014/02,Nagaland,Dimapur,Kukidolong-2,25.76939,93.80278,2013-07-16,290.0,23.2863,117.4357,47.6,83.5,110.5,Open-Meteo historical weather,reanalysis,available
+24795,NL/DIM/83G13/2014/01,Nagaland,Dimapur,Kukidolong-1,25.78417,93.80028,2013-07-16,251.0,16.1016,265.1748,47.6,83.5,110.5,Open-Meteo historical weather,reanalysis,available
+25490,NAG/TUE/83J15/2009/F-13,Nagaland,Tuensang,Ajang (Bhumbak Village),26.36083,94.84,2009-06-04,2004.0,24.7167,283.7321,14.6,22.0,48.3,Open-Meteo historical weather,reanalysis,available
+25499,NAG/TUE/83J15/2009/F-12,Nagaland,Tuensang,Washomung (Bhumbak Village) slide,26.37639,94.84056,2009-06-20,1881.0,34.266,221.0269,13.6,29.0,54.3,Open-Meteo historical weather,reanalysis,available
+25505,NAG/TUE/83J15/2009/F-10,Nagaland,Tuensang,Yangpi Village slide,26.38778,94.82583,2009-07-27,1648.0,21.7458,193.0923,30.9,52.0,110.3,Open-Meteo historical weather,reanalysis,available
+25506,NAG/TUE/83J15/2009/F-11,Nagaland,Tuensang,Noksen-Tuengsang road slide,26.38778,94.82583,2009-08-20,1648.0,21.7458,193.0923,14.5,45.9,161.8,Open-Meteo historical weather,reanalysis,available
+25523,NL/MON/83J15/2014/09,Nagaland,Mon,Shense slide,26.39936,94.94553,2023-08-17,645.0,28.8583,308.0876,2.0,10.7,41.0,Open-Meteo historical weather,reanalysis,available
+25538,NL/MON/83J15/2014/12,Nagaland,Mon,Telangsao slide,26.41931,94.97369,2013-08-18,686.0,18.395,334.2259,4.4,35.2,87.3,Open-Meteo historical weather,reanalysis,available
+25793,NA/KOH/83K02/2024/02,Nagaland,Kohima,Kigwema Village,25.6125,94.1272,2024-07-06,1424.0,14.9837,10.6292,51.5,154.2,387.2,Open-Meteo historical weather,reanalysis,available
+25794,NA/CHU/83G13/2024/01,Nagaland,Chumoukedima,Pagala Pahar landslide,25.7853,93.8014,2024-09-03,237.0,21.7114,322.4446,4.8,43.7,103.9,Open-Meteo historical weather,reanalysis,available
+25797,NA/WKH/83J8/2024/02,Nagaland,Wokha,Tchuyiro landslide,26.08945,94.264217,2024-07-23,1473.0,15.6348,280.8354,7.2,65.0,123.8,Open-Meteo historical weather,reanalysis,available
+25800,NL/KOH/83K02/2022/003,Nagaland,Kohima,Chiesema,25.7491204,94.0804548,2022-09-25,1262.0,24.4127,239.4544,21.8,83.4,120.3,Open-Meteo historical weather,reanalysis,available
+25802,NL/KOH/83G13/2022/005,Nagaland,Kohima,Piphema,25.770055,93.937873,2022-10-15,791.0,26.1557,164.6111,2.2,12.0,59.9,Open-Meteo historical weather,reanalysis,available
+25803,NL/KOH/83G13/2022/006,Nagaland,Kohima,Piphema,25.771451,93.907041,2022-09-30,631.0,13.8711,169.5146,4.8,33.6,113.4,Open-Meteo historical weather,reanalysis,available
+25807,NL/KOH/83K02/2022/010,Nagaland,Kohima,Piphema,25.770064,93.937891,2022-11-12,791.0,26.1557,164.6111,2.5,2.8,7.8,Open-Meteo historical weather,reanalysis,available
+25853,NL/KOH/83G13/2023/03,Nagaland,Kohima,Piphema,25.76618333,93.94043611,2023-09-08,812.0,30.2684,201.6905,26.7,76.7,93.1,Open-Meteo historical weather,reanalysis,available
+25868,NL/KOH/83K02/2023/19,Nagaland,Kohima,Khonoma,25.66754722,94.08075278,2023-10-02,1523.0,19.763,88.7092,12.8,30.4,64.8,Open-Meteo historical weather,reanalysis,available
+25907,NL/KOH/83K02/2023/58,Nagaland,Kohima,Kohima-Nuiland road,25.85442778,94.15844444,2018-08-23,1532.0,31.7862,318.1149,4.3,11.0,24.4,Open-Meteo historical weather,reanalysis,available
+25908,NL/KOH/83K02/2023/59,Nagaland,Kohima,Kohima-Nuiland road,25.857991,94.159346,2018-08-23,1489.0,41.691,319.3572,4.3,11.0,24.4,Open-Meteo historical weather,reanalysis,available
+25911,NL/KOH/83K02/2024/003,Nagaland,Kohima,NH-2/Tadubi,25.52036,94.1311201,2024-06-01,1723.0,17.2423,152.4595,1.8,7.6,193.5,Open-Meteo historical weather,reanalysis,available
+25912,NL/KOH/83K02/2024/004,Nagaland,Kohima,NH-2/Khuzama,25.52164,94.13426,2024-06-01,1729.0,22.6906,145.3574,1.8,7.6,193.5,Open-Meteo historical weather,reanalysis,available
+25915,NL/KOH/83K02/2024/007,Nagaland,Kohima,NH-2/Khuzama,25.538422,94.136039,2024-06-01,1693.0,23.0969,71.1774,1.8,7.6,193.5,Open-Meteo historical weather,reanalysis,available
+25916,NL/KOH/83K02/2024/008,Nagaland,Kohima,NH-2/Viswema,25.5651,94.1390034,2024-06-01,1669.0,21.2569,64.0921,0.7,5.5,140.7,Open-Meteo historical weather,reanalysis,available
+25917,NL/KOH/83K02/2024/009,Nagaland,Kohima,NH-2/Viswema,25.6032619,94.1122188,2024-06-01,1620.0,26.3638,127.1744,2.2,7.5,162.4,Open-Meteo historical weather,reanalysis,available
+25918,NL/KOH/83K02/2024/010,Nagaland,Kohima,NH-2/Phesema,25.62154,94.1122,2024-06-01,1728.0,25.7223,38.6247,2.2,7.5,162.4,Open-Meteo historical weather,reanalysis,available
+25919,NL/KOH/83K02/2024/011,Nagaland,Kohima,NH-2/Phesema,25.6291966,94.10177,2024-06-01,1495.0,30.9913,119.9061,2.2,7.5,162.4,Open-Meteo historical weather,reanalysis,available
+25920,NL/KOH/83K02/2024/012,Nagaland,Kohima,NH-2/Phesema,25.6387,94.10979,2024-06-01,1475.0,24.1531,145.2091,2.2,7.5,162.4,Open-Meteo historical weather,reanalysis,available
+25921,NL/KOH/83K02/2024/013,Nagaland,Kohima,NH-2/Lerie,25.648759,94.10616,2024-06-01,1558.0,19.7447,50.8466,2.2,7.5,162.4,Open-Meteo historical weather,reanalysis,available
+25923,NL/MOK/83J07/2025/01,Nagaland,Mokokchung,Longnak landslide,26.45278,94.37526,2025-07-08,258.0,11.8654,75.4986,4.8,45.9,118.5,Open-Meteo historical weather,reanalysis,available
+25924,NL/MOK/83J07/2025/02,Nagaland,Mokokchung,Merayim landslide,26.423137,94.382261,2025-07-07,526.0,32.249,353.8324,21.1,55.8,126.5,Open-Meteo historical weather,reanalysis,available
+25925,NL/MOK/83J07/2025/03,Nagaland,Mokokchung,Changki slide_1,26.42186,94.3852,2025-07-07,767.0,46.4911,277.7272,25.9,57.6,131.6,Open-Meteo historical weather,reanalysis,available
+25926,NL/MOK/83J07/2025/04,Nagaland,Mokokchung,Changki slide_2,26.425346,94.387013,2025-07-07,776.0,24.3133,299.5155,25.9,57.6,131.6,Open-Meteo historical weather,reanalysis,available
+25927,NL/MOK/83J07/2025/05,Nagaland,Mokokchung,Yimkum Slide,26.383648,94.440751,2025-07-29,994.0,13.0679,231.1223,18.4,87.5,128.1,Open-Meteo historical weather,reanalysis,available
+25928,NL/MOK/83J07/2025/06,Nagaland,Mokokchung,Razu slide,26.384347,94.443397,2024-07-01,955.0,20.0997,90.6336,64.4,147.5,206.4,Open-Meteo historical weather,reanalysis,available
+25929,NL/MOK/83J07/2025/07,Nagaland,Mokokchung,Yimlang Slide,26.387181,94.444132,2025-08-01,936.0,22.7978,91.6552,0.9,4.5,118.4,Open-Meteo historical weather,reanalysis,available
+25930,NL/MOK/83J07/2025/08,Nagaland,Mokokchung,Sabangya slide,26.379798,94.450751,2025-07-07,896.0,18.9922,94.0456,25.9,57.6,131.6,Open-Meteo historical weather,reanalysis,available
+25932,NL/TSE/83K01/2025/01,Nagaland,Tseminyu,Terogvunyu Village,25.88165,94.19023,2025-01-19,1399.0,27.2471,171.9663,0.0,0.0,0.0,Open-Meteo historical weather,reanalysis,available
+26348,SKM/EAS/78A12/2014/002,Sikkim,East Sikkim,6 km from Martam,27.23772,88.51384,2014-08-26,434.0,35.6121,133.5766,6.5,82.8,251.1,Open-Meteo historical weather,reanalysis,available
+26469,SK/EAS/78A11/2014/01,Sikkim,East Sikkim,Dhankutey dhara Slide,27.28408,88.54611,2013-08-28,1530.0,27.8301,120.3947,27.4,85.6,178.7,Open-Meteo historical weather,reanalysis,available
+26607,SKM/NOR/78A11/2014/007,Sikkim,North Sikkim,Tanek Rockslide,27.4097,88.54371,2014-06-24,1517.0,39.2272,212.0388,29.4,144.4,203.8,Open-Meteo historical weather,reanalysis,available
+26642,SKM/NOR/78A11/2014/006,Sikkim,North Sikkim,Ambithang Landslide,27.48603,88.53269,2014-07-08,1059.0,22.8995,230.0658,50.7,99.6,157.8,Open-Meteo historical weather,reanalysis,available
+26644,SKM/NOR/78A10/2014/004,Sikkim,North Sikkim,Pakshek Landslide,27.5091,88.53848,2014-07-01,1233.0,21.8032,315.9116,14.0,139.3,382.4,Open-Meteo historical weather,reanalysis,available
+26712,SKM/EAST/78A12/2015/002,Sikkim,East Sikkim,Kumrek landslide,27.179,88.53313889,2015-07-08,370.0,42.3935,125.1899,1.8,16.6,182.4,Open-Meteo historical weather,reanalysis,available
+26760,SK/NS/78 A10/ Bop 1,Sikkim,North Sikkim,Bop Slide,27.61936111,88.66131389,2021-06-18,1848.0,47.4833,137.2804,122.4,217.4,319.6,Open-Meteo historical weather,reanalysis,available
+26763,SK/ES/78 A11/IBP-I,Sikkim,East Sikkim,Indira Bye Pass -I,27.32888889,88.60777778,2021-05-18,1445.0,33.5315,248.1285,58.4,150.2,368.0,Open-Meteo historical weather,reanalysis,available
+26773,SK/ES/78 A11/2021/NPB-1,Sikkim,East Sikkim,Pagla Bhir slide,27.28577778,88.5535,2021-08-27,1571.0,64.5185,239.0052,26.6,271.9,470.9,Open-Meteo historical weather,reanalysis,available
+26784,SKM/ Soreng/78 A08/2022/01,Sikkim,Soreng,01/JR/Baiguney,27.14871944,88.28128889,2022-11-20,382.0,33.8196,163.839,0.0,0.0,3.4,Open-Meteo historical weather,reanalysis,available
+26789,SKM/ES/78 A11/2022/TVP-I1,Sikkim,East Sikkim,Tashi view point-II(TVP-II),27.37211111,88.61671944,2022-05-29,1872.0,25.1099,332.8041,7.5,10.8,33.1,Open-Meteo historical weather,reanalysis,available
+26791,SKM/ES/78,Sikkim,Pakyong,Basnettgaon Landslide.,27.24883333,88.60191667,2022-10-10,1145.0,14.6588,19.3082,33.2,89.9,170.8,Open-Meteo historical weather,reanalysis,available
+26792,SKM/ES/78 A12/2022/Kitgolai,Sikkim,Pakyong,Kitgolai Landslide,27.21391667,88.60833333,2022-08-25,813.0,24.6177,59.7729,1.2,6.1,45.1,Open-Meteo historical weather,reanalysis,available
+26797,SK/ES/78 A07/Sherwani 02,Sikkim,East Sikkim,Sherwani 02,27.24297222,88.47055556,2022-06-15,494.0,33.9284,59.2453,55.6,106.2,202.7,Open-Meteo historical weather,reanalysis,available
+26806,SKM/MAN/78A11/11/2023,Sikkim,Mangan,South Dikchu,27.40251944,88.51868056,2023-10-04,574.0,36.5677,124.5682,25.7,31.1,33.8,Open-Meteo historical weather,reanalysis,available
+26808,SI/GAN/78A07/2024/48,Sikkim,Gangtok District,Dipudara landslide,27.2525,88.4606,2024-08-21,550.0,34.6675,252.6365,0.7,22.3,26.3,Open-Meteo historical weather,reanalysis,available
+26810,SI/MAN/78A11/2025/1,Sikkim,Mangan,Phensang Landslide,27.4432,88.6087,2024-07-21,1570.0,29.8731,213.7604,17.6,42.6,103.1,Open-Meteo historical weather,reanalysis,available
+26811,SI/GYA/78A03/2025/01,Sikkim,Gyalshing,Rimbi,27.327977,88.152281,2025-09-11,1578.0,15.5961,78.2889,19.4,73.9,163.7,Open-Meteo historical weather,reanalysis,available
+26812,SI/GTK/78A11/2025/02,Sikkim,Gangtok District,Tintek Landslide,27.372611,88.541022,2025-07-19,1848.0,34.3183,81.133,18.0,21.2,201.8,Open-Meteo historical weather,reanalysis,available
+26821,SKM-06/2012-13,Sikkim,North Sikkim,Pegong Slide,27.59027778,88.65394444,2012-06-26,1677.0,30.8353,76.2742,43.8,168.6,293.1,Open-Meteo historical weather,reanalysis,available
+26822,SKM-07/2012-13,Sikkim,North Sikkim,Theng Slide,27.57502778,88.65402778,2012-06-22,1483.0,41.6286,286.1271,69.9,109.1,243.7,Open-Meteo historical weather,reanalysis,available
+26823,SKM-08/2012-13,Sikkim,North Sikkim,Tung Slide,27.56111111,88.65452778,2012-06-22,1412.0,28.751,256.7815,69.9,109.1,243.7,Open-Meteo historical weather,reanalysis,available
+26824,SKM-09/2012-13,Sikkim,North Sikkim,Rubom Slide,27.52838889,88.59972222,2012-06-22,1557.0,38.4879,3.9495,69.9,109.1,243.7,Open-Meteo historical weather,reanalysis,available
+26825,SKM-10/2012-13,Sikkim,North Sikkim,Singik Slide,27.56941667,88.65272222,2012-06-22,1482.0,18.4849,46.368,69.9,109.1,243.7,Open-Meteo historical weather,reanalysis,available
+26826,SKM-11/2012-13,Sikkim,North Sikkim,Deodara Slide,27.51491667,88.56313889,2012-07-17,1416.0,28.1733,349.197,22.8,140.0,351.8,Open-Meteo historical weather,reanalysis,available
+26850,TRI/TRI-W/79M05/2009/G-1,Tripura,West Tripura,Kayerpur Landslide,23.85417,91.34361,2009-07-10,16.0,2.5336,90.0,6.3,13.1,32.9,Open-Meteo historical weather,reanalysis,available
+26867,TR/WTR/79 M09/2018/004,Tripura,West Tripura,Narengbari landslide,24.003417,91.45425,2018-05-18,66.0,16.2508,67.9843,15.8,83.5,104.1,Open-Meteo historical weather,reanalysis,available

@@ -1,0 +1,11 @@
+import asyncio
+import websockets
+
+async def test():
+    async with websockets.connect(
+        "ws://127.0.0.1:8001/test",
+        origin=None
+    ) as ws:
+        print("WEBSOCKET CONNECTION OK")
+
+asyncio.run(test())
