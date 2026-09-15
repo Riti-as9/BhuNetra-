@@ -1,122 +1,76 @@
-import { useState } from 'react'
-import heroImg from './assets/hero.png'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
-import './App.css'
+import { useState, useEffect } from 'react';
+import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom';
+import { AnimatePresence } from 'framer-motion';
+import { AppProvider } from './context/AppContext';
+import { AppShell } from './components/layout/AppShell';
+import { BootSequence } from './components/layout/BootSequence';
+import { LandingPage } from './pages/LandingPage';
+import { DashboardPage } from './pages/DashboardPage';
+import { ZoneDetailPage } from './pages/ZoneDetailPage';
+import { AlertsPage } from './pages/AlertsPage';
+import { AnalyticsPage } from './pages/AnalyticsPage';
+import { AboutPage } from './pages/AboutPage';
+import { RiskAnalysisPage } from './pages/RiskAnalysisPage';
 
-function App() {
-  const [count, setCount] = useState(0)
+// Animated route wrapper
+const AnimatedRoutes = () => {
+  const location = useLocation();
+  return (
+    <AnimatePresence mode="wait">
+      <Routes location={location} key={location.pathname}>
+        <Route path="/"           element={<LandingPage />} />
+        <Route path="/dashboard"  element={<DashboardPage />} />
+        <Route path="/zone/:zoneId" element={<ZoneDetailPage />} />
+        <Route path="/alerts"     element={<AlertsPage />} />
+        <Route path="/analytics"  element={<AnalyticsPage />} />
+        <Route path="/risk-analysis" element={<RiskAnalysisPage />} />
+        <Route path="/about"      element={<AboutPage />} />
+        <Route path="*"           element={<NotFound />} />
+      </Routes>
+    </AnimatePresence>
+  );
+};
+
+const NotFound = () => (
+  <div className="flex flex-col items-center justify-center min-h-[60vh] font-mono text-text-secondary">
+    <div className="text-6xl font-black text-cyber mb-4">404</div>
+    <div className="text-sm tracking-widest mb-6">PAGE NOT FOUND</div>
+    <a href="/" className="text-cyber hover:underline text-sm">← Return to home</a>
+  </div>
+);
+
+const AppContent = () => {
+  const [booted, setBooted] = useState(false);
+
+  // Skip boot on hot-reload in dev (check sessionStorage)
+  useEffect(() => {
+    const skipped = sessionStorage.getItem('tg-booted');
+    if (skipped) setBooted(true);
+  }, []);
+
+  const handleBootComplete = () => {
+    setBooted(true);
+    sessionStorage.setItem('tg-booted', '1');
+  };
 
   return (
     <>
-      <section id="center">
-        <div className="hero">
-          <img src={heroImg} className="base" width="170" height="179" alt="" />
-          <img src={reactLogo} className="framework" alt="React logo" />
-          <img src={viteLogo} className="vite" alt="Vite logo" />
-        </div>
-        <div>
-          <h1>Get started</h1>
-          <p>
-            Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
-          </p>
-        </div>
-        <button
-          type="button"
-          className="counter"
-          onClick={() => setCount((count) => count + 1)}
-        >
-          Count is {count}
-        </button>
-      </section>
-
-      <div className="ticks"></div>
-
-      <section id="next-steps">
-        <div id="docs">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#documentation-icon"></use>
-          </svg>
-          <h2>Documentation</h2>
-          <p>Your questions, answered</p>
-          <ul>
-            <li>
-              <a href="https://vite.dev/" target="_blank">
-                <img className="logo" src={viteLogo} alt="" />
-                Explore Vite
-              </a>
-            </li>
-            <li>
-              <a href="https://react.dev/" target="_blank">
-                <img className="button-icon" src={reactLogo} alt="" />
-                Learn more
-              </a>
-            </li>
-          </ul>
-        </div>
-        <div id="social">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#social-icon"></use>
-          </svg>
-          <h2>Connect with us</h2>
-          <p>Join the Vite community</p>
-          <ul>
-            <li>
-              <a href="https://github.com/vitejs/vite" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#github-icon"></use>
-                </svg>
-                GitHub
-              </a>
-            </li>
-            <li>
-              <a href="https://chat.vite.dev/" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#discord-icon"></use>
-                </svg>
-                Discord
-              </a>
-            </li>
-            <li>
-              <a href="https://x.com/vite_js" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#x-icon"></use>
-                </svg>
-                X.com
-              </a>
-            </li>
-            <li>
-              <a href="https://bsky.app/profile/vite.dev" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#bluesky-icon"></use>
-                </svg>
-                Bluesky
-              </a>
-            </li>
-          </ul>
-        </div>
-      </section>
-
-      <div className="ticks"></div>
-      <section id="spacer"></section>
+      {!booted && <BootSequence onComplete={handleBootComplete} />}
+      {booted && (
+        <AppShell>
+          <AnimatedRoutes />
+        </AppShell>
+      )}
     </>
-  )
-}
+  );
+};
 
-export default App
+export default function App() {
+  return (
+    <BrowserRouter>
+      <AppProvider>
+        <AppContent />
+      </AppProvider>
+    </BrowserRouter>
+  );
+}

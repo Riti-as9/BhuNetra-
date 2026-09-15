@@ -1,28 +1,36 @@
+# ==============================
+# BhuNetra Git Ignore
+# ==============================
+
 # Dependencies
 node_modules/
 **/node_modules/
 
-# Python
+# Python virtual environments
 venv/
 .venv/
+**/venv/
+**/.venv/
+
+# Python cache
 __pycache__/
 **/__pycache__/
 *.py[cod]
+.pytest_cache/
+.mypy_cache/
 
-# Environment files
+# Environment / secrets
 .env
 .env.*
 !.env.example
+frontend/.env
+backend/.env
 
 # Frontend build
 dist/
 **/dist/
 .vite/
 **/.vite/
-
-# Python caches
-.pytest_cache/
-.mypy_cache/
 
 # IDE
 .vscode/
@@ -35,6 +43,26 @@ Thumbs.db
 # Logs
 *.log
 
-# ML generated models
+# Temporary / backup files
+*backup*
+*backup.*
+*before-*
+*encoding-backup*
+*.bak
+*.tmp
+
+# Large raw GIS / DEM data
+backend/data/raw/
+data/raw/
+
+# Large temporary datasets
+**/*_backup.*
+**/*_before_*.*
+**/*_snapshot_backup.*
+
+# Keep trained XGBoost presentation model
+!backend/ml/models/
+!backend/ml/models/*.joblib
+
+# Don't commit old generated models
 *.pkl
-*.joblib
