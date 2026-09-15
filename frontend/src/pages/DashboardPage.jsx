@@ -45,8 +45,7 @@ const DataFlowNetwork = lazy(() =>
 );
 
 const API =
-  import.meta.env.VITE_API_URL ||
-  'http://127.0.0.1:8000/api/v1';
+  import.meta.env.VITE_API_URL || 'http://127.0.0.1:8000/api/v1';
 
 const TerminalFallback = () => (
   <div className="h-full flex items-center justify-center bg-[#070b10]">

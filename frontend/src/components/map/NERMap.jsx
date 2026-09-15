@@ -12,8 +12,7 @@ import { getRiskColor } from "../../utils/riskUtils";
 import { useLocation } from "../../context/LocationContext";
 
 const API_BASE =
-  import.meta.env.VITE_API_URL ||
-  "http://127.0.0.1:8000/api/v1";
+  import.meta.env.VITE_API_URL || "http://127.0.0.1:8000/api/v1"
 
 const NER_CENTER = [26.2, 92.8];
 
